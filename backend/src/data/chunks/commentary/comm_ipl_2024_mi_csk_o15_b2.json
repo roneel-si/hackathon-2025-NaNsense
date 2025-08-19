@@ -1,0 +1,22 @@
+{
+    "id": "comm_ipl_2024_mi_csk_2024-04-21_o15_b2",
+    "type": "commentary",
+    "sport": "cricket",
+    "league": "IPL",
+    "season": 2024,
+    "match_id": "ipl_2024_mi_csk_2024-04-21",
+    "innings": 1,
+    "over": 15,
+    "ball": 2,
+    "batting_team": "MI",
+    "bowling_team": "CSK",
+    "batter": "Suryakumar Yadav",
+    "bowler": "Jasprit Bumrah",
+    "runs_off_bat": 4,
+    "extras": 0,
+    "wicket": null,
+    "text": "Bumrah angles in, Surya carves past point for four.",
+    "timestamp": "2024-04-21T16:42:00Z",
+    "source_url": "https://example.com/match/..."
+  }
+  

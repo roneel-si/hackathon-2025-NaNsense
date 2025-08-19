@@ -1,0 +1,12 @@
+{
+    "id": "tstats_team_mi_ipl_2024",
+    "type": "team_stats",
+    "team": "MI",
+    "league": "IPL",
+    "season": 2024,
+    "summary": { "wins": 7, "losses": 7, "nr": 0, "nrr": 0.123 },
+    "highest_total": { "runs": 232, "opponent": "RCB", "date": "2024-04-10" },
+    "lowest_defended": { "runs": 148, "opponent": "SRH", "date": "2024-05-01" },
+    "source_url": "https://example.com/teams/mi/2024"
+  }
+  

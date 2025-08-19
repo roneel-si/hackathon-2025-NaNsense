@@ -1,0 +1,15 @@
+{
+    "id": "match_ipl_2024_mi_csk_2024-04-21",
+    "type": "match_info",
+    "league": "IPL",
+    "season": 2024,
+    "match_id": "ipl_2024_mi_csk_2024-04-21",
+    "date": "2024-04-21",
+    "venue": "Wankhede Stadium, Mumbai",
+    "teams": ["MI", "CSK"],
+    "toss_winner": "MI",
+    "toss_decision": "bat",
+    "result": { "winner": "CSK", "margin": "5 wickets", "method": "normal" },
+    "source_url": "https://example.com/matchinfo/..."
+  }
+  

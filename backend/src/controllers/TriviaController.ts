@@ -2,7 +2,7 @@ import { FastifyRequest, FastifyReply } from 'fastify'
 import { TriviaService } from '../services/TriviaService'
 
 export interface TriviaController {
-  getSportsTrivia(request: FastifyRequest, reply: FastifyReply): Promise<void>
+  generateSportsTrivia(request: FastifyRequest, reply: FastifyReply): Promise<void>
 }
 
 interface Dependencies {
@@ -11,16 +11,31 @@ interface Dependencies {
 
 export function createTriviaController({ triviaService }: Dependencies): TriviaController {
   return {
-    async getSportsTrivia(request: FastifyRequest, reply: FastifyReply): Promise<void> {
+    async generateSportsTrivia(request: FastifyRequest, reply: FastifyReply): Promise<void> {
       try {
-        const triviaData = await triviaService.getSportsTrivia()
+        const body = request.body as any;
+        const prompt = body?.prompt;
         
-        reply.code(200).send(triviaData)
+        if (!prompt || typeof prompt !== 'string' || prompt.trim().length === 0) {
+          reply.code(400).send({
+            success: false,
+            error: 'Prompt is required and must be a non-empty string'
+          });
+          return;
+        }
+
+        const triviaData = await triviaService.generateSportsTrivia(prompt.trim());
+        
+        reply.code(200).send({
+          success: true,
+          ...triviaData
+        });
       } catch (error) {
+        console.error('Controller error:', error);
         reply.code(500).send({
           success: false,
           error: error instanceof Error ? error.message : 'Internal server error'
-        })
+        });
       }
     }
   }
