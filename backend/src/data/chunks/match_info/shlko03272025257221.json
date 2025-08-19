@@ -1,0 +1,16 @@
+{
+  "id": "shlko03272025257221",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "shlko03272025257221",
+  "date": "2025-03-27",
+  "venue": "Rajiv Gandhi International Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

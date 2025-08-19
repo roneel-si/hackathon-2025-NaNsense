@@ -1,0 +1,16 @@
+{
+  "id": "midd05212025260865",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "midd05212025260865",
+  "date": "2025-05-21",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

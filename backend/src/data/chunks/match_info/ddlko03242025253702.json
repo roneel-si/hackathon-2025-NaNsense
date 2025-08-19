@@ -1,0 +1,16 @@
+{
+  "id": "ddlko03242025253702",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ddlko03242025253702",
+  "date": "2025-03-24",
+  "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

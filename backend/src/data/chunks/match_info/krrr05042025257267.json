@@ -1,0 +1,16 @@
+{
+  "id": "krrr05042025257267",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "krrr05042025257267",
+  "date": "2025-05-04",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

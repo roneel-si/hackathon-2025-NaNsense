@@ -1,0 +1,16 @@
+{
+  "id": "ahmmi05302025260873",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ahmmi05302025260873",
+  "date": "2025-05-30",
+  "venue": "Maharaja Yadavindra Singh International Cricket Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

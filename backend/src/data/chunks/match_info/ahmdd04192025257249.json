@@ -1,0 +1,16 @@
+{
+  "id": "ahmdd04192025257249",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ahmdd04192025257249",
+  "date": "2025-04-19",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

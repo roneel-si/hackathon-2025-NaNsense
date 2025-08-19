@@ -1,0 +1,16 @@
+{
+  "id": "shkr05252025260869",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "shkr05252025260869",
+  "date": "2025-05-25",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

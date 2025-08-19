@@ -1,0 +1,16 @@
+{
+  "id": "bcrr04242025257256",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "bcrr04242025257256",
+  "date": "2025-04-24",
+  "venue": "M.Chinnaswamy Stadium",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bengaluru"
+  }
+}

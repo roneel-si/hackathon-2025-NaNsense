@@ -1,0 +1,16 @@
+{
+  "id": "krlko04082025257233",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "krlko04082025257233",
+  "date": "2025-04-08",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kpkr04152025257245",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "kpkr04152025257245",
+  "date": "2025-04-15",
+  "venue": "Maharaja Yadavindra Singh International Cricket Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

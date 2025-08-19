@@ -1,0 +1,16 @@
+{
+  "id": "cksh04252025257257",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "cksh04252025257257",
+  "date": "2025-04-25",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

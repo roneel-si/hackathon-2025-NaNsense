@@ -1,0 +1,16 @@
+{
+  "id": "kpdd05242025260896",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "kpdd05242025260896",
+  "date": "2025-05-24",
+  "venue": "Sawai Mansingh Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

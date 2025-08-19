@@ -1,0 +1,16 @@
+{
+  "id": "rrahm04282025257261",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "rrahm04282025257261",
+  "date": "2025-04-28",
+  "venue": "Sawai Mansingh Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

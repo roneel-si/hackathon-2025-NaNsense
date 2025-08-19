@@ -1,0 +1,16 @@
+{
+  "id": "bcdd04102025257238",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "bcdd04102025257238",
+  "date": "2025-04-10",
+  "venue": "M.Chinnaswamy Stadium",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

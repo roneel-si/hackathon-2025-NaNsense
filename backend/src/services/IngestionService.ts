@@ -17,7 +17,17 @@ const TYPE_DIRS = {
 
 async function main(tournamentIds: number[]) {
 	let teams: string[] = [];
-	let matchIds: string[] = [];
+	let matches: {
+		game_id: string;
+		league_code: string;
+		participants: {
+			id: string;
+			name: string;
+		}[];
+		venue_name: string;
+		highlight: string;
+		start_date: string;
+	}[] = [];
 	for (const tournamentId of tournamentIds) {
 		const API = `${API_DOMAIN}/default.aspx?methodtype=3&client=${MULTISPORT_CLIENT_ID}&sport=1&league=0&timezone=0530&language=en&tournament=${tournamentId}`;
 		try {
@@ -25,7 +35,7 @@ async function main(tournamentIds: number[]) {
 
 			const data = await response.json();
 			data.matches.forEach((match: any) => {
-				matchIds.push(match.game_id);
+				matches.push(match);
 				match.participants.forEach((participant: any) => {
 					if (!teams.includes(participant.id)) {
 						teams.push(participant.id);
@@ -87,6 +97,30 @@ async function main(tournamentIds: number[]) {
 		fs.writeFileSync(
 			path.join(DATA_DIR, "team_profile", `tprofile_${team}.json`),
 			JSON.stringify(teamNode, null, 2),
+		);
+	}
+
+	for (const match of matches) {
+		let year = match.start_date.split("-")[0];
+		let matchNode = {
+			id: match.game_id,
+			type: "match_info",
+			league: match.league_code,
+			season: parseInt(year),
+			match_id: match.game_id,
+			date: match.start_date.split("T")[0],
+			venue: match.venue_name.split(",")[0],
+			teams: [match.participants[0].name, match.participants[1].name],
+			result: {
+				winner: match.participants.find(
+					(participant: any) => participant.highlight === "true",
+				)?.name,
+			},
+		};
+
+		fs.writeFileSync(
+			path.join(DATA_DIR, "match_info", `${match.game_id}.json`),
+			JSON.stringify(matchNode, null, 2),
 		);
 	}
 }

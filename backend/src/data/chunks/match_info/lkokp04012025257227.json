@@ -1,0 +1,16 @@
+{
+  "id": "lkokp04012025257227",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "lkokp04012025257227",
+  "date": "2025-04-01",
+  "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

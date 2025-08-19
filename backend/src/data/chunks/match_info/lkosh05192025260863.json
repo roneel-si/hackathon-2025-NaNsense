@@ -1,0 +1,16 @@
+{
+  "id": "lkosh05192025260863",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "lkosh05192025260863",
+  "date": "2025-05-19",
+  "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

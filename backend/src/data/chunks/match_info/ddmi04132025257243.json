@@ -1,0 +1,16 @@
+{
+  "id": "ddmi04132025257243",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ddmi04132025257243",
+  "date": "2025-04-13",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ahmlko05222025260866",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ahmlko05222025260866",
+  "date": "2025-05-22",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

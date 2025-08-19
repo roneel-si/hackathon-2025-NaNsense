@@ -1,0 +1,16 @@
+{
+  "id": "kpmi05262025260870",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "kpmi05262025260870",
+  "date": "2025-05-26",
+  "venue": "Sawai Mansingh Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kpck04082025257236",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "kpck04082025257236",
+  "date": "2025-04-08",
+  "venue": "Maharaja Yadavindra Singh International Cricket Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

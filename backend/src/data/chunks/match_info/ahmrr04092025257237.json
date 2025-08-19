@@ -1,0 +1,16 @@
+{
+  "id": "ahmrr04092025257237",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ahmrr04092025257237",
+  "date": "2025-04-09",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rrkr03262025257220",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "rrkr03262025257220",
+  "date": "2025-03-26",
+  "venue": "Barsapara Cricket Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

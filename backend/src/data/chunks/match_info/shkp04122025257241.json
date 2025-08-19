@@ -1,0 +1,16 @@
+{
+  "id": "shkp04122025257241",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "shkp04122025257241",
+  "date": "2025-04-12",
+  "venue": "Rajiv Gandhi International Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

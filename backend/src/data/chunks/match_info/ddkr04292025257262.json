@@ -1,0 +1,16 @@
+{
+  "id": "ddkr04292025257262",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ddkr04292025257262",
+  "date": "2025-04-29",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

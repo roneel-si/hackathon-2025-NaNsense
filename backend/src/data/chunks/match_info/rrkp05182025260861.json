@@ -1,0 +1,16 @@
+{
+  "id": "rrkp05182025260861",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "rrkp05182025260861",
+  "date": "2025-05-18",
+  "venue": "Sawai Mansingh Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

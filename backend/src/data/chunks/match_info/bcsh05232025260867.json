@@ -1,0 +1,16 @@
+{
+  "id": "bcsh05232025260867",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "bcsh05232025260867",
+  "date": "2025-05-23",
+  "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

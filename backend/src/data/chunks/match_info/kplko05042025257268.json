@@ -1,0 +1,16 @@
+{
+  "id": "kplko05042025257268",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "kplko05042025257268",
+  "date": "2025-05-04",
+  "venue": "Himachal Pradesh Cricket Association Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

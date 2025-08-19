@@ -1,0 +1,16 @@
+{
+  "id": "rrck03302025257225",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "rrck03302025257225",
+  "date": "2025-03-30",
+  "venue": "Barsapara Cricket Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

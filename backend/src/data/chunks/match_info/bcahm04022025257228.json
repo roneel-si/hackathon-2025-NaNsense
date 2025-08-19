@@ -1,0 +1,16 @@
+{
+  "id": "bcahm04022025257228",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "bcahm04022025257228",
+  "date": "2025-04-02",
+  "venue": "M.Chinnaswamy Stadium",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}
