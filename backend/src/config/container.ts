@@ -6,6 +6,8 @@ import { createUserService } from '../services/UserService'
 import { createUserRepository } from '../repositories/UserRepository'
 import { createHealthController } from '../controllers/HealthController'
 import { createUserController } from '../controllers/UserController'
+import { createTriviaService } from '../services/TriviaService'
+import { createTriviaController } from '../controllers/TriviaController'
 
 export const containerConfig = {
   // Manually register dependencies
@@ -13,6 +15,8 @@ export const containerConfig = {
   userService: asFunction(createUserService).singleton(),
   healthController: asFunction(createHealthController).singleton(),
   userController: asFunction(createUserController).singleton(),
+  triviaService: asFunction(createTriviaService).singleton(),
+  triviaController: asFunction(createTriviaController).singleton(),
 }
 
 // Alternative: Auto-discovery configuration (commented out for now)

@@ -9,9 +9,16 @@ const rootRoutes: FastifyPluginAsync = async (fastify) => {
       endpoints: {
         health: '/health',
         readiness: '/readiness', 
-        users: '/users'
+        users: '/users',
+        trivia: '/fetch-sports-trivia'
       }
     }
+  })
+  
+  // POST /fetch-sports-trivia
+  fastify.post('/fetch-sports-trivia', async (request, reply) => {
+    const { triviaController } = fastify.diContainer.cradle
+    return triviaController.getSportsTrivia(request, reply)
   })
 }
 

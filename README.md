@@ -1,94 +1,124 @@
-# Backend Service
+# Sports Trivia API
 
-A TypeScript Node.js backend service with a clean architecture pattern.
-
-## Project Structure
-
-```
-backend/
-├── src/
-│   ├── config/             # Application configuration
-│   │   └── container.ts    # Dependency injection container
-│   ├── controllers/        # Request handlers
-│   │   ├── HealthController.ts
-│   │   └── UserController.ts
-│   ├── repositories/       # Data access layer
-│   │   └── UserRepository.ts
-│   ├── routes/             # API route definitions
-│   │   ├── health/         # Health check endpoints
-│   │   ├── readiness/      # Readiness check endpoints
-│   │   ├── users/          # User-related endpoints
-│   │   └── index.ts        # Route aggregation
-│   ├── services/           # Business logic layer
-│   │   ├── ExampleService.ts
-│   │   └── UserService.ts
-│   ├── shared/             # Shared utilities and helpers
-│   │   ├── app/
-│   │   │   └── request-context.ts
-│   │   └── utils/
-│   │       ├── error-handler.ts
-│   │       ├── logger-config.ts
-│   │       └── logger.ts
-│   ├── types/              # TypeScript type definitions
-│   │   └── container.ts
-│   └── index.ts            # Application entry point
-├── package.json
-├── package-lock.json
-└── tsconfig.json
-```
-
-## Architecture
-
-This backend follows a layered architecture:
-
-- **Controllers**: Handle HTTP requests and responses
-- **Services**: Implement business logic
-- **Repositories**: Handle data access and persistence
-- **Routes**: Define API endpoints and connect them to controllers
-- **Config**: Application configuration and dependency injection
-- **Shared**: Utilities and helpers shared across the application
+A Node.js API built with Fastify that provides sports trivia questions.
 
 ## Getting Started
 
 ### Prerequisites
 
 - Node.js (v14 or higher)
-- npm or yarn
+- npm
 
 ### Installation
 
+1. Clone the repository
+2. Navigate to the project directory:
+
 ```bash
-# Install dependencies
+cd backend/backend
+```
+
+3. Install dependencies:
+
+```bash
 npm install
+```
 
-# Start development server
+### Running the Server
+
+#### Development Mode
+
+To start the server in development mode with hot reloading:
+
+```bash
 npm run dev
+```
 
-# Build for production
+The server will start on http://127.0.0.1:3001
+
+#### Production Mode
+
+To build and run the server in production mode:
+
+```bash
 npm run build
-
-# Start production server
 npm start
 ```
 
 ## API Endpoints
 
-- `/health` - Health check endpoint
-- `/readiness` - Readiness check endpoint
-- `/users` - User management endpoints
+### Fetch Sports Trivia
 
-## Dependencies
+Retrieves a list of sports trivia questions with multiple-choice options.
 
-The project uses:
-- TypeScript for type-safe code
-- Express.js for the web server
-- Dependency injection for better testability
-- Structured logging
+- **URL**: `/fetch-sports-trivia`
+- **Method**: `POST`
+- **Content-Type**: `application/json`
+- **Request Body**: Empty object `{}`
 
-## Development
+#### Example Request
 
-This project follows standard TypeScript best practices with a focus on:
-- Clean architecture principles
-- Dependency injection
-- Type safety
-- Testability
+```bash
+curl -X POST http://127.0.0.1:3001/fetch-sports-trivia -H "Content-Type: application/json" -d '{}'
+```
+
+#### Example Response
+
+```json
+{
+  "data": [
+    {
+      "Question": "who was the last captain to win all cricket tournaments?",
+      "Options": [
+        "MS Dhoni",
+        "Virat Kohli",
+        "Rohit Sharma",
+        "AB de Villiers"
+      ],
+      "multipleChoice": false,
+      "Answer": ["MS Dhoni"]
+    },
+    {
+      "Question": "Mumbai indians won the IPL in 2013, 2015, 2017, 2019, 2020, 2021, 2022, 2023, 2024, 2025",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "multipleChoice": false,
+      "Answer": ["True"]
+    },
+    {
+      "Question": "Captains that have won the IPL",
+      "Options": [
+        "MS Dhoni",
+        "Virat Kohli",
+        "Rohit Sharma",
+        "AB de Villiers"
+      ],
+      "multipleChoice": true,
+      "Answer": ["MS Dhoni", "Rohit Sharma"]
+    }
+  ]
+}
+```
+
+## Other Available Endpoints
+
+- `GET /` - Root endpoint
+- `GET /health` - Health check
+- `GET /readiness` - Readiness check
+- `GET /users` - Get all users
+- `GET /users/:id` - Get user by ID
+- `POST /users` - Create new user
+- `PUT /users/:id` - Update user
+- `DELETE /users/:id` - Delete user
+
+## Project Structure
+
+- `src/controllers/` - Request handlers
+- `src/services/` - Business logic
+- `src/repositories/` - Data access
+- `src/routes/` - API routes
+- `src/config/` - Configuration files
+- `src/shared/` - Shared utilities
+- `src/types/` - TypeScript type definitions
