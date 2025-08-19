@@ -1,5 +1,4 @@
 import { asFunction } from 'awilix'
-import path from 'path'
 
 // Import factory functions
 import { createUserService } from '../services/UserService'
