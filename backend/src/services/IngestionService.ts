@@ -72,6 +72,7 @@ async function main(tournamentIds: number[]) {
 			.trim(); // Remove leading/trailing whitespace
 
 		let teamNode = {
+			type: "team_profile",
 			team_name: data.team_profile.team_display_name,
 			team_id: data.team_profile.id,
 			owner: data.team_profile.owner,
