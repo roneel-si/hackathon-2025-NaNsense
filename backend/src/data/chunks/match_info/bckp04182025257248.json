@@ -1,0 +1,16 @@
+{
+  "id": "bckp04182025257248",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "bckp04182025257248",
+  "date": "2025-04-18",
+  "venue": "M.Chinnaswamy Stadium",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

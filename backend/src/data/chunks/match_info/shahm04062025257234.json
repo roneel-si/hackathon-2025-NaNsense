@@ -1,0 +1,16 @@
+{
+  "id": "shahm04062025257234",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "shahm04062025257234",
+  "date": "2025-04-06",
+  "venue": "Rajiv Gandhi International Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

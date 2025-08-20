@@ -1,0 +1,16 @@
+{
+  "id": "ddrr04162025257246",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ddrr04162025257246",
+  "date": "2025-04-16",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

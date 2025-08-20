@@ -1,0 +1,16 @@
+{
+  "id": "ahmck05252025260868",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ahmck05252025260868",
+  "date": "2025-05-25",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

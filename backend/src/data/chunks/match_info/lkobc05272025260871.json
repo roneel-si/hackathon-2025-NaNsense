@@ -1,0 +1,16 @@
+{
+  "id": "lkobc05272025260871",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "lkobc05272025260871",
+  "date": "2025-05-27",
+  "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Royal Challengers Bengaluru"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bengaluru"
+  }
+}

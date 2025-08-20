@@ -1,0 +1,16 @@
+{
+  "id": "mibc04072025257235",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "mibc04072025257235",
+  "date": "2025-04-07",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Royal Challengers Bengaluru"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bengaluru"
+  }
+}

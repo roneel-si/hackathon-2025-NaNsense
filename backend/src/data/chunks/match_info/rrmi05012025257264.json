@@ -1,0 +1,16 @@
+{
+  "id": "rrmi05012025257264",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "rrmi05012025257264",
+  "date": "2025-05-01",
+  "venue": "Sawai Mansingh Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

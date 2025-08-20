@@ -1,0 +1,16 @@
+{
+  "id": "ddahm05182025260862",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ddahm05182025260862",
+  "date": "2025-05-18",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

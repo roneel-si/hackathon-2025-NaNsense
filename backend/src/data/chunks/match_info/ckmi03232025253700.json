@@ -1,0 +1,16 @@
+{
+  "id": "ckmi03232025253700",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ckmi03232025253700",
+  "date": "2025-03-23",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

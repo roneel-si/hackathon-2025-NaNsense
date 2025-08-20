@@ -1,0 +1,16 @@
+{
+  "id": "lkodd04222025257254",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "lkodd04222025257254",
+  "date": "2025-04-22",
+  "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ckbc03282025257222",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ckbc03282025257222",
+  "date": "2025-03-28",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Royal Challengers Bengaluru"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bengaluru"
+  }
+}

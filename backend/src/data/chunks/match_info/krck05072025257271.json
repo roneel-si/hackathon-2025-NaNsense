@@ -1,0 +1,16 @@
+{
+  "id": "krck05072025257271",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "krck05072025257271",
+  "date": "2025-05-07",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

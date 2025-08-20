@@ -1,0 +1,12 @@
+{
+    "id": "pstats_rohit_sharma_ipl",
+    "type": "player_stats",
+    "player": "Rohit Sharma",
+    "league": "IPL",
+    "career": { "matches": 243, "runs": 6211, "strike_rate": 130.9, "avg": 30.4, "fifties": 42, "hundreds": 2 },
+    "by_season": [
+      { "season": 2024, "matches": 14, "runs": 410, "sr": 145.1, "avg": 31.5, "hs": 92 }
+    ],
+    "source_url": "https://example.com/stats/rohit-sharma-ipl"
+  }
+  

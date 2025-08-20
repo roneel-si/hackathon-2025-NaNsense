@@ -1,0 +1,16 @@
+{
+  "id": "ckdd04052025257231",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ckdd04052025257231",
+  "date": "2025-04-05",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

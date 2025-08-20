@@ -1,0 +1,16 @@
+{
+  "id": "krsh04032025257229",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "krsh04032025257229",
+  "date": "2025-04-03",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

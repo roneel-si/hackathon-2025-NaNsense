@@ -1,0 +1,16 @@
+{
+  "id": "ahmmi03292025257223",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ahmmi03292025257223",
+  "date": "2025-03-29",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

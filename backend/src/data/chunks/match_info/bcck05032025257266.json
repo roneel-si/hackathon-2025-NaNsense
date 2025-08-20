@@ -1,0 +1,16 @@
+{
+  "id": "bcck05032025257266",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "bcck05032025257266",
+  "date": "2025-05-03",
+  "venue": "M.Chinnaswamy Stadium",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bengaluru"
+  }
+}

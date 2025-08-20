@@ -1,0 +1,16 @@
+{
+  "id": "ckkp04302025257263",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ckkp04302025257263",
+  "date": "2025-04-30",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

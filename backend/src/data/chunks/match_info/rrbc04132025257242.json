@@ -1,0 +1,16 @@
+{
+  "id": "rrbc04132025257242",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "rrbc04132025257242",
+  "date": "2025-04-13",
+  "venue": "Sawai Mansingh Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Royal Challengers Bengaluru"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bengaluru"
+  }
+}

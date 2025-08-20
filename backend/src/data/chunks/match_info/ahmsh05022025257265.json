@@ -1,0 +1,16 @@
+{
+  "id": "ahmsh05022025257265",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ahmsh05022025257265",
+  "date": "2025-05-02",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

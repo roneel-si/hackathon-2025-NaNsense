@@ -1,0 +1,16 @@
+{
+  "id": "kpbc04202025257251",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "kpbc04202025257251",
+  "date": "2025-04-20",
+  "venue": "Maharaja Yadavindra Singh International Cricket Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Royal Challengers Bengaluru"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bengaluru"
+  }
+}

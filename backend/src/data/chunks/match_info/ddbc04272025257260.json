@@ -1,0 +1,16 @@
+{
+  "id": "ddbc04272025257260",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2025,
+  "match_id": "ddbc04272025257260",
+  "date": "2025-04-27",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Royal Challengers Bengaluru"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bengaluru"
+  }
+}
