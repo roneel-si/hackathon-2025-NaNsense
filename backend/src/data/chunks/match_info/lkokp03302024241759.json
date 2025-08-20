@@ -1,0 +1,16 @@
+{
+  "id": "lkokp03302024241759",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "lkokp03302024241759",
+  "date": "2024-03-30",
+  "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

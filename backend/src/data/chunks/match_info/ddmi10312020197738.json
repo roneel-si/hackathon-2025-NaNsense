@@ -1,0 +1,16 @@
+{
+  "id": "ddmi10312020197738",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "ddmi10312020197738",
+  "date": "2020-10-31",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

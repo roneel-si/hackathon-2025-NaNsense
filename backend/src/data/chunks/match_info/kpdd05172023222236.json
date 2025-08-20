@@ -1,0 +1,16 @@
+{
+  "id": "kpdd05172023222236",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "kpdd05172023222236",
+  "date": "2023-05-17",
+  "venue": "Himachal Pradesh Cricket Association Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ahmkp04042024241768",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "ahmkp04042024241768",
+  "date": "2024-04-04",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

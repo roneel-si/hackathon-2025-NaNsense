@@ -1,0 +1,16 @@
+{
+  "id": "rrbc05222024243077",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "rrbc05222024243077",
+  "date": "2024-05-22",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Royal Challengers Bengaluru"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

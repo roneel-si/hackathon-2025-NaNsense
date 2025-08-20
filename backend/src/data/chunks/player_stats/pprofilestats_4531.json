@@ -1,0 +1,135 @@
+{
+  "id": "pprofilestats_4531",
+  "type": "player_career_stats",
+  "player": "Murali Vijay",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "106",
+        "runs": "2619",
+        "batting_strike_rate": "121.87",
+        "batting_average": "25.93",
+        "fifties": "13",
+        "hundreds": "2",
+        "ducks": "5",
+        "highest_score": "127 v RR",
+        "wickets": "0",
+        "overs": "6",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "8.17",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "0/8 v SRH",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "47",
+        "stumping": "0",
+        "run_outs": "1"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "7467",
+          "date": "March 31, 2010",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Royal Challengers Bangalore by 5 wickets"
+        },
+        {
+          "match_id": "7593",
+          "date": "April 3, 2010",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Rajasthan Royals by 23 runs"
+        },
+        {
+          "match_id": "91792",
+          "date": "May 9, 2011",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "Sawai Mansingh Stadium, Jaipur",
+          "venue_id": "139",
+          "match_result": "Chennai Super Kings beat Rajasthan Royals by 63 runs"
+        },
+        {
+          "match_id": "91814",
+          "date": "May 28, 2011",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Royal Challengers Bangalore by 58 runs"
+        },
+        {
+          "match_id": "92522",
+          "date": "May 25, 2012",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Delhi Daredevils by 86 runs"
+        },
+        {
+          "match_id": "175887",
+          "date": "April 27, 2014",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Sharjah Cricket Stadium, Sharjah",
+          "venue_id": "143",
+          "match_result": "Delhi Daredevils beat Mumbai Indians by 6 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "197694",
+          "batting_score": "10(15)",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "September 25, 2020"
+        },
+        {
+          "match_id": "197691",
+          "batting_score": "21(21)",
+          "bowling_score": "-",
+          "opponent": "Rajasthan Royals",
+          "date": "September 22, 2020"
+        },
+        {
+          "match_id": "197688",
+          "batting_score": "1(7)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "September 19, 2020"
+        },
+        {
+          "match_id": "190605",
+          "batting_score": "26(26)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 7, 2019"
+        },
+        {
+          "match_id": "190315",
+          "batting_score": "38(35)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "April 26, 2019"
+        }
+      ],
+      "captaincy": {
+        "matches": "8",
+        "win": "3",
+        "lose": "5",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "37.5",
+        "loss_percentage": "62.5"
+      }
+    }
+  ]
+}

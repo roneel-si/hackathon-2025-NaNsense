@@ -1,0 +1,43 @@
+{
+  "id": "pprofile_35128",
+  "type": "player_bio",
+  "player": "David Willey",
+  "full_name": "David Jonathan Willey",
+  "dob": "February 28, 1990",
+  "role": "All-Rounder",
+  "batting_style": "Left Handed",
+  "bowling_style": "Left-arm fast medium",
+  "teams": [
+    "England",
+    "England XI",
+    "Northamptonshire",
+    "Yorkshire",
+    "Royal Challengers Bengaluru",
+    "Chennai Super Kings",
+    "England Under-19",
+    "Perth Scorchers",
+    "Sydney Thunder",
+    "England Lions",
+    "Rangpur Riders",
+    "Islamabad United",
+    "Quetta Gladiators",
+    "Pakhtoons",
+    "Multan Sultans",
+    "Delhi Bulls",
+    "Northern Superchargers",
+    "Trent Rockets",
+    "Welsh Fire",
+    "Lucknow Super Giants",
+    "Morrisville Samp Army",
+    "Durban's Super Giants",
+    "Abu Dhabi Knight Riders",
+    "Cape Town Samp Army"
+  ],
+  "bio": "",
+  "nationality": "England",
+  "career_span": {
+    "Test": "",
+    "ODI": "2015-2023",
+    "IPL": "2018-2023"
+  }
+}

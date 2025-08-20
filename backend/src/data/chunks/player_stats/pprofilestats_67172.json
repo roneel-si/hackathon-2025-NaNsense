@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_67172",
+  "type": "player_career_stats",
+  "player": "Suyash Prabhudessai",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "11",
+        "runs": "126",
+        "batting_strike_rate": "118.86",
+        "batting_average": "12.60",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "34 v CSK",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "5",
+        "stumping": "0",
+        "run_outs": "1"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "243038",
+          "batting_score": "24(18)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Apr 21, 2024"
+        },
+        {
+          "match_id": "222215",
+          "batting_score": "6(7)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 01, 2023"
+        },
+        {
+          "match_id": "222208",
+          "batting_score": "10(9)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Apr 26, 2023"
+        },
+        {
+          "match_id": "222204",
+          "batting_score": "0(2)",
+          "bowling_score": "-",
+          "opponent": "Rajasthan Royals",
+          "date": "Apr 23, 2023"
+        },
+        {
+          "match_id": "222199",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "Apr 20, 2023"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

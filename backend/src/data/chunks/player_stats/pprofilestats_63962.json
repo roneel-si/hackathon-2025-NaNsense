@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_63962",
+  "type": "player_career_stats",
+  "player": "Sarfaraz Khan",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "50",
+        "runs": "585",
+        "batting_strike_rate": "130.58",
+        "batting_average": "22.5",
+        "fifties": "1",
+        "hundreds": "0",
+        "ducks": "3",
+        "highest_score": "67 v CSK",
+        "wickets": "0",
+        "overs": "0.2",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "18.00",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "0/6 v RCB",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "10",
+        "stumping": "0",
+        "run_outs": "2"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "222212",
+          "batting_score": "9(10)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "April 29, 2023"
+        },
+        {
+          "match_id": "222206",
+          "batting_score": "10(9)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "April 24, 2023"
+        },
+        {
+          "match_id": "222176",
+          "batting_score": "30(34)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "April 4, 2023"
+        },
+        {
+          "match_id": "219156",
+          "batting_score": "4(9)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "April 1, 2023"
+        },
+        {
+          "match_id": "210533",
+          "batting_score": "10(7)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 21, 2022"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

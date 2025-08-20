@@ -1,0 +1,16 @@
+{
+  "id": "krlko04142024243030",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "krlko04142024243030",
+  "date": "2024-04-14",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

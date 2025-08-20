@@ -1,0 +1,16 @@
+{
+  "id": "miahm05122023222229",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "miahm05122023222229",
+  "date": "2023-05-12",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

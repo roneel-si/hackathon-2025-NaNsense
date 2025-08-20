@@ -1,0 +1,16 @@
+{
+  "id": "ckkr10152021204199",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "ckkr10152021204199",
+  "date": "2021-10-15",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

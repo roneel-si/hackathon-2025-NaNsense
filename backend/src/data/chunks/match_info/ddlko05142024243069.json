@@ -1,0 +1,16 @@
+{
+  "id": "ddlko05142024243069",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "ddlko05142024243069",
+  "date": "2024-05-14",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

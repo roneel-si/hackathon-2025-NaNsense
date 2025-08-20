@@ -1,0 +1,16 @@
+{
+  "id": "mish05062024243060",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "mish05062024243060",
+  "date": "2024-05-06",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

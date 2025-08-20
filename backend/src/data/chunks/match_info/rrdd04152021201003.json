@@ -1,0 +1,16 @@
+{
+  "id": "rrdd04152021201003",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "rrdd04152021201003",
+  "date": "2021-04-15",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

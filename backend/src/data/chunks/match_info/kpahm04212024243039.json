@@ -1,0 +1,16 @@
+{
+  "id": "kpahm04212024243039",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "kpahm04212024243039",
+  "date": "2024-04-21",
+  "venue": "Maharaja Yadavindra Singh International Cricket Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

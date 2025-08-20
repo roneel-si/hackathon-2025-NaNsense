@@ -371,7 +371,14 @@ async function main(tournamentIds: number[]) {
 	}
 }
 
-main([7126])
+// const tourIds = [
+// 	850, 853, 854, 855, 856, 857, 858, 859, 860, 997, 1667, 1824, 2220, 2814,
+// 	4554, 7126
+// ];
+
+const tourIds = [1667, 1824, 2220, 2814, 4554, 7126];
+
+main(tourIds)
 	.then((res) => {
 		console.log("CHUNKS ADDED");
 	})

@@ -1,0 +1,16 @@
+{
+  "id": "mikr10162020197719",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "mikr10162020197719",
+  "date": "2020-10-16",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

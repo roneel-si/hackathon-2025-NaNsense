@@ -1,0 +1,25 @@
+{
+  "id": "pprofile_66455",
+  "type": "player_bio",
+  "player": "Sonu Yadav",
+  "full_name": "Ramsingh Sonu Yadav",
+  "dob": "November 11, 1999",
+  "role": "All Rounder",
+  "batting_style": "Right Handed",
+  "bowling_style": "Right-arm medium fast",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "Tamil Nadu",
+    "Chepauk Super Gillies",
+    "Trichy Grand Cholas",
+    "IDream Tiruppur Tamizhans",
+    "Nellai Royal Kings",
+    "Jolly Rovers CC"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "2023",
+    "ODI": "2022"
+  }
+}

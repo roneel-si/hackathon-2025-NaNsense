@@ -6,111 +6,38 @@
     {
       "league": "IPL",
       "career": {
-        "matches": "117",
-        "runs": "57",
-        "batting_strike_rate": "82.61",
-        "batting_average": "9.5",
-        "fifties": "0",
-        "hundreds": "0",
-        "ducks": "1",
-        "highest_score": "10* v CSK",
-        "wickets": "96",
-        "overs": "403.1",
-        "maidens": "6",
-        "runs_conceded": "96",
-        "economy": "8.38",
-        "bowling_strike_rate": "25.20",
-        "best_bowling_figures": "5/12 v KTK",
-        "three_wicket_hauls": "3",
-        "five_wicket_hauls": "1",
-        "catches": "20",
-        "stumping": "0",
-        "run_outs": "3"
+        "matches": "-",
+        "runs": "-",
+        "batting_strike_rate": "-",
+        "batting_average": "-",
+        "fifties": "-",
+        "hundreds": "-",
+        "ducks": "-",
+        "highest_score": "-",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "-"
       },
-      "man_of_the_matches": [
-        {
-          "match_id": "91772",
-          "date": "April 27, 2011",
-          "opponent": "Kochi Tuskers Kerala",
-          "opponent_id": "1243",
-          "venue": "Nehru Stadium, Kochi",
-          "venue_id": "73",
-          "match_result": "Deccan Chargers beat Kochi Tuskers Kerala by 55 runs"
-        },
-        {
-          "match_id": "172294",
-          "date": "May 1, 2013",
-          "opponent": "Mumbai Indians",
-          "opponent_id": "1111",
-          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-          "venue_id": "158",
-          "match_result": "Sunrisers Hyderabad beat Mumbai Indians by 7 wickets"
-        },
-        {
-          "match_id": "222200",
-          "date": "April 20, 2023",
-          "opponent": "Kolkata Knight Riders",
-          "opponent_id": "1106",
-          "venue": "Arun Jaitley Stadium, Delhi",
-          "venue_id": "54",
-          "match_result": "Delhi Capitals beat Kolkata Knight Riders by 4 wickets"
-        },
-        {
-          "match_id": "243069",
-          "date": "May 14, 2024",
-          "opponent": "Lucknow Super Giants",
-          "opponent_id": "2954",
-          "venue": "Arun Jaitley Stadium, Delhi",
-          "venue_id": "54",
-          "match_result": "Delhi Capitals beat Lucknow Super Giants by 19 runs"
-        }
-      ],
-      "recent_games": [
-        {
-          "match_id": "257265",
-          "batting_score": "DNB",
-          "bowling_score": "1/35",
-          "opponent": "Sunrisers Hyderabad",
-          "date": "May 2, 2025"
-        },
-        {
-          "match_id": "257261",
-          "batting_score": "DNB",
-          "bowling_score": "0/36",
-          "opponent": "Rajasthan Royals",
-          "date": "April 28, 2025"
-        },
-        {
-          "match_id": "257253",
-          "batting_score": "DNB",
-          "bowling_score": "1/18",
-          "opponent": "Kolkata Knight Riders",
-          "date": "April 21, 2025"
-        },
-        {
-          "match_id": "257249",
-          "batting_score": "DNB",
-          "bowling_score": "1/19",
-          "opponent": "Delhi Capitals",
-          "date": "April 19, 2025"
-        },
-        {
-          "match_id": "257234",
-          "batting_score": "DNB",
-          "bowling_score": "0/53",
-          "opponent": "Sunrisers Hyderabad",
-          "date": "April 6, 2025"
-        }
-      ],
+      "man_of_the_matches": [],
+      "recent_games": [],
       "captaincy": {
-        "matches": "0",
-        "win": "0",
-        "lose": "0",
-        "tied": "0",
-        "draw": "0",
-        "no_result": "0",
-        "win_percentage": "0",
-        "loss_percentage": "0"
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
       }
     }
   ]

@@ -1,0 +1,16 @@
+{
+  "id": "ckahm05282023225990",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "ckahm05282023225990",
+  "date": "2023-05-29",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

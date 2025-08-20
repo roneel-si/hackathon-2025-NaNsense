@@ -1,0 +1,99 @@
+{
+  "id": "pprofilestats_11938",
+  "type": "player_career_stats",
+  "player": "Mitchell McClenaghan",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "56",
+        "runs": "85",
+        "batting_strike_rate": "121.43",
+        "batting_average": "6.54",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "6",
+        "highest_score": "20 v KKR",
+        "wickets": "71",
+        "overs": "212.2",
+        "maidens": "1",
+        "runs_conceded": "71",
+        "economy": "8.49",
+        "bowling_strike_rate": "17.94",
+        "best_bowling_figures": "4/21 v GL",
+        "three_wicket_hauls": "7",
+        "five_wicket_hauls": "0",
+        "catches": "1",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "178076",
+          "date": "May 17, 2015",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Mumbai Indians beat Sunrisers Hyderabad by 9 wickets"
+        },
+        {
+          "match_id": "183402",
+          "date": "April 22, 2017",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Mumbai Indians beat Delhi Daredevils by 14 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "190612",
+          "batting_score": "0(2)",
+          "bowling_score": "0/24",
+          "opponent": "Chennai Super Kings",
+          "date": "May 12, 2019"
+        },
+        {
+          "match_id": "190332",
+          "batting_score": "DNB",
+          "bowling_score": "0/19",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 5, 2019"
+        },
+        {
+          "match_id": "189936",
+          "batting_score": "0*(2)",
+          "bowling_score": "0/35",
+          "opponent": "Punjab Kings",
+          "date": "March 30, 2019"
+        },
+        {
+          "match_id": "189934",
+          "batting_score": "1(4)",
+          "bowling_score": "0/24",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "March 28, 2019"
+        },
+        {
+          "match_id": "189312",
+          "batting_score": "10(8)",
+          "bowling_score": "3/40",
+          "opponent": "Delhi Capitals",
+          "date": "March 24, 2019"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

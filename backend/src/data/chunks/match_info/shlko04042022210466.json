@@ -1,0 +1,16 @@
+{
+  "id": "shlko04042022210466",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "shlko04042022210466",
+  "date": "2022-04-04",
+  "venue": "Dr. DY Patil Sports Academy",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ddkr04032024241767",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "ddkr04032024241767",
+  "date": "2024-04-03",
+  "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

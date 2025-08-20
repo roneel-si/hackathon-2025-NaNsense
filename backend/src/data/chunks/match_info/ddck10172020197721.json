@@ -1,0 +1,16 @@
+{
+  "id": "ddck10172020197721",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "ddck10172020197721",
+  "date": "2020-10-17",
+  "venue": "Sharjah Cricket Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

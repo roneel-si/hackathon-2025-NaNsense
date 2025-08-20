@@ -1,0 +1,16 @@
+{
+  "id": "ckkp05012024243054",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "ckkp05012024243054",
+  "date": "2024-05-01",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

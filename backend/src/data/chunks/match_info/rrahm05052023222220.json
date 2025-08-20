@@ -1,0 +1,16 @@
+{
+  "id": "rrahm05052023222220",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "rrahm05052023222220",
+  "date": "2023-05-05",
+  "venue": "Sawai Mansingh Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

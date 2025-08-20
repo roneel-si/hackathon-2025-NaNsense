@@ -1,0 +1,16 @@
+{
+  "id": "kpck04252022210502",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "kpck04252022210502",
+  "date": "2022-04-25",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

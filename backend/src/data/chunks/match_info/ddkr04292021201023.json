@@ -1,0 +1,16 @@
+{
+  "id": "ddkr04292021201023",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "ddkr04292021201023",
+  "date": "2021-04-29",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

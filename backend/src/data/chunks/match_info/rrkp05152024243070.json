@@ -1,0 +1,16 @@
+{
+  "id": "rrkp05152024243070",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "rrkp05152024243070",
+  "date": "2024-05-15",
+  "venue": "Barsapara Cricket Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

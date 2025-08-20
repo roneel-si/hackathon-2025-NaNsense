@@ -1,0 +1,16 @@
+{
+  "id": "krck10072020197708",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "krck10072020197708",
+  "date": "2020-10-07",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "pprofilestats_3674",
+  "type": "player_career_stats",
+  "player": "Dale Steyn",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "95",
+        "runs": "167",
+        "batting_strike_rate": "104.37",
+        "batting_average": "7.59",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "9",
+        "highest_score": "19* v MI",
+        "wickets": "97",
+        "overs": "362.4",
+        "maidens": "7",
+        "runs_conceded": "97",
+        "economy": "6.91",
+        "bowling_strike_rate": "22.43",
+        "best_bowling_figures": "3/8 v RCB",
+        "three_wicket_hauls": "8",
+        "five_wicket_hauls": "0",
+        "catches": "24",
+        "stumping": "0",
+        "run_outs": "3"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "91751",
+          "date": "Apr 14, 2011",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Deccan Chargers beat Royal Challengers Bangalore by 33 runs"
+        },
+        {
+          "match_id": "92474",
+          "date": "Apr 29, 2012",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Mumbai Indians beat Deccan Chargers by 5 wickets"
+        },
+        {
+          "match_id": "92515",
+          "date": "May 18, 2012",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Deccan Chargers beat Rajasthan Royals by 5 wickets"
+        },
+        {
+          "match_id": "92518",
+          "date": "May 20, 2012",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Deccan Chargers beat Royal Challengers Bangalore by 9 runs"
+        },
+        {
+          "match_id": "175949",
+          "date": "May 10, 2014",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Sunrisers Hyderabad beat Delhi Daredevils by 8 wickets (D/L method)"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "197735",
+          "batting_score": "DNB",
+          "bowling_score": "0/43",
+          "opponent": "Mumbai Indians",
+          "date": "Oct 28, 2020"
+        },
+        {
+          "match_id": "197693",
+          "batting_score": "1*(2)",
+          "bowling_score": "0/57",
+          "opponent": "Punjab Kings",
+          "date": "Sep 24, 2020"
+        },
+        {
+          "match_id": "197690",
+          "batting_score": "DNB",
+          "bowling_score": "1/33",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "Sep 21, 2020"
+        },
+        {
+          "match_id": "190300",
+          "batting_score": "0*(0)",
+          "bowling_score": "2/29",
+          "opponent": "Chennai Super Kings",
+          "date": "Apr 21, 2019"
+        },
+        {
+          "match_id": "190293",
+          "batting_score": "DNB",
+          "bowling_score": "2/40",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Apr 19, 2019"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

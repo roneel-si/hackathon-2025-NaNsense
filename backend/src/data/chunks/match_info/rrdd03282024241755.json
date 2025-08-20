@@ -1,0 +1,16 @@
+{
+  "id": "rrdd03282024241755",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "rrdd03282024241755",
+  "date": "2024-03-28",
+  "venue": "Sawai Mansingh Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "krahm04232022210499",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "krahm04232022210499",
+  "date": "2022-04-23",
+  "venue": "Dr. DY Patil Sports Academy",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

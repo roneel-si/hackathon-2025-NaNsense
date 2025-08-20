@@ -1,0 +1,16 @@
+{
+  "id": "ddmi04202021201009",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "ddmi04202021201009",
+  "date": "2021-04-20",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

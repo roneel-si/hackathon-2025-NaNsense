@@ -1,0 +1,16 @@
+{
+  "id": "rrkr04182022210492",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "rrkr04182022210492",
+  "date": "2022-04-18",
+  "venue": "Brabourne Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

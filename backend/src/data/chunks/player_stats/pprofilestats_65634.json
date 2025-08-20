@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_65634",
+  "type": "player_career_stats",
+  "player": "George Garton",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "5",
+        "runs": "2",
+        "batting_strike_rate": "50.00",
+        "batting_average": "2",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "2* v SRH",
+        "wickets": "3",
+        "overs": "15",
+        "maidens": "0",
+        "runs_conceded": "3",
+        "economy": "9.00",
+        "bowling_strike_rate": "30.00",
+        "best_bowling_figures": "1/27 v PBKS",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "1",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "204197",
+          "batting_score": "0*",
+          "bowling_score": "0/29",
+          "opponent": "Kolkata Knight Riders",
+          "date": "October 11, 2021"
+        },
+        {
+          "match_id": "204195",
+          "batting_score": "DNB",
+          "bowling_score": "0/20",
+          "opponent": "Delhi Capitals",
+          "date": "October 8, 2021"
+        },
+        {
+          "match_id": "204191",
+          "batting_score": "2*(3)",
+          "bowling_score": "1/29",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "October 6, 2021"
+        },
+        {
+          "match_id": "204187",
+          "batting_score": "0(1)",
+          "bowling_score": "1/27",
+          "opponent": "Punjab Kings",
+          "date": "October 3, 2021"
+        },
+        {
+          "match_id": "204182",
+          "batting_score": "DNB",
+          "bowling_score": "1/30",
+          "opponent": "Rajasthan Royals",
+          "date": "September 29, 2021"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

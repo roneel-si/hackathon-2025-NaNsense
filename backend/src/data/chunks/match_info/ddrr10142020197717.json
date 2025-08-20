@@ -1,0 +1,16 @@
+{
+  "id": "ddrr10142020197717",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "ddrr10142020197717",
+  "date": "2020-10-14",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

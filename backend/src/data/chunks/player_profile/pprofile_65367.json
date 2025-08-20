@@ -1,0 +1,29 @@
+{
+  "id": "pprofile_65367",
+  "type": "player_bio",
+  "player": "KC Cariappa",
+  "full_name": "Konganda Charamanna Cariappa",
+  "dob": "April 13, 1994",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Leg break",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Punjab Kings",
+    "Rajasthan Royals",
+    "Karnataka",
+    "Shivamogga Lions",
+    "Bijapur Bulls",
+    "Hubli Tigers",
+    "Mizoram",
+    "Bank of Baroda",
+    "Kulai Red Hawks"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": "2015-2019"
+  }
+}

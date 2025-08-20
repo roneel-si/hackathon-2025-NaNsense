@@ -1,0 +1,16 @@
+{
+  "id": "mikp04132022210480",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "mikp04132022210480",
+  "date": "2022-04-13",
+  "venue": "Maharashtra Cricket Association Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

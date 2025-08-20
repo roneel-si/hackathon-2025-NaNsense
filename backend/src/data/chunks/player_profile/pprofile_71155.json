@@ -1,0 +1,29 @@
+{
+  "id": "pprofile_71155",
+  "type": "player_bio",
+  "player": "Hrithik Shokeen",
+  "full_name": "Hrithik Rakesh Shokeen",
+  "dob": "August 14, 2000",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "India A",
+    "India Emerging",
+    "Mumbai Indians",
+    "India Under-19",
+    "Delhi",
+    "India Under-23",
+    "India C",
+    "Reliance 1",
+    "West Delhi Lions",
+    "Sapience"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": "2022-2023"
+  }
+}

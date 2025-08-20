@@ -1,0 +1,16 @@
+{
+  "id": "ahmkr04092023222185",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "ahmkr04092023222185",
+  "date": "2023-04-09",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

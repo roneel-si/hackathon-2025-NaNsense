@@ -1,0 +1,16 @@
+{
+  "id": "rrbc10172020197720",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "rrbc10172020197720",
+  "date": "2020-10-17",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

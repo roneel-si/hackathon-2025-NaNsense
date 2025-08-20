@@ -1,0 +1,16 @@
+{
+  "id": "lkokp04152023222193",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "lkokp04152023222193",
+  "date": "2023-04-15",
+  "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

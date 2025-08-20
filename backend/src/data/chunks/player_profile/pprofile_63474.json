@@ -1,0 +1,33 @@
+{
+  "id": "pprofile_63474",
+  "type": "player_bio",
+  "player": "Siddhesh Lad",
+  "full_name": "Siddhesh Dinesh Lad",
+  "dob": "May 23, 1992",
+  "role": "Batsman",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "India A",
+    "India B",
+    "India Blue",
+    "Indian Board Presidents XI",
+    "India Green",
+    "India Red",
+    "Kolkata Knight Riders",
+    "Mumbai Indians",
+    "Mumbai",
+    "Goa",
+    "Western Wolves",
+    "India Under-23",
+    "Shivaji Park Lions",
+    "Indian Oil",
+    "Mumbai South Central Maratha Royals"
+  ],
+  "bio": "The right-handed middle order batsman from Mumbai has been the Mr. Dependable for his domestic side ever since his debut in 2013. At the age of 21, he impressed one and all scoring impressive fifties in only his second First-Class game, against Delhi. He though was sidelined due to injuries but came back well to have good seasons in 2014-15 and 2015-16. It is his calmness under pressure and temperament which has made him so successful. His ability to bat brilliantly with the tail has been one of the highlights of his career, so far. He scored a vital 88 and stitched a 103-run stand for the 10th wicket which set up Mumbai's victory in the 2015-16 Ranji final. He was picked up by Mumbai in the 2015 edition of the Indian T20 League but is yet to get a game.",
+  "nationality": "India",
+  "career_span": {
+    "Test": "2018",
+    "IPL": "2019"
+  }
+}

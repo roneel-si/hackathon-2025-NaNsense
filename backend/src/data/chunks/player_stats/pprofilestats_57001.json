@@ -1,0 +1,99 @@
+{
+  "id": "pprofilestats_57001",
+  "type": "player_career_stats",
+  "player": "Pawan Negi",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "50",
+        "runs": "365",
+        "batting_strike_rate": "126.29",
+        "batting_average": "14.03",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "3",
+        "highest_score": "36 v MI",
+        "wickets": "34",
+        "overs": "119.2",
+        "maidens": "0",
+        "runs_conceded": "34",
+        "economy": "7.86",
+        "bowling_strike_rate": "21.05",
+        "best_bowling_figures": "4/18 v RR",
+        "three_wicket_hauls": "2",
+        "five_wicket_hauls": "0",
+        "catches": "15",
+        "stumping": "0",
+        "run_outs": "4"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "92481",
+          "date": "May 01, 2012",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "Sawai Mansingh Stadium, Jaipur",
+          "venue_id": "139",
+          "match_result": "Delhi Daredevils beat Rajasthan Royals by 6 wickets"
+        },
+        {
+          "match_id": "178073",
+          "date": "May 16, 2015",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "I.S. Bindra Punjab Cricket Association Stadium, Mohali",
+          "venue_id": "125",
+          "match_result": "Chennai Super Kings beat Kings XI Punjab by 7 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "190325",
+          "batting_score": "4(3)",
+          "bowling_score": "-",
+          "opponent": "Rajasthan Royals",
+          "date": "Apr 30, 2019"
+        },
+        {
+          "match_id": "190300",
+          "batting_score": "5(6)",
+          "bowling_score": "0/7",
+          "opponent": "Chennai Super Kings",
+          "date": "Apr 21, 2019"
+        },
+        {
+          "match_id": "190293",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Apr 19, 2019"
+        },
+        {
+          "match_id": "190281",
+          "batting_score": "0(2)",
+          "bowling_score": "0/47",
+          "opponent": "Mumbai Indians",
+          "date": "Apr 15, 2019"
+        },
+        {
+          "match_id": "190270",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "Apr 13, 2019"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

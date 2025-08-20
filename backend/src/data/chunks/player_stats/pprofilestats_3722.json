@@ -1,0 +1,189 @@
+{
+  "id": "pprofilestats_3722",
+  "type": "player_career_stats",
+  "player": "Shikhar Dhawan",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "222",
+        "runs": "6769",
+        "batting_strike_rate": "127.14",
+        "batting_average": "35.25",
+        "fifties": "51",
+        "hundreds": "2",
+        "ducks": "12",
+        "highest_score": "106* v PBKS",
+        "wickets": "4",
+        "overs": "8",
+        "maidens": "0",
+        "runs_conceded": "4",
+        "economy": "8.25",
+        "bowling_strike_rate": "12.00",
+        "best_bowling_figures": "1/7 v DC",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "99",
+        "stumping": "0",
+        "run_outs": "16"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "91807",
+          "date": "May 21, 2011",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+          "venue_id": "248",
+          "match_result": "Deccan Chargers beat Kings XI Punjab by 82 runs"
+        },
+        {
+          "match_id": "183425",
+          "date": "May 08, 2017",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Sunrisers Hyderabad beat Mumbai Indians by 7 wickets"
+        },
+        {
+          "match_id": "186015",
+          "date": "Apr 09, 2018",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Sunrisers Hyderabad beat Rajasthan Royals by 9 wickets"
+        },
+        {
+          "match_id": "186212",
+          "date": "May 10, 2018",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Sunrisers Hyderabad beat Delhi Daredevils by 9 wickets"
+        },
+        {
+          "match_id": "190266",
+          "date": "Apr 12, 2019",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Delhi Capitals beat Kolkata Knight Riders by 7 wickets"
+        },
+        {
+          "match_id": "190319",
+          "date": "Apr 28, 2019",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Delhi Capitals beat Royal Challengers Bangalore by 16 runs"
+        },
+        {
+          "match_id": "197721",
+          "date": "Oct 17, 2020",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Sharjah Cricket Stadium, Sharjah",
+          "venue_id": "143",
+          "match_result": "Delhi Capitals beat Chennai Super Kings by 5 wickets"
+        },
+        {
+          "match_id": "197725",
+          "date": "Oct 20, 2020",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Dubai International Stadium, Dubai",
+          "venue_id": "449",
+          "match_result": "Kings XI Punjab beat Delhi Capitals by 5 wickets"
+        },
+        {
+          "match_id": "199878",
+          "date": "Apr 10, 2021",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Delhi Capitals beat Chennai Super Kings by 7 wickets"
+        },
+        {
+          "match_id": "201007",
+          "date": "Apr 18, 2021",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Delhi Capitals beat Punjab Kings by 6 wickets"
+        },
+        {
+          "match_id": "210502",
+          "date": "Apr 25, 2022",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Punjab Kings beat Chennai Super Kings by 11 runs"
+        },
+        {
+          "match_id": "222186",
+          "date": "Apr 09, 2023",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Sunrisers Hyderabad beat Punjab Kings by 8 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "243025",
+          "batting_score": "14(16)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "Apr 09, 2024"
+        },
+        {
+          "match_id": "241768",
+          "batting_score": "1(2)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "Apr 04, 2024"
+        },
+        {
+          "match_id": "241759",
+          "batting_score": "70(50)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "Mar 30, 2024"
+        },
+        {
+          "match_id": "241748",
+          "batting_score": "45(37)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Mar 25, 2024"
+        },
+        {
+          "match_id": "237772",
+          "batting_score": "22(16)",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "Mar 23, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "27",
+        "win": "10",
+        "lose": "17",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "37.04",
+        "win_percentage": "62.96",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

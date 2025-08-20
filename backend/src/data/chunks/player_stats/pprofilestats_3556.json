@@ -1,0 +1,117 @@
+{
+  "id": "pprofilestats_3556",
+  "type": "player_career_stats",
+  "player": "Dwayne Bravo",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "161",
+        "runs": "1560",
+        "batting_strike_rate": "129.56",
+        "batting_average": "22.60",
+        "fifties": "5",
+        "hundreds": "0",
+        "ducks": "9",
+        "highest_score": "70* v PBKS",
+        "wickets": "183",
+        "overs": "519.5",
+        "maidens": "3",
+        "runs_conceded": "183",
+        "economy": "8.38",
+        "bowling_strike_rate": "17.04",
+        "best_bowling_figures": "4/22 v PBKS",
+        "three_wicket_hauls": "16",
+        "five_wicket_hauls": "0",
+        "catches": "80",
+        "stumping": "0",
+        "run_outs": "2"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "4970",
+          "date": "May 18, 2008",
+          "opponent": "Deccan Chargers",
+          "opponent_id": "1112",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Mumbai Indians beat Deccan Chargers by 25 runs"
+        },
+        {
+          "match_id": "178048",
+          "date": "Apr 28, 2015",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Kolkata Knight Riders by 2 runs"
+        },
+        {
+          "match_id": "186012",
+          "date": "Apr 07, 2018",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Chennai Super Kings beat Mumbai Indians by 1 wicket"
+        },
+        {
+          "match_id": "204174",
+          "date": "Sep 24, 2021",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Sharjah Cricket Stadium, Sharjah",
+          "venue_id": "143",
+          "match_result": "Chennai Super Kings beat Royal Challengers Bangalore by 6 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "210523",
+          "batting_score": "12(15)",
+          "bowling_score": "0/16",
+          "opponent": "Mumbai Indians",
+          "date": "May 12, 2022"
+        },
+        {
+          "match_id": "210519",
+          "batting_score": "1*(1)",
+          "bowling_score": "2/24",
+          "opponent": "Delhi Capitals",
+          "date": "May 08, 2022"
+        },
+        {
+          "match_id": "210502",
+          "batting_score": "DNB",
+          "bowling_score": "2/42",
+          "opponent": "Punjab Kings",
+          "date": "Apr 25, 2022"
+        },
+        {
+          "match_id": "210497",
+          "batting_score": "1*(1)",
+          "bowling_score": "2/36",
+          "opponent": "Mumbai Indians",
+          "date": "Apr 21, 2022"
+        },
+        {
+          "match_id": "210490",
+          "batting_score": "DNB",
+          "bowling_score": "3/23",
+          "opponent": "Gujarat Titans",
+          "date": "Apr 17, 2022"
+        }
+      ],
+      "captaincy": {
+        "matches": "1",
+        "win": "0",
+        "lose": "1",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "100",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

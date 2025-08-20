@@ -1,0 +1,16 @@
+{
+  "id": "ddbc04272021201019",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "ddbc04272021201019",
+  "date": "2021-04-27",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "pprofilestats_67907",
+  "type": "player_career_stats",
+  "player": "Tanush Kotian",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "1",
+        "runs": "24",
+        "batting_strike_rate": "77.41",
+        "batting_average": "24.00",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "24 v PBKS",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "0",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "243029",
+          "batting_score": "24(31)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "Apr 13, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

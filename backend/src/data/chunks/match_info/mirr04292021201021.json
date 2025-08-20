@@ -1,0 +1,16 @@
+{
+  "id": "mirr04292021201021",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "mirr04292021201021",
+  "date": "2021-04-29",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

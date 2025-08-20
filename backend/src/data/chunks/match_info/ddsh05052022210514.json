@@ -1,0 +1,16 @@
+{
+  "id": "ddsh05052022210514",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "ddsh05052022210514",
+  "date": "2022-05-05",
+  "venue": "Brabourne Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

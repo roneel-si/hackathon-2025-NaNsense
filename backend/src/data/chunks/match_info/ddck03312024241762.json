@@ -1,0 +1,16 @@
+{
+  "id": "ddck03312024241762",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "ddck03312024241762",
+  "date": "2024-03-31",
+  "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

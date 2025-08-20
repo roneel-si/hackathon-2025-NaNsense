@@ -6,120 +6,29 @@
     {
       "league": "IPL",
       "career": {
-        "matches": "119",
-        "runs": "2998",
-        "batting_strike_rate": "137.64",
-        "batting_average": "29.10",
-        "fifties": "17",
-        "hundreds": "1",
-        "ducks": "9",
-        "highest_score": "106* v RR",
-        "wickets": "0",
-        "overs": "0.1",
-        "maidens": "0",
-        "runs_conceded": "0",
-        "economy": "24.00",
+        "matches": "-",
+        "runs": "-",
+        "batting_strike_rate": "-",
+        "batting_average": "-",
+        "fifties": "-",
+        "hundreds": "-",
+        "ducks": "-",
+        "highest_score": "-",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
         "bowling_strike_rate": "-",
-        "best_bowling_figures": "0/4 v LSG",
-        "three_wicket_hauls": "0",
-        "five_wicket_hauls": "0",
-        "catches": "59",
-        "stumping": "5",
-        "run_outs": "6"
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "-"
       },
-      "man_of_the_matches": [
-        {
-          "match_id": "186211",
-          "date": "May 09, 2018",
-          "opponent": "Kolkata Knight Riders",
-          "opponent_id": "1106",
-          "venue": "Eden Gardens, Kolkata",
-          "venue_id": "48",
-          "match_result": "Mumbai Indians beat Kolkata Knight Riders by 102 runs"
-        },
-        {
-          "match_id": "197738",
-          "date": "Oct 31, 2020",
-          "opponent": "Delhi Capitals",
-          "opponent_id": "1109",
-          "venue": "Dubai International Stadium, Dubai",
-          "venue_id": "449",
-          "match_result": "Mumbai Indians beat Delhi Capitals by 9 wickets"
-        },
-        {
-          "match_id": "204194",
-          "date": "Oct 08, 2021",
-          "opponent": "Sunrisers Hyderabad",
-          "opponent_id": "1379",
-          "venue": "Zayed Cricket Stadium, Abu Dhabi",
-          "venue_id": "174",
-          "match_result": "Mumbai Indians beat Sunrisers Hyderabad by 42 runs"
-        },
-        {
-          "match_id": "222217",
-          "date": "May 03, 2023",
-          "opponent": "Punjab Kings",
-          "opponent_id": "1107",
-          "venue": "I.S. Bindra Punjab Cricket Association Stadium, Mohali",
-          "venue_id": "125",
-          "match_result": "Mumbai Indians beat Punjab Kings by 6 wickets"
-        },
-        {
-          "match_id": "253699",
-          "date": "Mar 23, 2025",
-          "opponent": "Rajasthan Royals",
-          "opponent_id": "1110",
-          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-          "venue_id": "158",
-          "match_result": "Sunrisers Hyderabad beat Rajasthan Royals by 44 runs"
-        },
-        {
-          "match_id": "260867",
-          "date": "May 23, 2025",
-          "opponent": "Royal Challengers Bengaluru",
-          "opponent_id": "1105",
-          "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
-          "venue_id": "1900",
-          "match_result": "Sunrisers Hyderabad beat Royal Challengers Bengaluru by 42 runs"
-        }
-      ],
-      "recent_games": [
-        {
-          "match_id": "260869",
-          "batting_score": "29(20)",
-          "bowling_score": "-",
-          "opponent": "Kolkata Knight Riders",
-          "date": "May 25, 2025"
-        },
-        {
-          "match_id": "260867",
-          "batting_score": "94*(48)",
-          "bowling_score": "-",
-          "opponent": "Royal Challengers Bengaluru",
-          "date": "May 23, 2025"
-        },
-        {
-          "match_id": "260863",
-          "batting_score": "35(28)",
-          "bowling_score": "-",
-          "opponent": "Lucknow Super Giants",
-          "date": "May 19, 2025"
-        },
-        {
-          "match_id": "257269",
-          "batting_score": "DNB",
-          "bowling_score": "-",
-          "opponent": "Delhi Capitals",
-          "date": "May 05, 2025"
-        },
-        {
-          "match_id": "257265",
-          "batting_score": "13(17)",
-          "bowling_score": "-",
-          "opponent": "Gujarat Titans",
-          "date": "May 02, 2025"
-        }
-      ],
+      "man_of_the_matches": [],
+      "recent_games": [],
       "captaincy": {
         "matches": "-",
         "win": "-",

@@ -1,0 +1,16 @@
+{
+  "id": "bckp05132022210524",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "bckp05132022210524",
+  "date": "2022-05-13",
+  "venue": "Brabourne Stadium",
+  "teams": [
+    "Royal Challengers Bangalore",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

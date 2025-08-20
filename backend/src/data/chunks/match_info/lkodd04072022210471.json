@@ -1,0 +1,16 @@
+{
+  "id": "lkodd04072022210471",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "lkodd04072022210471",
+  "date": "2022-04-07",
+  "venue": "Dr. DY Patil Sports Academy",
+  "teams": [
+    "Lucknow Super Giants",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

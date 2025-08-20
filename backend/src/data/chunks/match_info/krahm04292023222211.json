@@ -1,0 +1,16 @@
+{
+  "id": "krahm04292023222211",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "krahm04292023222211",
+  "date": "2023-04-29",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

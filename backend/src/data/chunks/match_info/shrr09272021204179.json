@@ -1,0 +1,16 @@
+{
+  "id": "shrr09272021204179",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "shrr09272021204179",
+  "date": "2021-09-27",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pprofile_69669",
+  "type": "player_bio",
+  "player": "Vijayakanth Viyaskanth",
+  "full_name": "Vijayakanth Viyaskanth",
+  "dob": "December 5, 2001",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Leg break",
+  "teams": [
+    "Sri Lanka",
+    "Sri Lanka Emerging",
+    "Tamil Union Cricket and Athletic Club",
+    "Sri Lanka Under-19",
+    "Chattogram Challengers",
+    "Sunrisers Hyderabad",
+    "Colombo",
+    "Galle",
+    "Dambulla Under-19",
+    "Jaffna Kings",
+    "SLC Reds",
+    "SLC Greys",
+    "Jaffna",
+    "Abu Dhabi Knight Riders",
+    "MI Emirates",
+    "Hambantota Bangla Tigers"
+  ],
+  "bio": "",
+  "nationality": "Sri Lanka",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": "2024-2024"
+  }
+}

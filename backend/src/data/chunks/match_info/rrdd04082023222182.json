@@ -1,0 +1,16 @@
+{
+  "id": "rrdd04082023222182",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "rrdd04082023222182",
+  "date": "2023-04-08",
+  "venue": "Barsapara Cricket Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

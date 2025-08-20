@@ -1,0 +1,16 @@
+{
+  "id": "krck04212021201011",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "krck04212021201011",
+  "date": "2021-04-21",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

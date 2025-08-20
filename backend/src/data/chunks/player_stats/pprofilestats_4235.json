@@ -1,0 +1,90 @@
+{
+  "id": "pprofilestats_4235",
+  "type": "player_career_stats",
+  "player": "Tim Southee",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "54",
+        "runs": "120",
+        "batting_strike_rate": "112.15",
+        "batting_average": "9.23",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "4",
+        "highest_score": "36* v CSK",
+        "wickets": "47",
+        "overs": "201",
+        "maidens": "2",
+        "runs_conceded": "47",
+        "economy": "8.66",
+        "bowling_strike_rate": "25.65",
+        "best_bowling_figures": "3/20 v RCB",
+        "three_wicket_hauls": "4",
+        "five_wicket_hauls": "0",
+        "catches": "23",
+        "stumping": "0",
+        "run_outs": "3"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "186201",
+          "date": "May 01, 2018",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Royal Challengers Bangalore beat Mumbai Indians by 14 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "222178",
+          "batting_score": "DNB",
+          "bowling_score": "0/25",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Apr 06, 2023"
+        },
+        {
+          "match_id": "219155",
+          "batting_score": "DNB",
+          "bowling_score": "2/54",
+          "opponent": "Punjab Kings",
+          "date": "Apr 01, 2023"
+        },
+        {
+          "match_id": "210530",
+          "batting_score": "DNB",
+          "bowling_score": "0/57",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 18, 2022"
+        },
+        {
+          "match_id": "210525",
+          "batting_score": "DNB",
+          "bowling_score": "2/23",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 14, 2022"
+        },
+        {
+          "match_id": "210520",
+          "batting_score": "0(4)",
+          "bowling_score": "1/10",
+          "opponent": "Mumbai Indians",
+          "date": "May 09, 2022"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

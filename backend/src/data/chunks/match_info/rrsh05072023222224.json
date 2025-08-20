@@ -1,0 +1,16 @@
+{
+  "id": "rrsh05072023222224",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "rrsh05072023222224",
+  "date": "2023-05-07",
+  "venue": "Sawai Mansingh Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

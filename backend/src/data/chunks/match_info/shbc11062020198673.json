@@ -1,0 +1,16 @@
+{
+  "id": "shbc11062020198673",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "shbc11062020198673",
+  "date": "2020-11-06",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

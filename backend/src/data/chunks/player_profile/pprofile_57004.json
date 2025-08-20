@@ -1,0 +1,30 @@
+{
+  "id": "pprofile_57004",
+  "type": "player_bio",
+  "player": "Aniruddha Joshi",
+  "full_name": "Aniruddha Ashok Joshi",
+  "dob": "November 7, 1987",
+  "role": "Batsman",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "Delhi Capitals",
+    "Rajasthan Royals",
+    "Karnataka",
+    "Mangalore United",
+    "Mysore Warriors",
+    "Shivamogga Lions",
+    "Ballari Tuskers",
+    "Bengaluru Blasters",
+    "Bangalore Provident",
+    "Mangaluru Dragons"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": ""
+  }
+}

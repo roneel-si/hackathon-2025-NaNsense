@@ -1,0 +1,25 @@
+{
+  "id": "pprofile_70815",
+  "type": "player_bio",
+  "player": "Duan Jansen",
+  "full_name": "Duan Jansen",
+  "dob": "May 1, 2000",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Left-arm fast",
+  "teams": [
+    "Free State",
+    "North West Dragons",
+    "Mumbai Indians",
+    "Knights",
+    "St Kitts and Nevis Patriots",
+    "MI Cape Town",
+    "Harare Bolts"
+  ],
+  "bio": "",
+  "nationality": "South Africa",
+  "career_span": {
+    "ODI": "2021",
+    "IPL": "2023"
+  }
+}

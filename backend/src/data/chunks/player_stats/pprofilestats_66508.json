@@ -1,0 +1,52 @@
+{
+  "id": "pprofilestats_66508",
+  "type": "player_career_stats",
+  "player": "Sanjay Yadav",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "1",
+        "runs": "0",
+        "batting_strike_rate": "0.00",
+        "batting_average": "0.00",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "0 v SRH",
+        "wickets": "0",
+        "overs": "2",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "11.50",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "0/23 v SRH",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "210529",
+          "batting_score": "0(2)",
+          "bowling_score": "0/23",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 17, 2022"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

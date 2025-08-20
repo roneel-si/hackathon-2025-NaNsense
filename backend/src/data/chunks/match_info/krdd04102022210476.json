@@ -1,0 +1,16 @@
+{
+  "id": "krdd04102022210476",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "krdd04102022210476",
+  "date": "2022-04-10",
+  "venue": "Brabourne Stadium",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

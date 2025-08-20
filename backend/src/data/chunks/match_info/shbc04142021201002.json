@@ -1,0 +1,16 @@
+{
+  "id": "shbc04142021201002",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "shbc04142021201002",
+  "date": "2021-04-14",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

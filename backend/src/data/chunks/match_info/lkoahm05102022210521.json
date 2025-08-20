@@ -1,0 +1,16 @@
+{
+  "id": "lkoahm05102022210521",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "lkoahm05102022210521",
+  "date": "2022-05-10",
+  "venue": "Maharashtra Cricket Association Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ahmrr04162023222195",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "ahmrr04162023222195",
+  "date": "2023-04-16",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

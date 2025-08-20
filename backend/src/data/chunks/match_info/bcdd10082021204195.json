@@ -1,0 +1,16 @@
+{
+  "id": "bcdd10082021204195",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "bcdd10082021204195",
+  "date": "2021-10-08",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Royal Challengers Bangalore",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

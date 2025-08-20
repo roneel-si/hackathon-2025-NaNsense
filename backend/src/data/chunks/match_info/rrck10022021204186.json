@@ -1,0 +1,16 @@
+{
+  "id": "rrck10022021204186",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "rrck10022021204186",
+  "date": "2021-10-02",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

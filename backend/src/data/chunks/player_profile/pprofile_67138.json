@@ -1,0 +1,27 @@
+{
+  "id": "pprofile_67138",
+  "type": "player_bio",
+  "player": "Tejas Baroka",
+  "full_name": "Tejas Arun Singh Baroka",
+  "dob": "February 1, 1996",
+  "role": "All-Rounder",
+  "batting_style": "Right Handed",
+  "bowling_style": "Leg break googly",
+  "teams": [
+    "Rajasthan Royals",
+    "Delhi",
+    "Gujarat Lions",
+    "Puducherry",
+    "Tigers XI",
+    "Royals",
+    "Villianur Mohit Kings",
+    "Central Delhi Kings"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": "2017-2017"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kpkr04262021201018",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "kpkr04262021201018",
+  "date": "2021-04-26",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

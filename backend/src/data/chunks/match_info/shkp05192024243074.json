@@ -1,0 +1,16 @@
+{
+  "id": "shkp05192024243074",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "shkp05192024243074",
+  "date": "2024-05-19",
+  "venue": "Rajiv Gandhi International Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

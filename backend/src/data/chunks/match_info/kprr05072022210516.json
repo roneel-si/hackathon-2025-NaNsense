@@ -1,0 +1,16 @@
+{
+  "id": "kprr05072022210516",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "kprr05072022210516",
+  "date": "2022-05-07",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

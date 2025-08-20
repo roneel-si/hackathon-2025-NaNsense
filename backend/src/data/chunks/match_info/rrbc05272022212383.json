@@ -1,0 +1,16 @@
+{
+  "id": "rrbc05272022212383",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "rrbc05272022212383",
+  "date": "2022-05-27",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

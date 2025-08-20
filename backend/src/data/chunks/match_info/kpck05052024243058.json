@@ -1,0 +1,16 @@
+{
+  "id": "kpck05052024243058",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "kpck05052024243058",
+  "date": "2024-05-05",
+  "venue": "Himachal Pradesh Cricket Association Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

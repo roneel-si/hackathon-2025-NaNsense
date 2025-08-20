@@ -1,0 +1,16 @@
+{
+  "id": "ckmi05062023222221",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "ckmi05062023222221",
+  "date": "2023-05-06",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ddahm04242024243042",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "ddahm04242024243042",
+  "date": "2024-04-24",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ckdd05082022210519",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "ckdd05082022210519",
+  "date": "2022-05-08",
+  "venue": "Dr. DY Patil Sports Academy",
+  "teams": [
+    "Chennai Super Kings",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

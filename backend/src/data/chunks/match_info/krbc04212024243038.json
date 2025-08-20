@@ -1,0 +1,16 @@
+{
+  "id": "krbc04212024243038",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "krbc04212024243038",
+  "date": "2024-04-21",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Royal Challengers Bengaluru"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

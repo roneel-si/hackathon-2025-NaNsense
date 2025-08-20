@@ -1,0 +1,16 @@
+{
+  "id": "ddbc05062023222222",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "ddbc05062023222222",
+  "date": "2023-05-06",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

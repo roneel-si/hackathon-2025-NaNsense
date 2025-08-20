@@ -1,0 +1,207 @@
+{
+  "id": "pprofilestats_3700",
+  "type": "player_career_stats",
+  "player": "Suresh Raina",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "205",
+        "runs": "5528",
+        "batting_strike_rate": "136.73",
+        "batting_average": "32.51",
+        "fifties": "39",
+        "hundreds": "1",
+        "ducks": "8",
+        "highest_score": "100* v PBKS",
+        "wickets": "25",
+        "overs": "151.2",
+        "maidens": "0",
+        "runs_conceded": "25",
+        "economy": "7.38",
+        "bowling_strike_rate": "36.32",
+        "best_bowling_figures": "2/0 v RR",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "109",
+        "stumping": "0",
+        "run_outs": "15"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "4981",
+          "date": "May 27, 2008",
+          "opponent": "Deccan Chargers",
+          "opponent_id": "1112",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Chennai Super Kings beat Deccan Chargers by 7 wickets"
+        },
+        {
+          "match_id": "5105",
+          "date": "Apr 30, 2009",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "SuperSport Park, Centurion",
+          "venue_id": "153",
+          "match_result": "Chennai Super Kings beat Rajasthan Royals by 38 runs"
+        },
+        {
+          "match_id": "7594",
+          "date": "Apr 06, 2010",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Mumbai Indians by 24 runs"
+        },
+        {
+          "match_id": "7470",
+          "date": "Apr 25, 2010",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Dr. DY Patil Sports Academy, Navi Mumbai",
+          "venue_id": "219",
+          "match_result": "Chennai Super Kings beat Mumbai Indians by 22 runs"
+        },
+        {
+          "match_id": "91811",
+          "date": "May 24, 2011",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Chennai Super Kings beat Royal Challengers Bangalore by 6 wickets"
+        },
+        {
+          "match_id": "92486",
+          "date": "May 04, 2012",
+          "opponent": "Deccan Chargers",
+          "opponent_id": "1112",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Deccan Chargers by 10 runs"
+        },
+        {
+          "match_id": "172296",
+          "date": "May 02, 2013",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Kings XI Punjab by 15 runs"
+        },
+        {
+          "match_id": "172306",
+          "date": "May 08, 2013",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Chennai Super Kings beat Sunrisers Hyderabad by 77 runs"
+        },
+        {
+          "match_id": "175879",
+          "date": "Apr 21, 2014",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Zayed Cricket Stadium, Abu Dhabi",
+          "venue_id": "174",
+          "match_result": "Chennai Super Kings beat Delhi Daredevils by 93 runs"
+        },
+        {
+          "match_id": "175975",
+          "date": "May 28, 2014",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Brabourne Stadium, Mumbai",
+          "venue_id": "20",
+          "match_result": "Chennai Super Kings beat Mumbai Indians by 7 wickets"
+        },
+        {
+          "match_id": "178040",
+          "date": "Apr 22, 2015",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Chennai Super Kings beat Royal Challengers Bangalore by 27 runs"
+        },
+        {
+          "match_id": "178057",
+          "date": "May 04, 2015",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Royal Challengers Bangalore by 24 runs"
+        },
+        {
+          "match_id": "181080",
+          "date": "May 21, 2016",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Green Park, Kanpur",
+          "venue_id": "61",
+          "match_result": "Gujarat Lions beat Mumbai Indians by 6 wickets"
+        },
+        {
+          "match_id": "183400",
+          "date": "Apr 21, 2017",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Gujarat Lions beat Kolkata Knight Riders by 4 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "204186",
+          "batting_score": "3(5)",
+          "bowling_score": "-",
+          "opponent": "Rajasthan Royals",
+          "date": "Oct 02, 2021"
+        },
+        {
+          "match_id": "204183",
+          "batting_score": "2(3)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "Sep 30, 2021"
+        },
+        {
+          "match_id": "204177",
+          "batting_score": "11(7)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Sep 26, 2021"
+        },
+        {
+          "match_id": "204174",
+          "batting_score": "17*(10)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Sep 24, 2021"
+        },
+        {
+          "match_id": "204169",
+          "batting_score": "4(6)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "Sep 19, 2021"
+        }
+      ],
+      "captaincy": {
+        "matches": "34",
+        "win": "14",
+        "lose": "18",
+        "tied": "2",
+        "draw": "0",
+        "no_result": "41.18",
+        "win_percentage": "52.94",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

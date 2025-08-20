@@ -1,0 +1,16 @@
+{
+  "id": "bclko04022024241766",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "bclko04022024241766",
+  "date": "2024-04-02",
+  "venue": "M.Chinnaswamy Stadium",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

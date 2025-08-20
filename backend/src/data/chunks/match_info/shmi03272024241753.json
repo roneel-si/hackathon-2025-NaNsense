@@ -1,0 +1,16 @@
+{
+  "id": "shmi03272024241753",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "shmi03272024241753",
+  "date": "2024-03-27",
+  "venue": "Rajiv Gandhi International Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

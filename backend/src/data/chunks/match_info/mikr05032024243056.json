@@ -1,0 +1,16 @@
+{
+  "id": "mikr05032024243056",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "mikr05032024243056",
+  "date": "2024-05-03",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

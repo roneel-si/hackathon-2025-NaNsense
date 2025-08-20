@@ -1,0 +1,16 @@
+{
+  "id": "kpahm04132023222190",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "kpahm04132023222190",
+  "date": "2023-04-13",
+  "venue": "Punjab Cricket Association IS Bindra Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

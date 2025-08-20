@@ -1,0 +1,16 @@
+{
+  "id": "milko05172024243072",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "milko05172024243072",
+  "date": "2024-05-17",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

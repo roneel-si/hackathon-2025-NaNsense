@@ -1,0 +1,16 @@
+{
+  "id": "shrr05022024243055",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "shrr05022024243055",
+  "date": "2024-05-02",
+  "venue": "Rajiv Gandhi International Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

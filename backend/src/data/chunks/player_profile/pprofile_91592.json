@@ -1,0 +1,19 @@
+{
+  "id": "pprofile_91592",
+  "type": "player_bio",
+  "player": "Shivam Singh",
+  "full_name": "Shivam Singh",
+  "dob": "November 18, 1996",
+  "role": "Batsman",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "Punjab Kings",
+    "Bihar"
+  ],
+  "bio": "Shivam Singh is an all-rounder from Uttar Pradesh who moved to Delhi at the age 12 to play club cricket. He is a hard-hitting all-rounder capable of taking on the bowling from ball one. Shivam has added a few innovative shots to his arsenal in recent times. Shivscoop, one of his unorthodox shots has gained popularity in the cricketing world.",
+  "nationality": "India",
+  "career_span": {
+    "IPL": "2024"
+  }
+}

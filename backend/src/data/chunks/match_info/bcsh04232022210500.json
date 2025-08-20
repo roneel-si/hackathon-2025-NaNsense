@@ -1,0 +1,16 @@
+{
+  "id": "bcsh04232022210500",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "bcsh04232022210500",
+  "date": "2022-04-23",
+  "venue": "Brabourne Stadium",
+  "teams": [
+    "Royal Challengers Bangalore",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

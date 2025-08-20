@@ -1,0 +1,37 @@
+{
+  "id": "pprofile_61693",
+  "type": "player_bio",
+  "player": "Siddarth Kaul",
+  "full_name": "Siddarth Kaul",
+  "dob": "May 19, 1990",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Right-arm medium",
+  "teams": [
+    "India",
+    "India A",
+    "India B",
+    "India Green",
+    "India Red",
+    "Northamptonshire",
+    "North Zone",
+    "Rest of India",
+    "Royal Challengers Bengaluru",
+    "Delhi Capitals",
+    "India Under-19",
+    "Punjab",
+    "Sunrisers Hyderabad",
+    "Hampton Falcons",
+    "Chhattisgarh Warriors",
+    "Intersoft Titans",
+    "India Champions",
+    "Northern Challengers"
+  ],
+  "bio": "Siddarth Kaul is a right-arm pace bowler from Punjab. Coming from a cricketing family, he made his debut in 2008 against Orissa picking up 5/97 playing alongside his brother Uday. He was an integral part of the Under-19 World Cup winning squad for India in 2008. Siddharth was the second highest wicket taker in the Ranji Trophy 2012-13 season picking up 44 wickets in nine matches which led him to be signed by the Delhi for the Indian T20 League’s sixth edition. He will once again feature in their squad for the 2014 edition of the League.",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "2018-2018",
+    "IPL": "2013-2022"
+  }
+}

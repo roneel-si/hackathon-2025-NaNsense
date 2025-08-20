@@ -1,0 +1,16 @@
+{
+  "id": "krdd09282021204180",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "krdd09282021204180",
+  "date": "2021-09-28",
+  "venue": "Sharjah Cricket Stadium",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

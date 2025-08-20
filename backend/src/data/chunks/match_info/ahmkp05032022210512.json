@@ -1,0 +1,16 @@
+{
+  "id": "ahmkp05032022210512",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "ahmkp05032022210512",
+  "date": "2022-05-03",
+  "venue": "Dr. DY Patil Sports Academy",
+  "teams": [
+    "Gujarat Titans",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

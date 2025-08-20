@@ -1,0 +1,16 @@
+{
+  "id": "shlko05132023222230",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "shlko05132023222230",
+  "date": "2023-05-13",
+  "venue": "Rajiv Gandhi International Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

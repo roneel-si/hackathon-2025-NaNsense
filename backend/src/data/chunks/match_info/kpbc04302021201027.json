@@ -1,0 +1,16 @@
+{
+  "id": "kpbc04302021201027",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "kpbc04302021201027",
+  "date": "2021-04-30",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

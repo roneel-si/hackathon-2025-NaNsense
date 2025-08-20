@@ -1,0 +1,16 @@
+{
+  "id": "kpdd05022021201036",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "kpdd05022021201036",
+  "date": "2021-05-02",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

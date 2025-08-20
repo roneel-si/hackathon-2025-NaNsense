@@ -1,0 +1,16 @@
+{
+  "id": "shmi04182023222197",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "shmi04182023222197",
+  "date": "2023-04-18",
+  "venue": "Rajiv Gandhi International Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

@@ -6,35 +6,42 @@
     {
       "league": "IPL",
       "career": {
-        "matches": "62",
+        "matches": "63",
         "runs": "3",
         "batting_strike_rate": "60.00",
-        "batting_average": "-",
+        "batting_average": "0",
         "fifties": "0",
         "hundreds": "0",
-        "ducks": "3",
+        "ducks": "0",
         "highest_score": "3* v RCB",
         "wickets": "67",
-        "overs": "222.5",
+        "overs": "225.5",
         "maidens": "2",
         "runs_conceded": "67",
-        "economy": "8.83",
-        "bowling_strike_rate": "19.95",
+        "economy": "8.94",
+        "bowling_strike_rate": "20.22",
         "best_bowling_figures": "4/19 v DC",
-        "three_wicket_hauls": "4",
+        "three_wicket_hauls": "3",
         "five_wicket_hauls": "0",
         "catches": "9",
         "stumping": "0",
-        "run_outs": "0"
+        "run_outs": "1"
       },
       "man_of_the_matches": [],
       "recent_games": [
+        {
+          "match_id": "260862",
+          "batting_score": "DNB",
+          "bowling_score": "0/49",
+          "opponent": "Gujarat Titans",
+          "date": "May 18, 2025"
+        },
         {
           "match_id": "257269",
           "batting_score": "DNB",
           "bowling_score": "-",
           "opponent": "Sunrisers Hyderabad",
-          "date": "May 05, 2025"
+          "date": "May 5, 2025"
         },
         {
           "match_id": "243079",
@@ -56,24 +63,17 @@
           "bowling_score": "1/22",
           "opponent": "Kolkata Knight Riders",
           "date": "May 21, 2024"
-        },
-        {
-          "match_id": "243074",
-          "batting_score": "DNB",
-          "bowling_score": "2/33",
-          "opponent": "Punjab Kings",
-          "date": "May 19, 2024"
         }
       ],
       "captaincy": {
-        "matches": "-",
-        "win": "-",
-        "lose": "-",
-        "tied": "-",
-        "draw": "-",
-        "no_result": "-",
-        "win_percentage": "-",
-        "loss_percentage": "-"
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
       }
     }
   ]

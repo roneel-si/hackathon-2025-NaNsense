@@ -1,0 +1,16 @@
+{
+  "id": "kprr10302020197737",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "kprr10302020197737",
+  "date": "2020-10-30",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Kings XI Punjab",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

@@ -6,93 +6,29 @@
     {
       "league": "IPL",
       "career": {
-        "matches": "62",
-        "runs": "1468",
-        "batting_strike_rate": "137.32",
-        "batting_average": "29.95",
-        "fifties": "12",
-        "hundreds": "1",
-        "ducks": "2",
-        "highest_score": "104 v MI",
-        "wickets": "3",
-        "overs": "13.3",
-        "maidens": "0",
-        "runs_conceded": "3",
-        "economy": "10.59",
-        "bowling_strike_rate": "27.00",
-        "best_bowling_figures": "2/29 v DC",
-        "three_wicket_hauls": "0",
-        "five_wicket_hauls": "0",
-        "catches": "22",
-        "stumping": "0",
-        "run_outs": "1"
+        "matches": "-",
+        "runs": "-",
+        "batting_strike_rate": "-",
+        "batting_average": "-",
+        "fifties": "-",
+        "hundreds": "-",
+        "ducks": "-",
+        "highest_score": "-",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "-"
       },
-      "man_of_the_matches": [
-        {
-          "match_id": "204198",
-          "date": "Oct 13, 2021",
-          "opponent": "Delhi Capitals",
-          "opponent_id": "1109",
-          "venue": "Sharjah Cricket Stadium, Sharjah",
-          "venue_id": "143",
-          "match_result": "Kolkata Knight Riders beat Delhi Capitals by 3 wickets"
-        },
-        {
-          "match_id": "222194",
-          "date": "Apr 16, 2023",
-          "opponent": "Mumbai Indians",
-          "opponent_id": "1111",
-          "venue": "Wankhede Stadium, Mumbai",
-          "venue_id": "168",
-          "match_result": "Mumbai Indians beat Kolkata Knight Riders by 5 wickets"
-        },
-        {
-          "match_id": "243056",
-          "date": "May 03, 2024",
-          "opponent": "Mumbai Indians",
-          "opponent_id": "1111",
-          "venue": "Wankhede Stadium, Mumbai",
-          "venue_id": "168",
-          "match_result": "Kolkata Knight Riders beat Mumbai Indians by 24 runs"
-        }
-      ],
-      "recent_games": [
-        {
-          "match_id": "257267",
-          "batting_score": "DNB",
-          "bowling_score": "-",
-          "opponent": "Rajasthan Royals",
-          "date": "May 04, 2025"
-        },
-        {
-          "match_id": "257262",
-          "batting_score": "7(5)",
-          "bowling_score": "-",
-          "opponent": "Delhi Capitals",
-          "date": "Apr 29, 2025"
-        },
-        {
-          "match_id": "257258",
-          "batting_score": "DNB",
-          "bowling_score": "-",
-          "opponent": "Punjab Kings",
-          "date": "Apr 26, 2025"
-        },
-        {
-          "match_id": "257253",
-          "batting_score": "14(19)",
-          "bowling_score": "-",
-          "opponent": "Gujarat Titans",
-          "date": "Apr 21, 2025"
-        },
-        {
-          "match_id": "257245",
-          "batting_score": "7(4)",
-          "bowling_score": "-",
-          "opponent": "Punjab Kings",
-          "date": "Apr 15, 2025"
-        }
-      ],
+      "man_of_the_matches": [],
+      "recent_games": [],
       "captaincy": {
         "matches": "-",
         "win": "-",

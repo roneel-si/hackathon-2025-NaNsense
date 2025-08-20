@@ -12,7 +12,7 @@
         "batting_average": "6.94",
         "fifties": "0",
         "hundreds": "0",
-        "ducks": "10",
+        "ducks": "5",
         "highest_score": "21* v MI",
         "wickets": "134",
         "overs": "400.3",
@@ -21,16 +21,16 @@
         "economy": "8.77",
         "bowling_strike_rate": "17.93",
         "best_bowling_figures": "5/10 v MI",
-        "three_wicket_hauls": "15",
+        "three_wicket_hauls": "12",
         "five_wicket_hauls": "1",
         "catches": "29",
         "stumping": "0",
-        "run_outs": "5"
+        "run_outs": "4"
       },
       "man_of_the_matches": [
         {
           "match_id": "175884",
-          "date": "Apr 25, 2014",
+          "date": "April 25, 2014",
           "opponent": "Mumbai Indians",
           "opponent_id": "1111",
           "venue": "Dubai International Stadium, Dubai",
@@ -39,7 +39,7 @@
         },
         {
           "match_id": "183426",
-          "date": "May 09, 2017",
+          "date": "May 9, 2017",
           "opponent": "Kolkata Knight Riders",
           "opponent_id": "1106",
           "venue": "I.S. Bindra Punjab Cricket Association Stadium, Mohali",
@@ -48,7 +48,7 @@
         },
         {
           "match_id": "222190",
-          "date": "Apr 13, 2023",
+          "date": "April 13, 2023",
           "opponent": "Punjab Kings",
           "opponent_id": "1107",
           "venue": "I.S. Bindra Punjab Cricket Association Stadium, Mohali",
@@ -57,7 +57,7 @@
         },
         {
           "match_id": "222202",
-          "date": "Apr 22, 2023",
+          "date": "April 22, 2023",
           "opponent": "Lucknow Super Giants",
           "opponent_id": "2954",
           "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
@@ -66,7 +66,7 @@
         },
         {
           "match_id": "241760",
-          "date": "Mar 31, 2024",
+          "date": "March 31, 2024",
           "opponent": "Sunrisers Hyderabad",
           "opponent_id": "1379",
           "venue": "Narendra Modi Stadium, Ahmedabad",
@@ -87,39 +87,39 @@
           "batting_score": "DNB",
           "bowling_score": "0/28",
           "opponent": "Gujarat Titans",
-          "date": "Apr 19, 2025"
+          "date": "April 19, 2025"
         },
         {
           "match_id": "257246",
           "batting_score": "DNB",
           "bowling_score": "0/38",
           "opponent": "Rajasthan Royals",
-          "date": "Apr 16, 2025"
+          "date": "April 16, 2025"
         },
         {
           "match_id": "257243",
           "batting_score": "0(1)",
           "bowling_score": "0/40",
           "opponent": "Mumbai Indians",
-          "date": "Apr 13, 2025"
+          "date": "April 13, 2025"
         },
         {
           "match_id": "257238",
           "batting_score": "DNB",
           "bowling_score": "1/10",
           "opponent": "Royal Challengers Bengaluru",
-          "date": "Apr 10, 2025"
+          "date": "April 10, 2025"
         }
       ],
       "captaincy": {
-        "matches": "-",
-        "win": "-",
-        "lose": "-",
-        "tied": "-",
-        "draw": "-",
-        "no_result": "-",
-        "win_percentage": "-",
-        "loss_percentage": "-"
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
       }
     }
   ]

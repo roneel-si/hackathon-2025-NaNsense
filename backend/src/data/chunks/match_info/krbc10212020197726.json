@@ -1,0 +1,16 @@
+{
+  "id": "krbc10212020197726",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "krbc10212020197726",
+  "date": "2020-10-21",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

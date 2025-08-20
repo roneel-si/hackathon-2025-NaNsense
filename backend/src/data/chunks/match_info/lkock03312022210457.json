@@ -1,0 +1,16 @@
+{
+  "id": "lkock03312022210457",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "lkock03312022210457",
+  "date": "2022-03-31",
+  "venue": "Brabourne Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

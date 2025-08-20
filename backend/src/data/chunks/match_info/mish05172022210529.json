@@ -1,0 +1,16 @@
+{
+  "id": "mish05172022210529",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "mish05172022210529",
+  "date": "2022-05-17",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

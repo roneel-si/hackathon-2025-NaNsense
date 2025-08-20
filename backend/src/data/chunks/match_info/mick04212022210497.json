@@ -1,0 +1,16 @@
+{
+  "id": "mick04212022210497",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "mick04212022210497",
+  "date": "2022-04-21",
+  "venue": "Dr. DY Patil Sports Academy",
+  "teams": [
+    "Mumbai Indians",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

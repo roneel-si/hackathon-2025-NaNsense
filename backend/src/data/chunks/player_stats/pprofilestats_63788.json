@@ -6,156 +6,38 @@
     {
       "league": "IPL",
       "career": {
-        "matches": "142",
-        "runs": "1756",
-        "batting_strike_rate": "132.43",
-        "batting_average": "22.23",
-        "fifties": "2",
-        "hundreds": "0",
-        "ducks": "7",
-        "highest_score": "86 v DC",
-        "wickets": "93",
-        "overs": "399.4",
-        "maidens": "1",
-        "runs_conceded": "93",
-        "economy": "7.47",
-        "bowling_strike_rate": "25.78",
-        "best_bowling_figures": "4/45 v MI",
-        "three_wicket_hauls": "8",
-        "five_wicket_hauls": "0",
-        "catches": "52",
-        "stumping": "0",
-        "run_outs": "2"
+        "matches": "-",
+        "runs": "-",
+        "batting_strike_rate": "-",
+        "batting_average": "-",
+        "fifties": "-",
+        "hundreds": "-",
+        "ducks": "-",
+        "highest_score": "-",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "-"
       },
-      "man_of_the_matches": [
-        {
-          "match_id": "181067",
-          "date": "May 11, 2016",
-          "opponent": "Royal Challengers Bengaluru",
-          "opponent_id": "1105",
-          "venue": "M.Chinnaswamy Stadium, Bengaluru",
-          "venue_id": "90",
-          "match_result": "Mumbai Indians beat Royal Challengers Bangalore by 6 wickets"
-        },
-        {
-          "match_id": "181072",
-          "date": "May 15, 2016",
-          "opponent": "Delhi Capitals",
-          "opponent_id": "1109",
-          "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
-          "venue_id": "185",
-          "match_result": "Mumbai Indians beat Delhi Daredevils by 80 runs"
-        },
-        {
-          "match_id": "183412",
-          "date": "April 29, 2017",
-          "opponent": "Gujarat Lions",
-          "opponent_id": "1509",
-          "venue": "Niranjan Shah Stadium, Rajkot",
-          "venue_id": "246",
-          "match_result": "Gujarat Lions tied with Mumbai Indians (Mumbai Indians  win Super Over  by 5 runs)"
-        },
-        {
-          "match_id": "183437",
-          "date": "May 21, 2017",
-          "opponent": "Rising Pune Supergiant",
-          "opponent_id": "1508",
-          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-          "venue_id": "158",
-          "match_result": "Mumbai Indians beat Rising Pune Supergiant by 1 run"
-        },
-        {
-          "match_id": "210506",
-          "date": "April 29, 2022",
-          "opponent": "Punjab Kings",
-          "opponent_id": "1107",
-          "venue": "Maharashtra Cricket Association Stadium, Pune",
-          "venue_id": "1763",
-          "match_result": "Lucknow Super Giants beat Punjab Kings by 20 runs"
-        },
-        {
-          "match_id": "222180",
-          "date": "April 7, 2023",
-          "opponent": "Sunrisers Hyderabad",
-          "opponent_id": "1379",
-          "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
-          "venue_id": "1900",
-          "match_result": "Lucknow Super Giants beat Sunrisers Hyderabad by 5 wickets"
-        },
-        {
-          "match_id": "253698",
-          "date": "March 22, 2025",
-          "opponent": "Kolkata Knight Riders",
-          "opponent_id": "1106",
-          "venue": "Eden Gardens, Kolkata",
-          "venue_id": "48",
-          "match_result": "Royal Challengers Bengaluru beat Kolkata Knight Riders by 7 wickets"
-        },
-        {
-          "match_id": "257260",
-          "date": "April 27, 2025",
-          "opponent": "Delhi Capitals",
-          "opponent_id": "1109",
-          "venue": "Arun Jaitley Stadium, Delhi",
-          "venue_id": "54",
-          "match_result": "Royal Challengers Bengaluru beat Delhi Capitals by 6 wickets"
-        },
-        {
-          "match_id": "260875",
-          "date": "June 3, 2025",
-          "opponent": "Punjab Kings",
-          "opponent_id": "1107",
-          "venue": "Narendra Modi Stadium, Ahmedabad",
-          "venue_id": "137",
-          "match_result": "Royal Challengers Bengaluru beat Punjab Kings by 6 runs"
-        }
-      ],
-      "recent_games": [
-        {
-          "match_id": "260875",
-          "batting_score": "4(5)",
-          "bowling_score": "2/17",
-          "opponent": "Punjab Kings",
-          "date": "June 3, 2025"
-        },
-        {
-          "match_id": "260872",
-          "batting_score": "DNB",
-          "bowling_score": "0/10",
-          "opponent": "Punjab Kings",
-          "date": "May 29, 2025"
-        },
-        {
-          "match_id": "260871",
-          "batting_score": "DNB",
-          "bowling_score": "0/14",
-          "opponent": "Lucknow Super Giants",
-          "date": "May 27, 2025"
-        },
-        {
-          "match_id": "260867",
-          "batting_score": "8(6)",
-          "bowling_score": "1/38",
-          "opponent": "Sunrisers Hyderabad",
-          "date": "May 23, 2025"
-        },
-        {
-          "match_id": "257266",
-          "batting_score": "DNB",
-          "bowling_score": "1/24",
-          "opponent": "Chennai Super Kings",
-          "date": "May 3, 2025"
-        }
-      ],
+      "man_of_the_matches": [],
+      "recent_games": [],
       "captaincy": {
-        "matches": "6",
-        "win": "3",
-        "lose": "2",
-        "tied": "0",
-        "draw": "0",
-        "no_result": "0",
-        "win_percentage": "50",
-        "loss_percentage": "33.33"
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
       }
     }
   ]

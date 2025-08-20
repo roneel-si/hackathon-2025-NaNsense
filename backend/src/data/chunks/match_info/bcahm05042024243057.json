@@ -1,0 +1,16 @@
+{
+  "id": "bcahm05042024243057",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "bcahm05042024243057",
+  "date": "2024-05-04",
+  "venue": "M.Chinnaswamy Stadium",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bengaluru"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cksh04282024243051",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "cksh04282024243051",
+  "date": "2024-04-28",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

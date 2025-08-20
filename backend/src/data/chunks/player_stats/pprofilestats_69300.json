@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_69300",
+  "type": "player_career_stats",
+  "player": "Aman Khan",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "12",
+        "runs": "115",
+        "batting_strike_rate": "110.57",
+        "batting_average": "12.77",
+        "fifties": "1",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "51 v GT",
+        "wickets": "0",
+        "overs": "1",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "13.00",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "0/13 v SRH",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "9",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "222239",
+          "batting_score": "7(9)",
+          "bowling_score": "-",
+          "opponent": "Chennai Super Kings",
+          "date": "May 20, 2023"
+        },
+        {
+          "match_id": "222236",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "May 17, 2023"
+        },
+        {
+          "match_id": "222231",
+          "batting_score": "16(18)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "May 13, 2023"
+        },
+        {
+          "match_id": "222227",
+          "batting_score": "2*(3)",
+          "bowling_score": "-",
+          "opponent": "Chennai Super Kings",
+          "date": "May 10, 2023"
+        },
+        {
+          "match_id": "222222",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 06, 2023"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

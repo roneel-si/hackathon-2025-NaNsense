@@ -1,0 +1,16 @@
+{
+  "id": "rrmi04222024243040",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "rrmi04222024243040",
+  "date": "2024-04-22",
+  "venue": "Sawai Mansingh Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

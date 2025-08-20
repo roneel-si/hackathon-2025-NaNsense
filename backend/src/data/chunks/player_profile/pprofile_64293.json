@@ -1,0 +1,33 @@
+{
+  "id": "pprofile_64293",
+  "type": "player_bio",
+  "player": "Baba Indrajith",
+  "full_name": "Baba Indrajith",
+  "dob": "July 8, 1994",
+  "role": "Batsman",
+  "batting_style": "Right Handed",
+  "bowling_style": "Leg break googly",
+  "teams": [
+    "India A",
+    "India Green",
+    "India Red",
+    "Rest of India",
+    "South Zone",
+    "Kolkata Knight Riders",
+    "Tamil Nadu",
+    "Abahani Limited",
+    "Trichy Grand Cholas",
+    "Dindigul Dragons",
+    "VB Kanchi Veerans",
+    "India C",
+    "Nellai Royal Kings",
+    "Jolly Rovers CC"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "2023",
+    "ODI": "2022",
+    "IPL": "2022"
+  }
+}

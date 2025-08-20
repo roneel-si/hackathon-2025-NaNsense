@@ -1,0 +1,16 @@
+{
+  "id": "ckmi10232020197728",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "ckmi10232020197728",
+  "date": "2020-10-23",
+  "venue": "Sharjah Cricket Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

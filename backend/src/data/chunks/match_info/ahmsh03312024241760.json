@@ -1,0 +1,16 @@
+{
+  "id": "ahmsh03312024241760",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "ahmsh03312024241760",
+  "date": "2024-03-31",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

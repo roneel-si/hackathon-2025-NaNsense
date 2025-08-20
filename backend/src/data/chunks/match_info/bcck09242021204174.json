@@ -1,0 +1,16 @@
+{
+  "id": "bcck09242021204174",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "bcck09242021204174",
+  "date": "2021-09-24",
+  "venue": "Sharjah Cricket Stadium",
+  "teams": [
+    "Royal Challengers Bangalore",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

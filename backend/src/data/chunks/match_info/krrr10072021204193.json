@@ -1,0 +1,16 @@
+{
+  "id": "krrr10072021204193",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "krrr10072021204193",
+  "date": "2021-10-07",
+  "venue": "Sharjah Cricket Stadium",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bcck04172023222196",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "bcck04172023222196",
+  "date": "2023-04-17",
+  "venue": "M.Chinnaswamy Stadium",
+  "teams": [
+    "Royal Challengers Bangalore",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

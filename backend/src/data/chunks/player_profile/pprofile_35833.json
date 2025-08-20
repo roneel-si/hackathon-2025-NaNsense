@@ -1,0 +1,28 @@
+{
+  "id": "pprofile_35833",
+  "type": "player_bio",
+  "player": "Mohammed Azharuddeen",
+  "full_name": "Mohammed Azharuddeen",
+  "dob": "March 22, 1994",
+  "role": "Wicket Keeper",
+  "batting_style": "Right Handed",
+  "bowling_style": "-",
+  "teams": [
+    "South Zone",
+    "Royal Challengers Bengaluru",
+    "Punjab",
+    "Kerala",
+    "KCA Eagles",
+    "KCA Lions",
+    "Swantons Cricket Club",
+    "Jolly Rovers",
+    "CSS Group",
+    "Kazaragod",
+    "Kerala CC",
+    "Jupiter Sports Club",
+    "Alleppey Ripples"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {}
+}

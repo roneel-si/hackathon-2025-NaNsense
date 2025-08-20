@@ -1,0 +1,16 @@
+{
+  "id": "mibc10282020197735",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "mibc10282020197735",
+  "date": "2020-10-28",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

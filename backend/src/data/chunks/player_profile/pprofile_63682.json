@@ -1,0 +1,23 @@
+{
+  "id": "pprofile_63682",
+  "type": "player_bio",
+  "player": "Nikhil Naik",
+  "full_name": "Nikhil Shankar Naik",
+  "dob": "November 9, 1994",
+  "role": "Wicket Keeper",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Punjab Kings",
+    "Maharashtra",
+    "Ratnagiri Jets",
+    "Route Mobile",
+    "Jets CC"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "IPL": "2016-2020"
+  }
+}

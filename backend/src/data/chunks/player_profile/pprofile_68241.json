@@ -1,0 +1,23 @@
+{
+  "id": "pprofile_68241",
+  "type": "player_bio",
+  "player": "Shivalik Sharma",
+  "full_name": "Shivalik Sunil Sharma",
+  "dob": "November 28, 1998",
+  "role": "Batsman",
+  "batting_style": "Left Handed",
+  "bowling_style": "Leg break googly",
+  "teams": [
+    "West Zone",
+    "Mumbai Indians",
+    "Baroda",
+    "A4 Power Strikers"
+  ],
+  "bio": "Shivalik Sharma is an Indian cricketer. He made his first-class debut for Baroda in the 2018–19 Ranji Trophy on 6 December 2018. In the auction for Indian Premier League, 2024, he was picked by the Mumbai franchise. He acts as a lower order left-handed batter. In the 2023 Syed Mushtaq Ali Trophy, he scored 114 runs in 10 matches.",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": ""
+  }
+}

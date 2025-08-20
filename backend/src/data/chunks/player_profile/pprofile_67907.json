@@ -1,0 +1,27 @@
+{
+  "id": "pprofile_67907",
+  "type": "player_bio",
+  "player": "Tanush Kotian",
+  "full_name": "Tanush Karunakar Kotian",
+  "dob": "October 16, 1998",
+  "role": "All Rounder",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "India",
+    "India A",
+    "West Zone",
+    "Rajasthan Royals",
+    "India Under-19",
+    "Mumbai",
+    "North Mumbai Panthers",
+    "Shivaji Park Lions",
+    "Thane Tigers",
+    "Team A"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "IPL": "2024"
+  }
+}

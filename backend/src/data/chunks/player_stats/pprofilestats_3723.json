@@ -1,0 +1,144 @@
+{
+  "id": "pprofilestats_3723",
+  "type": "player_career_stats",
+  "player": "Robin Uthappa",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "205",
+        "runs": "4952",
+        "batting_strike_rate": "130.35",
+        "batting_average": "27.51",
+        "fifties": "27",
+        "hundreds": "0",
+        "ducks": "8",
+        "highest_score": "88 v RCB",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "92",
+        "stumping": "32",
+        "run_outs": "9"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "7504",
+          "date": "Mar 23, 2010",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Royal Challengers Bangalore beat Chennai Super Kings by 36 runs"
+        },
+        {
+          "match_id": "175957",
+          "date": "May 14, 2014",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Barabati Stadium, Cuttack",
+          "venue_id": "12",
+          "match_result": "Kolkata Knight Riders beat Mumbai Indians by 6 wickets"
+        },
+        {
+          "match_id": "175964",
+          "date": "May 20, 2014",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Kolkata Knight Riders beat Chennai Super Kings by 8 wickets"
+        },
+        {
+          "match_id": "175966",
+          "date": "May 22, 2014",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Kolkata Knight Riders beat Royal Challengers Bangalore by 30 runs"
+        },
+        {
+          "match_id": "181039",
+          "date": "Apr 19, 2016",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "I.S. Bindra Punjab Cricket Association Stadium, Mohali",
+          "venue_id": "125",
+          "match_result": "Kolkata Knight Riders beat Kings XI Punjab by 6 wickets"
+        },
+        {
+          "match_id": "183391",
+          "date": "Apr 15, 2017",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Kolkata Knight Riders beat Sunrisers Hyderabad by 17 runs"
+        },
+        {
+          "match_id": "183407",
+          "date": "Apr 26, 2017",
+          "opponent": "Rising Pune Supergiant",
+          "opponent_id": "1508",
+          "venue": "Maharashtra Cricket Association Stadium, Pune",
+          "venue_id": "1763",
+          "match_result": "Kolkata Knight Riders beat Rising Pune Supergiant by 7 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "210523",
+          "batting_score": "1(6)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 12, 2022"
+        },
+        {
+          "match_id": "210519",
+          "batting_score": "0(1)",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "May 08, 2022"
+        },
+        {
+          "match_id": "210513",
+          "batting_score": "1(3)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 04, 2022"
+        },
+        {
+          "match_id": "210510",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 01, 2022"
+        },
+        {
+          "match_id": "210502",
+          "batting_score": "1(7)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "Apr 25, 2022"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

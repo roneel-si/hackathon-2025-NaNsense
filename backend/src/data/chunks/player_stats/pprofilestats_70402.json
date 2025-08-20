@@ -6,74 +6,38 @@
     {
       "league": "IPL",
       "career": {
-        "matches": "12",
-        "runs": "0",
-        "batting_strike_rate": "0.00",
-        "batting_average": "0",
-        "fifties": "0",
-        "hundreds": "0",
-        "ducks": "0",
-        "highest_score": " v LSG",
-        "wickets": "14",
-        "overs": "40.1",
-        "maidens": "0",
-        "runs_conceded": "14",
-        "economy": "9.63",
-        "bowling_strike_rate": "17.21",
-        "best_bowling_figures": "4/20 v RCB",
-        "three_wicket_hauls": "1",
-        "five_wicket_hauls": "0",
-        "catches": "4",
-        "stumping": "0",
-        "run_outs": "0"
+        "matches": "-",
+        "runs": "-",
+        "batting_strike_rate": "-",
+        "batting_average": "-",
+        "fifties": "-",
+        "hundreds": "-",
+        "ducks": "-",
+        "highest_score": "-",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "-"
       },
       "man_of_the_matches": [],
-      "recent_games": [
-        {
-          "match_id": "243034",
-          "batting_score": "DNB",
-          "bowling_score": "2/46",
-          "opponent": "Kolkata Knight Riders",
-          "date": "April 16, 2024"
-        },
-        {
-          "match_id": "243029",
-          "batting_score": "DNB",
-          "bowling_score": "1/35",
-          "opponent": "Punjab Kings",
-          "date": "April 13, 2024"
-        },
-        {
-          "match_id": "243026",
-          "batting_score": "DNB",
-          "bowling_score": "3/41",
-          "opponent": "Gujarat Titans",
-          "date": "April 10, 2024"
-        },
-        {
-          "match_id": "222214",
-          "batting_score": "DNB",
-          "bowling_score": "0/20",
-          "opponent": "Mumbai Indians",
-          "date": "April 30, 2023"
-        },
-        {
-          "match_id": "222189",
-          "batting_score": "DNB",
-          "bowling_score": "0/8",
-          "opponent": "Chennai Super Kings",
-          "date": "April 12, 2023"
-        }
-      ],
+      "recent_games": [],
       "captaincy": {
-        "matches": "0",
-        "win": "0",
-        "lose": "0",
-        "tied": "0",
-        "draw": "0",
-        "no_result": "0",
-        "win_percentage": "0",
-        "loss_percentage": "0"
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
       }
     }
   ]

@@ -1,0 +1,16 @@
+{
+  "id": "kpdd10202020197725",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "kpdd10202020197725",
+  "date": "2020-10-20",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Kings XI Punjab",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Kings XI Punjab"
+  }
+}

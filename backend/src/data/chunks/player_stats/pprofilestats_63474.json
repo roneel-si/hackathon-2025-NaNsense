@@ -1,0 +1,52 @@
+{
+  "id": "pprofilestats_63474",
+  "type": "player_career_stats",
+  "player": "Siddhesh Lad",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "1",
+        "runs": "15",
+        "batting_strike_rate": "115.38",
+        "batting_average": "15.00",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "15 v PBKS",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "190263",
+          "batting_score": "15(13)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "Apr 10, 2019"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

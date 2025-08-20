@@ -1,0 +1,34 @@
+{
+  "id": "pprofile_63338",
+  "type": "player_bio",
+  "player": "Murugan Ashwin",
+  "full_name": "Murugan Ashwin",
+  "dob": "September 8, 1990",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Leg break googly",
+  "teams": [
+    "India Red",
+    "South Zone",
+    "Royal Challengers Bengaluru",
+    "Punjab Kings",
+    "Delhi Capitals",
+    "Rajasthan Royals",
+    "Mumbai Indians",
+    "Tamil Nadu",
+    "Jammu and Kashmir",
+    "Rising Pune Supergiant",
+    "SKM Salem Spartans",
+    "Chepauk Super Gillies",
+    "Siechem Madurai Panthers",
+    "Dindigul Dragons",
+    "Chandigarh",
+    "Swaraj CC",
+    "Leisure Zone"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "IPL": "2016-2023"
+  }
+}

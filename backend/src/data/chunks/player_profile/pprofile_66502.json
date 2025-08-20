@@ -1,0 +1,25 @@
+{
+  "id": "pprofile_66502",
+  "type": "player_bio",
+  "player": "Hari Nishaanth",
+  "full_name": "Chezhian Hari Nishaanth",
+  "dob": "August 16, 1996",
+  "role": "Batsman",
+  "batting_style": "Left Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "Chennai Super Kings",
+    "Tamil Nadu",
+    "SKM Salem Spartans",
+    "Siechem Madurai Panthers",
+    "Dindigul Dragons",
+    "VB Kanchi Veerans",
+    "Young Stars Cricket Club",
+    "Coimbatore"
+  ],
+  "bio": "Born in the beautiful city of Ooty, C Hari Nishanth is a left-handed batsman who made his debut for Tamil Nadu in the 2018-19 Syed Mushtaq Ali Trophy. He scored close to 250 runs at an average of 41 which included a valuable knock of 35 runs in the final. In a big moment in his cricket life, Nishanth was bought for his base price by Chennai in the 2021 Indian T20 League auctions.",
+  "nationality": "India",
+  "career_span": {
+    "Test": "2023"
+  }
+}

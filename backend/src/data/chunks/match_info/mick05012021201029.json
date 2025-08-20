@@ -1,0 +1,16 @@
+{
+  "id": "mick05012021201029",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "mick05012021201029",
+  "date": "2021-05-01",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

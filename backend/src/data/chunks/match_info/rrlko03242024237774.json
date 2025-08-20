@@ -1,0 +1,16 @@
+{
+  "id": "rrlko03242024237774",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "rrlko03242024237774",
+  "date": "2024-03-24",
+  "venue": "Sawai Mansingh Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

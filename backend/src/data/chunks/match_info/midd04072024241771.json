@@ -1,0 +1,16 @@
+{
+  "id": "midd04072024241771",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "midd04072024241771",
+  "date": "2024-04-07",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

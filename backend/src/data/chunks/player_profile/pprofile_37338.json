@@ -1,0 +1,31 @@
+{
+  "id": "pprofile_37338",
+  "type": "player_bio",
+  "player": "Sheldon Jackson",
+  "full_name": "Sheldon Philip Jackson",
+  "dob": "September 27, 1986",
+  "role": "Wicket Keeper",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "India A",
+    "India B",
+    "India Blue",
+    "Rest of India",
+    "West Zone",
+    "Royal Challengers Bengaluru",
+    "Kolkata Knight Riders",
+    "Saurashtra",
+    "Puducherry",
+    "Zalawad Royals",
+    "Panthers XI",
+    "Chhattisgarh Warriors",
+    "American Strikers"
+  ],
+  "bio": "A right-handed batsman and wicketkeeper, Sheldon Jackson made his first-class debut for Saurashtra in 2011. He had a successful domestic season in 2012-13 and was hence bought by the Royal Challengers Bangalore for the sixth edition of the Indian Premier League.",
+  "nationality": "India",
+  "career_span": {
+    "ODI": "2017",
+    "IPL": "2017-2022"
+  }
+}

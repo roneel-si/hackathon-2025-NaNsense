@@ -1,0 +1,16 @@
+{
+  "id": "bckr03292024241756",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "bckr03292024241756",
+  "date": "2024-03-29",
+  "venue": "M.Chinnaswamy Stadium",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

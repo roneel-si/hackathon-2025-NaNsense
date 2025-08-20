@@ -1,0 +1,16 @@
+{
+  "id": "krkp05082023222225",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "krkp05082023222225",
+  "date": "2023-05-08",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "shbc05082022210518",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "shbc05082022210518",
+  "date": "2022-05-08",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

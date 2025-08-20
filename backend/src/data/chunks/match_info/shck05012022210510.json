@@ -1,0 +1,16 @@
+{
+  "id": "shck05012022210510",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "shck05012022210510",
+  "date": "2022-05-01",
+  "venue": "Maharashtra Cricket Association Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "shmi10082021204194",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "shmi10082021204194",
+  "date": "2021-10-08",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

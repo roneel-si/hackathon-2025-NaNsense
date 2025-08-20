@@ -1,0 +1,25 @@
+{
+  "id": "pprofile_67207",
+  "type": "player_bio",
+  "player": "Jhathavedh Subramanyan",
+  "full_name": "Jhathavedh Subramanyan",
+  "dob": "September 16, 1999",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Leg break",
+  "teams": [
+    "Hong Kong",
+    "China",
+    "Durham MCCU",
+    "Sunrisers Hyderabad",
+    "Lyca Kovai Kings",
+    "Hong Kong Cricket Club",
+    "Grand Slam Cricket Club"
+  ],
+  "bio": "",
+  "nationality": "Hong Kong",
+  "career_span": {
+    "Test": "2019-2023",
+    "ODI": "2022"
+  }
+}

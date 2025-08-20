@@ -1,0 +1,16 @@
+{
+  "id": "ddrr05072024243061",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "ddrr05072024243061",
+  "date": "2024-05-07",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

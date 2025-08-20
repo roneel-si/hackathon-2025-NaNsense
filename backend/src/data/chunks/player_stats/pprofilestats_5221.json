@@ -1,0 +1,171 @@
+{
+  "id": "pprofilestats_5221",
+  "type": "player_career_stats",
+  "player": "Umesh Yadav",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "148",
+        "runs": "208",
+        "batting_strike_rate": "103.48",
+        "batting_average": "9.9",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "8",
+        "highest_score": "24* v RR",
+        "wickets": "144",
+        "overs": "508.2",
+        "maidens": "5",
+        "runs_conceded": "144",
+        "economy": "8.49",
+        "bowling_strike_rate": "21.18",
+        "best_bowling_figures": "4/23 v PBKS",
+        "three_wicket_hauls": "13",
+        "five_wicket_hauls": "0",
+        "catches": "38",
+        "stumping": "0",
+        "run_outs": "8"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "92511",
+          "date": "May 15, 2012",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Delhi Daredevils beat Kings XI Punjab by 5 wickets"
+        },
+        {
+          "match_id": "92516",
+          "date": "May 19, 2012",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+          "venue_id": "248",
+          "match_result": "Delhi Daredevils beat Kings XI Punjab by 6 wickets"
+        },
+        {
+          "match_id": "175960",
+          "date": "May 18, 2014",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Kolkata Knight Riders beat Sunrisers Hyderabad by 7 wickets"
+        },
+        {
+          "match_id": "175974",
+          "date": "May 28, 2014",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Kolkata Knight Riders beat Kings XI Punjab by 28 runs"
+        },
+        {
+          "match_id": "178037",
+          "date": "April 20, 2015",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Kolkata Knight Riders beat Delhi Daredevils by 6 wickets"
+        },
+        {
+          "match_id": "178058",
+          "date": "May 4, 2015",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Kolkata Knight Riders beat Sunrisers Hyderabad by 35 runs"
+        },
+        {
+          "match_id": "186178",
+          "date": "April 13, 2018",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Royal Challengers Bangalore beat Kings XI Punjab by 4 wickets"
+        },
+        {
+          "match_id": "186218",
+          "date": "May 14, 2018",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Holkar Cricket Stadium, Indore",
+          "venue_id": "92",
+          "match_result": "Royal Challengers Bangalore beat Kings XI Punjab by 10 wickets"
+        },
+        {
+          "match_id": "208288",
+          "date": "March 26, 2022",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Kolkata Knight Riders beat Chennai Super Kings by 6 wickets"
+        },
+        {
+          "match_id": "210458",
+          "date": "April 1, 2022",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Kolkata Knight Riders beat Punjab Kings by 6 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "243064",
+          "batting_score": "DNB",
+          "bowling_score": "1/20",
+          "opponent": "Chennai Super Kings",
+          "date": "May 10, 2024"
+        },
+        {
+          "match_id": "243026",
+          "batting_score": "DNB",
+          "bowling_score": "1/47",
+          "opponent": "Rajasthan Royals",
+          "date": "April 10, 2024"
+        },
+        {
+          "match_id": "241772",
+          "batting_score": "2(4)",
+          "bowling_score": "2/22",
+          "opponent": "Lucknow Super Giants",
+          "date": "April 7, 2024"
+        },
+        {
+          "match_id": "241768",
+          "batting_score": "DNB",
+          "bowling_score": "1/35",
+          "opponent": "Punjab Kings",
+          "date": "April 4, 2024"
+        },
+        {
+          "match_id": "241760",
+          "batting_score": "DNB",
+          "bowling_score": "1/28",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "March 31, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

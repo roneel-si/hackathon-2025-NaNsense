@@ -1,0 +1,39 @@
+{
+  "id": "pprofile_64177",
+  "type": "player_bio",
+  "player": "Tom Kohler-Cadmore",
+  "full_name": "Tom Kohler-Cadmore",
+  "dob": "August 19, 1994",
+  "role": "Wicket-Keeper",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "England",
+    "Worcestershire",
+    "Yorkshire",
+    "Rajasthan Royals",
+    "Somerset",
+    "Sydney Thunder",
+    "England Lions",
+    "Rangpur Riders",
+    "Quetta Gladiators",
+    "Peshawar Zalmi",
+    "Bangla Tigers",
+    "Qalandars",
+    "Deccan Gladiators",
+    "Northern Superchargers",
+    "Trent Rockets",
+    "Welsh Fire",
+    "Jaffna Kings",
+    "Pune Devils",
+    "Sharjah Warriorz",
+    "Jaffna Titans"
+  ],
+  "bio": "",
+  "nationality": "England",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": "2024-2024"
+  }
+}

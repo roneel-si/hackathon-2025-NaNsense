@@ -1,0 +1,108 @@
+{
+  "id": "pprofilestats_48816",
+  "type": "player_career_stats",
+  "player": "Chris Morris",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "81",
+        "runs": "618",
+        "batting_strike_rate": "155.27",
+        "batting_average": "22.07",
+        "fifties": "2",
+        "hundreds": "0",
+        "ducks": "12",
+        "highest_score": "82* v GL",
+        "wickets": "95",
+        "overs": "286.4",
+        "maidens": "1",
+        "runs_conceded": "95",
+        "economy": "8.00",
+        "bowling_strike_rate": "18.10",
+        "best_bowling_figures": "4/23 v KKR",
+        "three_wicket_hauls": "12",
+        "five_wicket_hauls": "0",
+        "catches": "38",
+        "stumping": "0",
+        "run_outs": "3"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "181049",
+          "date": "Apr 27, 2016",
+          "opponent": "Gujarat Lions",
+          "opponent_id": "1509",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Gujarat Lions beat Delhi Daredevils by 1 run"
+        },
+        {
+          "match_id": "181068",
+          "date": "May 12, 2016",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Delhi Daredevils beat Sunrisers Hyderabad by 7 wickets"
+        },
+        {
+          "match_id": "201014",
+          "date": "Apr 24, 2021",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Rajasthan Royals beat Kolkata Knight Riders by 6 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "204193",
+          "batting_score": "0(2)",
+          "bowling_score": "1/28",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Oct 07, 2021"
+        },
+        {
+          "match_id": "204182",
+          "batting_score": "14(11)",
+          "bowling_score": "0/50",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Sep 29, 2021"
+        },
+        {
+          "match_id": "204179",
+          "batting_score": "DNB",
+          "bowling_score": "0/27",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "Sep 27, 2021"
+        },
+        {
+          "match_id": "204171",
+          "batting_score": "5(5)",
+          "bowling_score": "0/47",
+          "opponent": "Punjab Kings",
+          "date": "Sep 21, 2021"
+        },
+        {
+          "match_id": "201032",
+          "batting_score": "DNB",
+          "bowling_score": "3/29",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 02, 2021"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

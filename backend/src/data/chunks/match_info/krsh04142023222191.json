@@ -1,0 +1,16 @@
+{
+  "id": "krsh04142023222191",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "krsh04142023222191",
+  "date": "2023-04-14",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

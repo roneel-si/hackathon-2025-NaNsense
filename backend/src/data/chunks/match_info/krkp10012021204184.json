@@ -1,0 +1,16 @@
+{
+  "id": "krkp10012021204184",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "krkp10012021204184",
+  "date": "2021-10-01",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

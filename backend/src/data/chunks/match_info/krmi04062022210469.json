@@ -1,0 +1,16 @@
+{
+  "id": "krmi04062022210469",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "krmi04062022210469",
+  "date": "2022-04-06",
+  "venue": "Maharashtra Cricket Association Stadium",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

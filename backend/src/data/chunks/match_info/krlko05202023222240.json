@@ -1,0 +1,16 @@
+{
+  "id": "krlko05202023222240",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "krlko05202023222240",
+  "date": "2023-05-20",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

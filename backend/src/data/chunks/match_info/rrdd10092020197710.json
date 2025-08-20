@@ -1,0 +1,16 @@
+{
+  "id": "rrdd10092020197710",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "rrdd10092020197710",
+  "date": "2020-10-09",
+  "venue": "Sharjah Cricket Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

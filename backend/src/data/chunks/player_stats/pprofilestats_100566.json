@@ -1,0 +1,59 @@
+{
+  "id": "pprofilestats_100566",
+  "type": "player_career_stats",
+  "player": "Himanshu Sharma",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "2",
+        "runs": "-",
+        "batting_strike_rate": "0.00",
+        "batting_average": "-",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "-",
+        "wickets": "0",
+        "overs": "5",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "11.40",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "0/28 v GT",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "241770",
+          "batting_score": "DNB",
+          "bowling_score": "0/29",
+          "opponent": "Rajasthan Royals",
+          "date": "Apr 06, 2024"
+        },
+        {
+          "match_id": "222242",
+          "batting_score": "DNB",
+          "bowling_score": "0/28",
+          "opponent": "Gujarat Titans",
+          "date": "May 21, 2023"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

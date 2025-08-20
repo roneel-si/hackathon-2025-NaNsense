@@ -1,0 +1,31 @@
+{
+  "id": "pprofile_66583",
+  "type": "player_bio",
+  "player": "Ishan Porel",
+  "full_name": "Ishan Chandranath Porel",
+  "dob": "September 5, 1998",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Right-arm medium",
+  "teams": [
+    "India",
+    "East Zone",
+    "India A",
+    "Indian Board Presidents XI",
+    "India Green",
+    "India Red",
+    "Punjab Kings",
+    "India Under-19",
+    "Bengal",
+    "India C",
+    "Bank of Baroda",
+    "Sobisco Smashers Malda",
+    "Rashmi Medinipur Wizards"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "2018",
+    "IPL": "2021"
+  }
+}

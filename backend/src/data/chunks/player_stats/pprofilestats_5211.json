@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_5211",
+  "type": "player_career_stats",
+  "player": "Harpreet Singh",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "9",
+        "runs": "123",
+        "batting_strike_rate": "103.36",
+        "batting_average": "17.57",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "41 v MI",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "3",
+        "stumping": "0",
+        "run_outs": "2"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "243039",
+          "batting_score": "14(19)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "Apr 21, 2024"
+        },
+        {
+          "match_id": "243035",
+          "batting_score": "13(15)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "Apr 18, 2024"
+        },
+        {
+          "match_id": "222203",
+          "batting_score": "41(28)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "Apr 22, 2023"
+        },
+        {
+          "match_id": "222199",
+          "batting_score": "13(9)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Apr 20, 2023"
+        },
+        {
+          "match_id": "222193",
+          "batting_score": "22(22)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "Apr 15, 2023"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

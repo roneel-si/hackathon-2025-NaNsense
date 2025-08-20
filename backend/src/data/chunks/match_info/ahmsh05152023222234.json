@@ -1,0 +1,16 @@
+{
+  "id": "ahmsh05152023222234",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "ahmsh05152023222234",
+  "date": "2023-05-15",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

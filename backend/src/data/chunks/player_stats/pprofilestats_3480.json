@@ -1,0 +1,189 @@
+{
+  "id": "pprofilestats_3480",
+  "type": "player_career_stats",
+  "player": "Amit Mishra",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "162",
+        "runs": "381",
+        "batting_strike_rate": "90.93",
+        "batting_average": "11.91",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "10",
+        "highest_score": "31 v KKR",
+        "wickets": "174",
+        "overs": "561.5",
+        "maidens": "6",
+        "runs_conceded": "174",
+        "economy": "7.38",
+        "bowling_strike_rate": "19.37",
+        "best_bowling_figures": "5/17 v DCH",
+        "three_wicket_hauls": "12",
+        "five_wicket_hauls": "1",
+        "catches": "23",
+        "stumping": "0",
+        "run_outs": "9"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "4965",
+          "date": "May 15, 2008",
+          "opponent": "Deccan Chargers",
+          "opponent_id": "1112",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Delhi Daredevils beat Deccan Chargers by 12 runs"
+        },
+        {
+          "match_id": "5124",
+          "date": "May 10, 2009",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "The Wanderers Stadium, Johannesburg",
+          "venue_id": "111",
+          "match_result": "Delhi Daredevils beat Kolkata Knight Riders by 7 wickets"
+        },
+        {
+          "match_id": "91799",
+          "date": "May 14, 2011",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Deccan Chargers beat Mumbai Indians by 10 runs"
+        },
+        {
+          "match_id": "91802",
+          "date": "May 16, 2011",
+          "opponent": "Pune Warriors India",
+          "opponent_id": "1244",
+          "venue": "Dr. DY Patil Sports Academy, Navi Mumbai",
+          "venue_id": "219",
+          "match_result": "Deccan Chargers beat Pune Warriors India by 6 wickets"
+        },
+        {
+          "match_id": "172255",
+          "date": "April 5, 2013",
+          "opponent": "Pune Warriors India",
+          "opponent_id": "1244",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Sunrisers Hyderabad beat Pune Warriors India by 22 runs"
+        },
+        {
+          "match_id": "172265",
+          "date": "April 12, 2013",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Sunrisers Hyderabad beat Delhi Daredevils by 3 wickets"
+        },
+        {
+          "match_id": "172273",
+          "date": "April 17, 2013",
+          "opponent": "Pune Warriors India",
+          "opponent_id": "1244",
+          "venue": "Maharashtra Cricket Association Stadium, Pune",
+          "venue_id": "1763",
+          "match_result": "Sunrisers Hyderabad beat Pune Warriors India by 11 runs"
+        },
+        {
+          "match_id": "172320",
+          "date": "May 17, 2013",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Sunrisers Hyderabad beat Rajasthan Royals by 23 runs"
+        },
+        {
+          "match_id": "181033",
+          "date": "April 15, 2016",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Delhi Daredevils beat Kings XI Punjab by 8 wickets"
+        },
+        {
+          "match_id": "186225",
+          "date": "May 20, 2018",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Delhi Daredevils beat Mumbai Indians by 11 runs"
+        },
+        {
+          "match_id": "190329",
+          "date": "May 4, 2019",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Delhi Capitals beat Rajasthan Royals by 5 wickets"
+        },
+        {
+          "match_id": "201009",
+          "date": "April 20, 2021",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Delhi Capitals beat Mumbai Indians by 6 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "243047",
+          "batting_score": "DNB",
+          "bowling_score": "1/20",
+          "opponent": "Rajasthan Royals",
+          "date": "April 27, 2024"
+        },
+        {
+          "match_id": "222230",
+          "batting_score": "DNB",
+          "bowling_score": "1/40",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 13, 2023"
+        },
+        {
+          "match_id": "222215",
+          "batting_score": "19(30)",
+          "bowling_score": "2/21",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 1, 2023"
+        },
+        {
+          "match_id": "222210",
+          "batting_score": "DNB",
+          "bowling_score": "0/23",
+          "opponent": "Punjab Kings",
+          "date": "April 28, 2023"
+        },
+        {
+          "match_id": "222202",
+          "batting_score": "DNB",
+          "bowling_score": "1/9",
+          "opponent": "Gujarat Titans",
+          "date": "April 22, 2023"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kpbc05092024243063",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "kpbc05092024243063",
+  "date": "2024-05-09",
+  "venue": "Himachal Pradesh Cricket Association Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Royal Challengers Bengaluru"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bengaluru"
+  }
+}

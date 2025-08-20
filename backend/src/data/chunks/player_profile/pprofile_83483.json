@@ -1,0 +1,20 @@
+{
+  "id": "pprofile_83483",
+  "type": "player_bio",
+  "player": "Vivrant Sharma",
+  "full_name": "Vivrant Sushil Sharma",
+  "dob": "October 30, 1999",
+  "role": "All Rounder",
+  "batting_style": "Left Handed",
+  "bowling_style": "Leg break googly",
+  "teams": [
+    "North Zone",
+    "Jammu and Kashmir",
+    "Sunrisers Hyderabad"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "IPL": "2023"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "lkorr05152022210527",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "lkorr05152022210527",
+  "date": "2022-05-15",
+  "venue": "Brabourne Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

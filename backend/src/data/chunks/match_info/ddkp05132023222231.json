@@ -1,0 +1,16 @@
+{
+  "id": "ddkp05132023222231",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "ddkp05132023222231",
+  "date": "2023-05-13",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

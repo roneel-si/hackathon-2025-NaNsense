@@ -1,0 +1,16 @@
+{
+  "id": "kpmi10012020197700",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "kpmi10012020197700",
+  "date": "2020-10-01",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Kings XI Punjab",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

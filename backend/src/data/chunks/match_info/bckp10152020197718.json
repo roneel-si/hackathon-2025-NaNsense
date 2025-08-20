@@ -1,0 +1,16 @@
+{
+  "id": "bckp10152020197718",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "bckp10152020197718",
+  "date": "2020-10-15",
+  "venue": "Sharjah Cricket Stadium",
+  "teams": [
+    "Royal Challengers Bangalore",
+    "Kings XI Punjab"
+  ],
+  "result": {
+    "winner": "Kings XI Punjab"
+  }
+}

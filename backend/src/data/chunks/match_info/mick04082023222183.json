@@ -1,0 +1,16 @@
+{
+  "id": "mick04082023222183",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "mick04082023222183",
+  "date": "2023-04-08",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

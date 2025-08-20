@@ -1,0 +1,16 @@
+{
+  "id": "bcdd05122024243067",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "bcdd05122024243067",
+  "date": "2024-05-12",
+  "venue": "M.Chinnaswamy Stadium",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bengaluru"
+  }
+}

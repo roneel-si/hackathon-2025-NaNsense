@@ -1,0 +1,16 @@
+{
+  "id": "krsh05212024243076",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "krsh05212024243076",
+  "date": "2024-05-21",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

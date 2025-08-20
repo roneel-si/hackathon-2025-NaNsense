@@ -1,0 +1,16 @@
+{
+  "id": "lkoahm04222023222202",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "lkoahm04222023222202",
+  "date": "2023-04-22",
+  "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

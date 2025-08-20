@@ -1,0 +1,16 @@
+{
+  "id": "bcck05042022210513",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "bcck05042022210513",
+  "date": "2022-05-04",
+  "venue": "Maharashtra Cricket Association Stadium",
+  "teams": [
+    "Royal Challengers Bangalore",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

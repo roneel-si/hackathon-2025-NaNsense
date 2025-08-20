@@ -1,0 +1,16 @@
+{
+  "id": "ddmi04272024243045",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "ddmi04272024243045",
+  "date": "2024-04-27",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

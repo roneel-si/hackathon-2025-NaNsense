@@ -1,0 +1,16 @@
+{
+  "id": "ckkr09262021204177",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "ckkr09262021204177",
+  "date": "2021-09-26",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

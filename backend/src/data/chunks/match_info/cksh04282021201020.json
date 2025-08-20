@@ -1,0 +1,16 @@
+{
+  "id": "cksh04282021201020",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "cksh04282021201020",
+  "date": "2021-04-28",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "pprofilestats_69669",
+  "type": "player_career_stats",
+  "player": "Vijayakanth Viyaskanth",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "3",
+        "runs": "7",
+        "batting_strike_rate": "140.00",
+        "batting_average": "0",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "7* v KKR",
+        "wickets": "1",
+        "overs": "10",
+        "maidens": "0",
+        "runs_conceded": "1",
+        "economy": "8.60",
+        "bowling_strike_rate": "60.00",
+        "best_bowling_figures": "1/37 v PBKS",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "2",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "243076",
+          "batting_score": "7*(5)",
+          "bowling_score": "0/22",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 21, 2024"
+        },
+        {
+          "match_id": "243074",
+          "batting_score": "DNB",
+          "bowling_score": "1/37",
+          "opponent": "Punjab Kings",
+          "date": "May 19, 2024"
+        },
+        {
+          "match_id": "243062",
+          "batting_score": "DNB",
+          "bowling_score": "0/27",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 8, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

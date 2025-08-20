@@ -1,0 +1,16 @@
+{
+  "id": "krsh10032021204188",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "krsh10032021204188",
+  "date": "2021-10-03",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

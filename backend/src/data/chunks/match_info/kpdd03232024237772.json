@@ -1,0 +1,16 @@
+{
+  "id": "kpdd03232024237772",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "kpdd03232024237772",
+  "date": "2024-03-23",
+  "venue": "Maharaja Yadavindra Singh International Cricket Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

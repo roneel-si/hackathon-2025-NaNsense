@@ -1,0 +1,16 @@
+{
+  "id": "rrbc09292021204182",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "rrbc09292021204182",
+  "date": "2021-09-29",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

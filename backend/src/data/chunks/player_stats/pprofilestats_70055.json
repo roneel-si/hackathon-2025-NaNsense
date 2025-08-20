@@ -1,0 +1,73 @@
+{
+  "id": "pprofilestats_70055",
+  "type": "player_career_stats",
+  "player": "Sumit Kumar",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "4",
+        "runs": "18",
+        "batting_strike_rate": "75.00",
+        "batting_average": "9.00",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "9* v GT",
+        "wickets": "0",
+        "overs": "3.2",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "11.40",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "0/19 v PBKS",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "1",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "243033",
+          "batting_score": "9*(9)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "Apr 17, 2024"
+        },
+        {
+          "match_id": "241767",
+          "batting_score": "7(6)",
+          "bowling_score": "0/19",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Apr 03, 2024"
+        },
+        {
+          "match_id": "241755",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Rajasthan Royals",
+          "date": "Mar 28, 2024"
+        },
+        {
+          "match_id": "237772",
+          "batting_score": "2(9)",
+          "bowling_score": "0/19",
+          "opponent": "Punjab Kings",
+          "date": "Mar 23, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

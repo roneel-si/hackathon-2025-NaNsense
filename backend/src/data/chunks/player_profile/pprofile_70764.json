@@ -1,0 +1,40 @@
+{
+  "id": "pprofile_70764",
+  "type": "player_bio",
+  "player": "Dilshan Madushanka",
+  "full_name": "Lokumarakkalage Dilshan Madushanka",
+  "dob": "September 18, 2000",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Left-arm fast medium",
+  "teams": [
+    "Sri Lanka",
+    "Colts Cricket Club",
+    "Sri Lanka Emerging",
+    "Sri Lanka A",
+    "Mumbai Indians",
+    "Sri Lanka Under-19",
+    "Sri Lanka Cricket Board President XI",
+    "Galle",
+    "Multan Sultans",
+    "Team Abu Dhabi",
+    "Sri Lanka Cricket XI",
+    "Abu Dhabi",
+    "Dambulla Sixers",
+    "Galle Marvels",
+    "Jaffna Kings",
+    "SLC Blues",
+    "SLC Greens",
+    "Durban's Super Giants",
+    "Sharjah Warriorz",
+    "SLC Yellow",
+    "Colombo Jaguars"
+  ],
+  "bio": "",
+  "nationality": "Sri Lanka",
+  "career_span": {
+    "Test": "2023-2023",
+    "ODI": "2023-2024",
+    "IPL": ""
+  }
+}

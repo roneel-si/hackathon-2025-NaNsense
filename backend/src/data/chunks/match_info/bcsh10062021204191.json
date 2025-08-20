@@ -1,0 +1,16 @@
+{
+  "id": "bcsh10062021204191",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "bcsh10062021204191",
+  "date": "2021-10-06",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Royal Challengers Bangalore",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

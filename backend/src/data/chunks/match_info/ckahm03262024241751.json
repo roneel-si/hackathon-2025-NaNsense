@@ -1,0 +1,16 @@
+{
+  "id": "ckahm03262024241751",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "ckahm03262024241751",
+  "date": "2024-03-26",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

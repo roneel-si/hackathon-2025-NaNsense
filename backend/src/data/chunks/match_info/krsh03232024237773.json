@@ -1,0 +1,16 @@
+{
+  "id": "krsh03232024237773",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "krsh03232024237773",
+  "date": "2024-03-23",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

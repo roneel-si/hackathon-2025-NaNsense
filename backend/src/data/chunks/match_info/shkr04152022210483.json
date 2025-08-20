@@ -1,0 +1,16 @@
+{
+  "id": "shkr04152022210483",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "shkr04152022210483",
+  "date": "2022-04-15",
+  "venue": "Brabourne Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

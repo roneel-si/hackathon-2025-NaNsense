@@ -1,0 +1,31 @@
+{
+  "id": "pprofile_66871",
+  "type": "player_bio",
+  "player": "Riley Meredith",
+  "full_name": "Riley Patrick Meredith",
+  "dob": "June 21, 1996",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Right-arm fast",
+  "teams": [
+    "Australia",
+    "Tasmania",
+    "Australia A",
+    "Punjab Kings",
+    "Mumbai Indians",
+    "Somerset",
+    "Hobart Hurricanes",
+    "Cricket Australia XI",
+    "Islamabad United",
+    "London Spirit",
+    "Trent Rockets",
+    "Welsh Fire"
+  ],
+  "bio": "",
+  "nationality": "Australia",
+  "career_span": {
+    "Test": "",
+    "ODI": "2021-2021",
+    "IPL": "2021-2023"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rrbc04062024241770",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "rrbc04062024241770",
+  "date": "2024-04-06",
+  "venue": "Sawai Mansingh Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Royal Challengers Bengaluru"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

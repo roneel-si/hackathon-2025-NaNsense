@@ -1,0 +1,16 @@
+{
+  "id": "ahmrr05292022212384",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "ahmrr05292022212384",
+  "date": "2022-05-29",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

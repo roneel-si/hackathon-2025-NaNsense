@@ -1,0 +1,16 @@
+{
+  "id": "krdd04292024243052",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "krdd04292024243052",
+  "date": "2024-04-29",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

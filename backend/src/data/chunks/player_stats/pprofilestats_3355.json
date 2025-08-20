@@ -1,0 +1,225 @@
+{
+  "id": "pprofilestats_3355",
+  "type": "player_career_stats",
+  "player": "Shane Watson",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "145",
+        "runs": "3874",
+        "batting_strike_rate": "137.91",
+        "batting_average": "30.99",
+        "fifties": "21",
+        "hundreds": "4",
+        "ducks": "7",
+        "highest_score": "117* v SRH",
+        "wickets": "92",
+        "overs": "338.1",
+        "maidens": "3",
+        "runs_conceded": "92",
+        "economy": "7.93",
+        "bowling_strike_rate": "22.05",
+        "best_bowling_figures": "4/29 v GL",
+        "three_wicket_hauls": "8",
+        "five_wicket_hauls": "0",
+        "catches": "40",
+        "stumping": "0",
+        "run_outs": "9"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "4934",
+          "date": "Apr 21, 2008",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Sawai Mansingh Stadium, Jaipur",
+          "venue_id": "139",
+          "match_result": "Rajasthan Royals beat Kings XI Punjab by 6 wickets"
+        },
+        {
+          "match_id": "4940",
+          "date": "Apr 26, 2008",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Rajasthan Royals beat Royal Challengers Bangalore by 7 wickets"
+        },
+        {
+          "match_id": "4961",
+          "date": "May 11, 2008",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Sawai Mansingh Stadium, Jaipur",
+          "venue_id": "139",
+          "match_result": "Rajasthan Royals beat Delhi Daredevils by 3 wickets"
+        },
+        {
+          "match_id": "4984",
+          "date": "May 30, 2008",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Rajasthan Royals beat Delhi Daredevils by 105 runs."
+        },
+        {
+          "match_id": "91806",
+          "date": "May 20, 2011",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Rajasthan Royals beat Mumbai Indians by 10 wickets"
+        },
+        {
+          "match_id": "92490",
+          "date": "May 05, 2012",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "I.S. Bindra Punjab Cricket Association Stadium, Mohali",
+          "venue_id": "125",
+          "match_result": "Rajasthan Royals beat Kings XI Punjab by 43 runs"
+        },
+        {
+          "match_id": "92499",
+          "date": "May 08, 2012",
+          "opponent": "Pune Warriors India",
+          "opponent_id": "1244",
+          "venue": "Maharashtra Cricket Association Stadium, Pune",
+          "venue_id": "1763",
+          "match_result": "Rajasthan Royals beat Pune Warriors India by 7 wickets"
+        },
+        {
+          "match_id": "172313",
+          "date": "May 12, 2013",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Sawai Mansingh Stadium, Jaipur",
+          "venue_id": "139",
+          "match_result": "Rajasthan Royals beat Chennai Super Kings by 5 wickets"
+        },
+        {
+          "match_id": "178074",
+          "date": "May 16, 2015",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Brabourne Stadium, Mumbai",
+          "venue_id": "20",
+          "match_result": "Rajasthan Royals beat Kolkata Knight Riders by 9 runs"
+        },
+        {
+          "match_id": "181065",
+          "date": "May 09, 2016",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "I.S. Bindra Punjab Cricket Association Stadium, Mohali",
+          "venue_id": "125",
+          "match_result": "Royal Challengers Bangalore beat Kings XI Punjab by 1 run"
+        },
+        {
+          "match_id": "186187",
+          "date": "Apr 20, 2018",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "Maharashtra Cricket Association Stadium, Pune",
+          "venue_id": "1763",
+          "match_result": "Chennai Super Kings beat Rajasthan Royals by 64 runs"
+        },
+        {
+          "match_id": "186200",
+          "date": "Apr 30, 2018",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Maharashtra Cricket Association Stadium, Pune",
+          "venue_id": "1763",
+          "match_result": "Chennai Super Kings beat Delhi Daredevils by 13 runs"
+        },
+        {
+          "match_id": "186230",
+          "date": "May 27, 2018",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Chennai Super Kings beat Sunrisers Hyderabad by 8 wickets"
+        },
+        {
+          "match_id": "189932",
+          "date": "Mar 26, 2019",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Chennai Super Kings beat Delhi Capitals by 6 wickets"
+        },
+        {
+          "match_id": "190306",
+          "date": "Apr 23, 2019",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Sunrisers Hyderabad by 6 wickets"
+        },
+        {
+          "match_id": "197705",
+          "date": "Oct 04, 2020",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Dubai International Stadium, Dubai",
+          "venue_id": "449",
+          "match_result": "Chennai Super Kings beat Kings XI Punjab by 10 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "197736",
+          "batting_score": "14(19)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Oct 29, 2020"
+        },
+        {
+          "match_id": "197724",
+          "batting_score": "8(3)",
+          "bowling_score": "-",
+          "opponent": "Rajasthan Royals",
+          "date": "Oct 19, 2020"
+        },
+        {
+          "match_id": "197721",
+          "batting_score": "36(28)",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "Oct 17, 2020"
+        },
+        {
+          "match_id": "197716",
+          "batting_score": "42(38)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "Oct 13, 2020"
+        },
+        {
+          "match_id": "197712",
+          "batting_score": "14(18)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Oct 10, 2020"
+        }
+      ],
+      "captaincy": {
+        "matches": "24",
+        "win": "8",
+        "lose": "13",
+        "tied": "2",
+        "draw": "1",
+        "no_result": "33.33",
+        "win_percentage": "54.17",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

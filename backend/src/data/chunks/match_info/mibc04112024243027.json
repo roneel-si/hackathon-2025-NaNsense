@@ -1,0 +1,16 @@
+{
+  "id": "mibc04112024243027",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "mibc04112024243027",
+  "date": "2024-04-11",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Royal Challengers Bengaluru"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

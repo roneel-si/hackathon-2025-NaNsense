@@ -1,0 +1,31 @@
+{
+  "id": "pprofile_4280",
+  "type": "player_bio",
+  "player": "Pradeep Sangwan",
+  "full_name": "Pradeep Jaibeer Sangwan",
+  "dob": "November 5, 1990",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Left-arm medium",
+  "teams": [
+    "India A",
+    "India Blue",
+    "India Red",
+    "North Zone",
+    "Kolkata Knight Riders",
+    "Delhi Capitals",
+    "Mumbai Indians",
+    "India Under-19",
+    "Delhi",
+    "Gujarat Lions",
+    "Gujarat Titans",
+    "Delhi Devils",
+    "American Strikers"
+  ],
+  "bio": "A left-arm medium pacer, Pradeep Sangwan made his first-class debut for Delhi in the Ranji Trophy season of 2007-08, with 33 wickets at a decent average of 19.24. This won him a spot in the Indian team for the U-19 World Cup in Malaysia, where he impressed everyone with his seam and swing bowling and his 5 for 44 was instrumental in India’s win against South Africa at the group stage. In 2008, he was picked by the Delhi Daredevils for the first IPL season and was later bought by the Kolkata Knight Riders in 2011.",
+  "nationality": "India",
+  "career_span": {
+    "ODI": "2017",
+    "IPL": "2008-2022"
+  }
+}

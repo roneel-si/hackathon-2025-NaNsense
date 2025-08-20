@@ -1,0 +1,16 @@
+{
+  "id": "mikp10182020197723",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "mikp10182020197723",
+  "date": "2020-10-18",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Kings XI Punjab"
+  ],
+  "result": {
+    "winner": "Kings XI Punjab"
+  }
+}

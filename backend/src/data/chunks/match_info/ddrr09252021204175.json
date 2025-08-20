@@ -1,0 +1,16 @@
+{
+  "id": "ddrr09252021204175",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "ddrr09252021204175",
+  "date": "2021-09-25",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

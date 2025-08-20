@@ -1,0 +1,22 @@
+{
+  "id": "pprofile_66415",
+  "type": "player_bio",
+  "player": "Pratham Singh",
+  "full_name": "Pratham Singh",
+  "dob": "August 31, 1992",
+  "role": "Batsman",
+  "batting_style": "Left Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "Central Zone",
+    "India A",
+    "Railways A",
+    "Kolkata Knight Riders",
+    "Delhi",
+    "Railways",
+    "Gujarat Lions"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {}
+}

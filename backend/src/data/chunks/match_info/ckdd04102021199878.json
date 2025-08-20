@@ -1,0 +1,16 @@
+{
+  "id": "ckdd04102021199878",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "ckdd04102021199878",
+  "date": "2021-04-10",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

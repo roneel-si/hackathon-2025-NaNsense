@@ -1,0 +1,16 @@
+{
+  "id": "ddck05202023222239",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "ddck05202023222239",
+  "date": "2023-05-20",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

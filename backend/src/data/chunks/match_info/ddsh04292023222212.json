@@ -1,0 +1,16 @@
+{
+  "id": "ddsh04292023222212",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "ddsh04292023222212",
+  "date": "2023-04-29",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_68192",
+  "type": "player_career_stats",
+  "player": "Sanvir Singh",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "6",
+        "runs": "25",
+        "batting_strike_rate": "119.04",
+        "batting_average": "12.50",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "8* v MI",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "3",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "243076",
+          "batting_score": "0(1)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 21, 2024"
+        },
+        {
+          "match_id": "243074",
+          "batting_score": "6*(4)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "May 19, 2024"
+        },
+        {
+          "match_id": "243062",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 08, 2024"
+        },
+        {
+          "match_id": "243060",
+          "batting_score": "8*(7)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 06, 2024"
+        },
+        {
+          "match_id": "222241",
+          "batting_score": "4*(3)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 21, 2023"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

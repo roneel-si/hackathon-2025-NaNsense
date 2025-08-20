@@ -1,0 +1,66 @@
+{
+  "id": "pprofilestats_64293",
+  "type": "player_career_stats",
+  "player": "Baba Indrajith",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "3",
+        "runs": "21",
+        "batting_strike_rate": "70.00",
+        "batting_average": "7.00",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "15 v RR",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "1",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "210517",
+          "batting_score": "0(6)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 07, 2022"
+        },
+        {
+          "match_id": "210511",
+          "batting_score": "15(16)",
+          "bowling_score": "-",
+          "opponent": "Rajasthan Royals",
+          "date": "May 02, 2022"
+        },
+        {
+          "match_id": "210505",
+          "batting_score": "6(8)",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "Apr 28, 2022"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

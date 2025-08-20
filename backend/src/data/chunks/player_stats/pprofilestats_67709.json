@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_67709",
+  "type": "player_career_stats",
+  "player": "KM Asif",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "7",
+        "runs": "0",
+        "batting_strike_rate": "0.00",
+        "batting_average": "0",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": " v RR",
+        "wickets": "7",
+        "overs": "22.1",
+        "maidens": "0",
+        "runs_conceded": "7",
+        "economy": "10.42",
+        "bowling_strike_rate": "19.00",
+        "best_bowling_figures": "2/42 v RCB",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "1",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "222232",
+          "batting_score": "0(2)",
+          "bowling_score": "2/42",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 14, 2023"
+        },
+        {
+          "match_id": "222228",
+          "batting_score": "DNB",
+          "bowling_score": "1/27",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 11, 2023"
+        },
+        {
+          "match_id": "222177",
+          "batting_score": "DNB",
+          "bowling_score": "0/54",
+          "opponent": "Punjab Kings",
+          "date": "April 5, 2023"
+        },
+        {
+          "match_id": "219157",
+          "batting_score": "DNB",
+          "bowling_score": "0/15",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "April 2, 2023"
+        },
+        {
+          "match_id": "204186",
+          "batting_score": "DNB",
+          "bowling_score": "1/18",
+          "opponent": "Rajasthan Royals",
+          "date": "October 2, 2021"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

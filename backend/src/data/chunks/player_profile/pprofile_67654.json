@@ -1,0 +1,31 @@
+{
+  "id": "pprofile_67654",
+  "type": "player_bio",
+  "player": "BR Sharath",
+  "full_name": "Belur Ravi Sharath",
+  "dob": "September 28, 1996",
+  "role": "Wicket-Keeper",
+  "batting_style": "Right Handed",
+  "bowling_style": "-",
+  "teams": [
+    "India Emerging",
+    "Karnataka",
+    "India Under-23",
+    "Belagavi Panthers",
+    "Shivamogga Lions",
+    "Bijapur Bulls",
+    "Rock Stars",
+    "Bengaluru Blasters",
+    "Gujarat Titans",
+    "Gulbarga Mystics",
+    "Mangaluru Dragons",
+    "Karavali Tigers"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": "2024-2024"
+  }
+}

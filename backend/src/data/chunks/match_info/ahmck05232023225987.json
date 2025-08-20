@@ -1,0 +1,16 @@
+{
+  "id": "ahmck05232023225987",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "ahmck05232023225987",
+  "date": "2023-05-23",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

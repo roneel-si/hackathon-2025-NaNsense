@@ -1,0 +1,16 @@
+{
+  "id": "rrahm04142022210482",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "rrahm04142022210482",
+  "date": "2022-04-14",
+  "venue": "Dr. DY Patil Sports Academy",
+  "teams": [
+    "Rajasthan Royals",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

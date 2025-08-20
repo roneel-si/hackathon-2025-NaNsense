@@ -1,0 +1,16 @@
+{
+  "id": "ckahm05152022210526",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "ckahm05152022210526",
+  "date": "2022-05-15",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ddkp04182021201007",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "ddkp04182021201007",
+  "date": "2021-04-18",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

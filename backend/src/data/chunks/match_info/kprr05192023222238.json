@@ -1,0 +1,16 @@
+{
+  "id": "kprr05192023222238",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "kprr05192023222238",
+  "date": "2023-05-19",
+  "venue": "Himachal Pradesh Cricket Association Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

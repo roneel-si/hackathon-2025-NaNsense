@@ -1,0 +1,38 @@
+{
+  "id": "pprofile_4300",
+  "type": "player_bio",
+  "player": "Shreevats Goswami",
+  "full_name": "Shreevats Pratyush Goswami",
+  "dob": "May 18, 1989",
+  "role": "Wicket-Keeper",
+  "batting_style": "Left Handed",
+  "bowling_style": "-",
+  "teams": [
+    "India",
+    "East Zone",
+    "India A",
+    "India B",
+    "India Blue",
+    "Royal Challengers Bengaluru",
+    "Kolkata Knight Riders",
+    "Rajasthan Royals",
+    "India Under-19",
+    "Bengal",
+    "Sunrisers Hyderabad",
+    "Kalabagan Krira Chakra",
+    "Mizoram",
+    "East Bengal Club",
+    "Southern Super Stars",
+    "Indian Royals",
+    "Rajasthan Regals",
+    "Gujarat Samp Army",
+    "Miami Blaze"
+  ],
+  "bio": "A stylish left-hander and wicket-keeper, Shreevats Goswami represents Bengal in first-class cricket. He started playing cricket at the age of 11, went on to represent the Indian Under-19s on its tour to South Africa in 2008, and also made valuable contributions to the U-19 team in the World Cup held in Malaysia. Later that year, he made his first-class debut against Madhya Pradesh. He idolizes Adam Gilchrist. Goswami opened the innings for the Bangalore Royal Challengers for a few games in the first three editions of the IPL. He was then signed by the Kolkata Knight Riders in 2011 and was retained the following year.",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": "2008-2020"
+  }
+}

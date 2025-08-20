@@ -1,0 +1,36 @@
+{
+  "id": "pprofile_3480",
+  "type": "player_bio",
+  "player": "Amit Mishra",
+  "full_name": "Amit Mishra",
+  "dob": "November 24, 1982",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Leg break",
+  "teams": [
+    "India",
+    "India A",
+    "India Blue",
+    "Indian Board Presidents XI",
+    "Indian Inv XI",
+    "India Red",
+    "India Seniors",
+    "North Zone",
+    "Rest of India",
+    "Delhi Capitals",
+    "Deccan Chargers",
+    "India Under-19",
+    "Haryana",
+    "Sunrisers Hyderabad",
+    "Lucknow Super Giants",
+    "MP Tigers",
+    "Asian Kings"
+  ],
+  "bio": "Equipped with the near-impossible task of replacing India's leading wicket-taker - Anil Kumble, Amit Mishra made a notable start to his Test career with his leg spin. Deputizing for the then injured Kumble against a visiting Australia side in 2008, his figures of 5-71 led India to one of two Test wins to lift the Border-Gavaskar trophy. Five years before his first Test, Mishra debuted in ODIs in 2003 against South Africa. Later, recognition arrived after impressive displays in the Indian T20 League for his home city, Delhi and Hyderabad later. A well-disguised googly and a precision leg-break are Mishra's honed stock deliveries. Following Kumble's retirement from Tests, Mishra became the first choice to partner Harbhajan whenever selectors opted for a two-pronged spin attack. Like his off-break partner, Mishra too is a handy tail-ender with the technical ability to become a good bowling all-rounder. Mishra has been provided with many opportunities to establish himself in both the shorter formats and the long ones, but unfortunately, he hasn't grabbed them at the big stages until the recent World T20 held in Bangladesh. Mishra managed to pick up 10 wickets in 6 matches in that tournament. He was even declared the man of the match in two consecutive matches for his brilliant bowling performance. Amit Mishra always has been a prolific wickettaker in the domestic circuit while his performance with the ball in the Indian T20 League has earned him the tag of one of the best spinners in the league. However, his international show has always been hot and cold. The rise of Ravichandran Ashwin and Ravindra Jadeja has put extra pressure on him and he always finds himself in and out of the national team. Although, he still remains one of the best leg spinners in the country.",
+  "nationality": "India",
+  "career_span": {
+    "Test": "2008-2016",
+    "ODI": "2003-2016",
+    "IPL": "2008-2024"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mick04142024243031",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "mick04142024243031",
+  "date": "2024-04-14",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

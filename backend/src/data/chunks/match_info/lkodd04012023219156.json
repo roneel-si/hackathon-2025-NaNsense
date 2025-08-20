@@ -1,0 +1,16 @@
+{
+  "id": "lkodd04012023219156",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "lkodd04012023219156",
+  "date": "2023-04-01",
+  "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

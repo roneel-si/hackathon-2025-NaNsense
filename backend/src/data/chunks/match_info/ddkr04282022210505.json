@@ -1,0 +1,16 @@
+{
+  "id": "ddkr04282022210505",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "ddkr04282022210505",
+  "date": "2022-04-28",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

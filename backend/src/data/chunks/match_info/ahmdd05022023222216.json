@@ -1,0 +1,16 @@
+{
+  "id": "ahmdd05022023222216",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "ahmdd05022023222216",
+  "date": "2023-05-02",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

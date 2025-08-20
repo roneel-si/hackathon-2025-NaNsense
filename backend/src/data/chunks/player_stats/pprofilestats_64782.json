@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_64782",
+  "type": "player_career_stats",
+  "player": "Basil Thampi",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "25",
+        "runs": "32",
+        "batting_strike_rate": "91.43",
+        "batting_average": "32",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "13* v SRH",
+        "wickets": "22",
+        "overs": "86.5",
+        "maidens": "1",
+        "runs_conceded": "22",
+        "economy": "9.74",
+        "bowling_strike_rate": "23.68",
+        "best_bowling_figures": "3/29 v MI",
+        "three_wicket_hauls": "2",
+        "five_wicket_hauls": "0",
+        "catches": "5",
+        "stumping": "0",
+        "run_outs": "1"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "210480",
+          "batting_score": "DNB",
+          "bowling_score": "2/47",
+          "opponent": "Punjab Kings",
+          "date": "April 13, 2022"
+        },
+        {
+          "match_id": "210475",
+          "batting_score": "DNB",
+          "bowling_score": "0/29",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "April 9, 2022"
+        },
+        {
+          "match_id": "210469",
+          "batting_score": "DNB",
+          "bowling_score": "0/15",
+          "opponent": "Kolkata Knight Riders",
+          "date": "April 6, 2022"
+        },
+        {
+          "match_id": "210459",
+          "batting_score": "DNB",
+          "bowling_score": "0/26",
+          "opponent": "Rajasthan Royals",
+          "date": "April 2, 2022"
+        },
+        {
+          "match_id": "208289",
+          "batting_score": "DNB",
+          "bowling_score": "3/35",
+          "opponent": "Delhi Capitals",
+          "date": "March 27, 2022"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

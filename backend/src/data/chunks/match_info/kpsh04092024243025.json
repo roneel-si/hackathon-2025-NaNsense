@@ -1,0 +1,16 @@
+{
+  "id": "kpsh04092024243025",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "kpsh04092024243025",
+  "date": "2024-04-09",
+  "venue": "Maharaja Yadavindra Singh International Cricket Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

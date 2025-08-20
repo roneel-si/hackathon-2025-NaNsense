@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_63338",
+  "type": "player_career_stats",
+  "player": "Murugan Ashwin",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "44",
+        "runs": "35",
+        "batting_strike_rate": "70.00",
+        "batting_average": "3.88",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "4",
+        "highest_score": "9 v SRH",
+        "wickets": "35",
+        "overs": "145",
+        "maidens": "0",
+        "runs_conceded": "35",
+        "economy": "8.01",
+        "bowling_strike_rate": "24.85",
+        "best_bowling_figures": "3/21 v RCB",
+        "three_wicket_hauls": "2",
+        "five_wicket_hauls": "0",
+        "catches": "7",
+        "stumping": "0",
+        "run_outs": "3"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "222224",
+          "batting_score": "DNB",
+          "bowling_score": "0/42",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 07, 2023"
+        },
+        {
+          "match_id": "222182",
+          "batting_score": "DNB",
+          "bowling_score": "0/11",
+          "opponent": "Delhi Capitals",
+          "date": "Apr 08, 2023"
+        },
+        {
+          "match_id": "210520",
+          "batting_score": "0(2)",
+          "bowling_score": "1/35",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 09, 2022"
+        },
+        {
+          "match_id": "210515",
+          "batting_score": "0*(0)",
+          "bowling_score": "2/29",
+          "opponent": "Gujarat Titans",
+          "date": "May 06, 2022"
+        },
+        {
+          "match_id": "210485",
+          "batting_score": "6(2)",
+          "bowling_score": "1/33",
+          "opponent": "Lucknow Super Giants",
+          "date": "Apr 16, 2022"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

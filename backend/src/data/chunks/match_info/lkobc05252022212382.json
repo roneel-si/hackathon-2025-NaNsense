@@ -1,0 +1,16 @@
+{
+  "id": "lkobc05252022212382",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "lkobc05252022212382",
+  "date": "2022-05-25",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Lucknow Super Giants",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

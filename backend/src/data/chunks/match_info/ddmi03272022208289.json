@@ -1,0 +1,16 @@
+{
+  "id": "ddmi03272022208289",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "ddmi03272022208289",
+  "date": "2022-03-27",
+  "venue": "Brabourne Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

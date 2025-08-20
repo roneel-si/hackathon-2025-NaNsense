@@ -1,0 +1,16 @@
+{
+  "id": "ckbc04252021201016",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "ckbc04252021201016",
+  "date": "2021-04-25",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cklko04032023222174",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "cklko04032023222174",
+  "date": "2023-04-03",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

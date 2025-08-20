@@ -1,0 +1,24 @@
+{
+  "id": "pprofile_65150",
+  "type": "player_bio",
+  "player": "K Ashwin Hebbar",
+  "full_name": "Kattingeri Ashwin Hebbar",
+  "dob": "November 15, 1995",
+  "role": "Batsman",
+  "batting_style": "Right Handed",
+  "bowling_style": "Right-arm medium",
+  "teams": [
+    "Delhi Capitals",
+    "Andhra",
+    "Champions XI",
+    "Vizag Warriors",
+    "Vijayawada Sunshiners"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": ""
+  }
+}

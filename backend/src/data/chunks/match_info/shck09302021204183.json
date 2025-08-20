@@ -1,0 +1,16 @@
+{
+  "id": "shck09302021204183",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "shck09302021204183",
+  "date": "2021-09-30",
+  "venue": "Sharjah Cricket Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

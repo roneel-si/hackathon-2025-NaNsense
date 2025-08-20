@@ -1,0 +1,16 @@
+{
+  "id": "ckbc10102020197712",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "ckbc10102020197712",
+  "date": "2020-10-10",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

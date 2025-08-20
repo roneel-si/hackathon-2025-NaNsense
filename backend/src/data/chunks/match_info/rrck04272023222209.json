@@ -1,0 +1,16 @@
+{
+  "id": "rrck04272023222209",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "rrck04272023222209",
+  "date": "2023-04-27",
+  "venue": "Sawai Mansingh Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

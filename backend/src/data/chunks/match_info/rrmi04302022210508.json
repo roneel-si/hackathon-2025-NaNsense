@@ -1,0 +1,16 @@
+{
+  "id": "rrmi04302022210508",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "rrmi04302022210508",
+  "date": "2022-04-30",
+  "venue": "Dr. DY Patil Sports Academy",
+  "teams": [
+    "Rajasthan Royals",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

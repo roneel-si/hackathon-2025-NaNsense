@@ -1,0 +1,16 @@
+{
+  "id": "krdd10242020197729",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "krdd10242020197729",
+  "date": "2020-10-24",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

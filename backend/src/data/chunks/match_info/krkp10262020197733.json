@@ -1,0 +1,16 @@
+{
+  "id": "krkp10262020197733",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "krkp10262020197733",
+  "date": "2020-10-26",
+  "venue": "Sharjah Cricket Stadium",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Kings XI Punjab"
+  ],
+  "result": {
+    "winner": "Kings XI Punjab"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "pprofilestats_3366",
+  "type": "player_career_stats",
+  "player": "Parthiv Patel",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "139",
+        "runs": "2848",
+        "batting_strike_rate": "120.78",
+        "batting_average": "22.6",
+        "fifties": "13",
+        "hundreds": "0",
+        "ducks": "13",
+        "highest_score": "81 v PBKS",
+        "wickets": "0",
+        "overs": "0",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "0.00",
+        "bowling_strike_rate": "0.00",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "69",
+        "stumping": "16",
+        "run_outs": "10"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "172311",
+          "date": "May 11, 2013",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "I.S. Bindra Punjab Cricket Association Stadium, Mohali",
+          "venue_id": "125",
+          "match_result": "Sunrisers Hyderabad beat Kings XI Punjab by 30 runs"
+        },
+        {
+          "match_id": "172324",
+          "date": "May 19, 2013",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Sunrisers Hyderabad beat Kolkata Knight Riders by 5 wickets"
+        },
+        {
+          "match_id": "175876",
+          "date": "April 19, 2014",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Dubai International Stadium, Dubai",
+          "venue_id": "449",
+          "match_result": "Royal Challengers Bangalore beat Mumbai Indians by 7 wickets"
+        },
+        {
+          "match_id": "181047",
+          "date": "April 25, 2016",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "I.S. Bindra Punjab Cricket Association Stadium, Mohali",
+          "venue_id": "125",
+          "match_result": "Mumbai Indians beat Kings XI Punjab by 25 runs"
+        },
+        {
+          "match_id": "190300",
+          "date": "April 21, 2019",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Royal Challengers Bangalore beat Chennai Super Kings by 1 run"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "190330",
+          "batting_score": "0(3)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 4, 2019"
+        },
+        {
+          "match_id": "190325",
+          "batting_score": "8(5)",
+          "bowling_score": "-",
+          "opponent": "Rajasthan Royals",
+          "date": "April 30, 2019"
+        },
+        {
+          "match_id": "190319",
+          "batting_score": "39(20)",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "April 28, 2019"
+        },
+        {
+          "match_id": "190308",
+          "batting_score": "43(24)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "April 24, 2019"
+        },
+        {
+          "match_id": "190300",
+          "batting_score": "53(37)",
+          "bowling_score": "-",
+          "opponent": "Chennai Super Kings",
+          "date": "April 21, 2019"
+        }
+      ],
+      "captaincy": {
+        "matches": "1",
+        "win": "0",
+        "lose": "1",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "100"
+      }
+    }
+  ]
+}

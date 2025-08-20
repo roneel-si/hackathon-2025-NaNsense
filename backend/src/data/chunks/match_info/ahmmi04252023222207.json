@@ -1,0 +1,16 @@
+{
+  "id": "ahmmi04252023222207",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "ahmmi04252023222207",
+  "date": "2023-04-25",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

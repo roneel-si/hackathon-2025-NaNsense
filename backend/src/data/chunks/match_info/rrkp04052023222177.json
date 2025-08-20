@@ -1,0 +1,16 @@
+{
+  "id": "rrkp04052023222177",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "rrkp04052023222177",
+  "date": "2023-04-05",
+  "venue": "Barsapara Cricket Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

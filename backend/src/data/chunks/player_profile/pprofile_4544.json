@@ -1,0 +1,40 @@
+{
+  "id": "pprofile_4544",
+  "type": "player_bio",
+  "player": "Jalaj Saxena",
+  "full_name": "Jalaj Sahai Saxena",
+  "dob": "December 15, 1986",
+  "role": "All-Rounder",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "Central Zone",
+    "India A",
+    "India B",
+    "India Blue",
+    "Indian Board Presidents XI",
+    "India Green",
+    "India Red",
+    "Rest of India",
+    "Royal Challengers Bengaluru",
+    "Punjab Kings",
+    "Delhi Capitals",
+    "Mumbai Indians",
+    "Madhya Pradesh",
+    "Kerala",
+    "Sheikh Jamal Dhanmondi Club",
+    "Legends of Rupganj",
+    "India C",
+    "KCA Lions",
+    "KCA Panthers",
+    "Jolly Rovers CC",
+    "Alleppey Ripples"
+  ],
+  "bio": "Hailing from Indore, Jalaj Saxena is a right-arm off-spinner. He made his debut for Madhya Pradesh in 2005. Saxena is a handy all-rounder with his useful contributions with bat and ball. He was signed by the Mumbai franchise for the sixth edition of the Indian T20 League in 2013 and re-signed the next year as well for the seventh edition for 90 lakhs.",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": "2021-2021"
+  }
+}

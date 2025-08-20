@@ -1,0 +1,16 @@
+{
+  "id": "ckkr03262022208288",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "ckkr03262022208288",
+  "date": "2022-03-26",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

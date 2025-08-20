@@ -1,0 +1,16 @@
+{
+  "id": "lkoahm04072024241772",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "lkoahm04072024241772",
+  "date": "2024-04-07",
+  "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

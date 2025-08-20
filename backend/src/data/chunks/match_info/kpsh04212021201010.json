@@ -1,0 +1,16 @@
+{
+  "id": "kpsh04212021201010",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "kpsh04212021201010",
+  "date": "2021-04-21",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ddsh11082020198674",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "ddsh11082020198674",
+  "date": "2020-11-08",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

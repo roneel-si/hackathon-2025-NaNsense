@@ -1,0 +1,16 @@
+{
+  "id": "bckr04182021201006",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "bckr04182021201006",
+  "date": "2021-04-18",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Royal Challengers Bangalore",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

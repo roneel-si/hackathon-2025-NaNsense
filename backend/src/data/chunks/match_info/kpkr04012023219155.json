@@ -1,0 +1,16 @@
+{
+  "id": "kpkr04012023219155",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "kpkr04012023219155",
+  "date": "2023-04-01",
+  "venue": "Punjab Cricket Association IS Bindra Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

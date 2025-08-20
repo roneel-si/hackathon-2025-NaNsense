@@ -1,0 +1,16 @@
+{
+  "id": "shlko05082024243062",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "shlko05082024243062",
+  "date": "2024-05-08",
+  "venue": "Rajiv Gandhi International Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

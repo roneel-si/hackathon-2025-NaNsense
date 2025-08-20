@@ -1,0 +1,27 @@
+{
+  "id": "pprofile_67706",
+  "type": "player_bio",
+  "player": "Yarra Prithvi Raj",
+  "full_name": "Yarra Prithvi Raj",
+  "dob": "February 20, 1998",
+  "role": "Bowler",
+  "batting_style": "Left Handed",
+  "bowling_style": "Left-arm medium",
+  "teams": [
+    "India A",
+    "India B",
+    "India Red",
+    "Kolkata Knight Riders",
+    "Andhra",
+    "Sunrisers Hyderabad",
+    "Uttarandhra Lions",
+    "Vijayawada Sunshiners"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": "2019-2019"
+  }
+}

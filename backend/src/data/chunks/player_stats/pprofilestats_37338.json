@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_37338",
+  "type": "player_career_stats",
+  "player": "Sheldon Jackson",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "9",
+        "runs": "61",
+        "batting_strike_rate": "107.01",
+        "batting_average": "10.16",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "16 v SRH",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "7",
+        "stumping": "2",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "210520",
+          "batting_score": "5(7)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 09, 2022"
+        },
+        {
+          "match_id": "210492",
+          "batting_score": "8(8)",
+          "bowling_score": "-",
+          "opponent": "Rajasthan Royals",
+          "date": "Apr 18, 2022"
+        },
+        {
+          "match_id": "210483",
+          "batting_score": "7(7)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "Apr 15, 2022"
+        },
+        {
+          "match_id": "210456",
+          "batting_score": "0(1)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Mar 30, 2022"
+        },
+        {
+          "match_id": "208288",
+          "batting_score": "3*(3)",
+          "bowling_score": "-",
+          "opponent": "Chennai Super Kings",
+          "date": "Mar 26, 2022"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

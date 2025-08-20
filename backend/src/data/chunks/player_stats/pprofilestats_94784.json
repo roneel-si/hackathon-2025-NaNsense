@@ -6,74 +6,38 @@
     {
       "league": "IPL",
       "career": {
-        "matches": "7",
-        "runs": "0",
-        "batting_strike_rate": "0.00",
-        "batting_average": "0",
-        "fifties": "0",
-        "hundreds": "0",
-        "ducks": "0",
-        "highest_score": " v PBKS",
-        "wickets": "13",
-        "overs": "26.4",
-        "maidens": "0",
-        "runs_conceded": "13",
-        "economy": "8.93",
-        "bowling_strike_rate": "12.31",
-        "best_bowling_figures": "3/31 v KKR",
-        "three_wicket_hauls": "1",
-        "five_wicket_hauls": "0",
-        "catches": "4",
-        "stumping": "0",
-        "run_outs": "1"
+        "matches": "-",
+        "runs": "-",
+        "batting_strike_rate": "-",
+        "batting_average": "-",
+        "fifties": "-",
+        "hundreds": "-",
+        "ducks": "-",
+        "highest_score": "-",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "-"
       },
       "man_of_the_matches": [],
-      "recent_games": [
-        {
-          "match_id": "260869",
-          "batting_score": "DNB",
-          "bowling_score": "3/31",
-          "opponent": "Kolkata Knight Riders",
-          "date": "May 25, 2025"
-        },
-        {
-          "match_id": "260867",
-          "batting_score": "DNB",
-          "bowling_score": "2/37",
-          "opponent": "Royal Challengers Bengaluru",
-          "date": "May 23, 2025"
-        },
-        {
-          "match_id": "260863",
-          "batting_score": "DNB",
-          "bowling_score": "2/28",
-          "opponent": "Lucknow Super Giants",
-          "date": "May 19, 2025"
-        },
-        {
-          "match_id": "257269",
-          "batting_score": "DNB",
-          "bowling_score": "1/28",
-          "opponent": "Delhi Capitals",
-          "date": "May 5, 2025"
-        },
-        {
-          "match_id": "257255",
-          "batting_score": "DNB",
-          "bowling_score": "1/33",
-          "opponent": "Mumbai Indians",
-          "date": "April 23, 2025"
-        }
-      ],
+      "recent_games": [],
       "captaincy": {
-        "matches": "0",
-        "win": "0",
-        "lose": "0",
-        "tied": "0",
-        "draw": "0",
-        "no_result": "0",
-        "win_percentage": "0",
-        "loss_percentage": "0"
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
       }
     }
   ]

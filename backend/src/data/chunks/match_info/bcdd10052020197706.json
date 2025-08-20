@@ -1,0 +1,16 @@
+{
+  "id": "bcdd10052020197706",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "bcdd10052020197706",
+  "date": "2020-10-05",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Royal Challengers Bangalore",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

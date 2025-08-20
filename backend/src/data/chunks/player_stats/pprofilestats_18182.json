@@ -1,0 +1,59 @@
+{
+  "id": "pprofilestats_18182",
+  "type": "player_career_stats",
+  "player": "Sisanda Magala",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "2",
+        "runs": "0",
+        "batting_strike_rate": "0.00",
+        "batting_average": "0",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": " v MI",
+        "wickets": "1",
+        "overs": "6",
+        "maidens": "0",
+        "runs_conceded": "1",
+        "economy": "8.50",
+        "bowling_strike_rate": "36.00",
+        "best_bowling_figures": "1/37 v MI",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "1",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "222189",
+          "batting_score": "DNB",
+          "bowling_score": "0/14",
+          "opponent": "Rajasthan Royals",
+          "date": "April 12, 2023"
+        },
+        {
+          "match_id": "222183",
+          "batting_score": "DNB",
+          "bowling_score": "1/37",
+          "opponent": "Mumbai Indians",
+          "date": "April 8, 2023"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

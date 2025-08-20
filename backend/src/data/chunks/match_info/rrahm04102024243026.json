@@ -1,0 +1,16 @@
+{
+  "id": "rrahm04102024243026",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "rrahm04102024243026",
+  "date": "2024-04-10",
+  "venue": "Sawai Mansingh Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

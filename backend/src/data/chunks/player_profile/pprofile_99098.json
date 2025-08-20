@@ -1,0 +1,17 @@
+{
+  "id": "pprofile_99098",
+  "type": "player_bio",
+  "player": "Sakib Hussain",
+  "full_name": "Sakib Hussain",
+  "dob": "December 14, 2004",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Right-arm medium",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Bihar"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {}
+}

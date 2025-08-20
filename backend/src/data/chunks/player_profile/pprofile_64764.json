@@ -1,0 +1,26 @@
+{
+  "id": "pprofile_64764",
+  "type": "player_bio",
+  "player": "Upendra Yadav",
+  "full_name": "Upendra Diwansingh Yadav",
+  "dob": "October 8, 1996",
+  "role": "Wicket-Keeper",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "Central Zone",
+    "India A",
+    "Rest of India",
+    "Railways",
+    "Uttar Pradesh",
+    "Sunrisers Hyderabad",
+    "Kashi Rudras"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": ""
+  }
+}

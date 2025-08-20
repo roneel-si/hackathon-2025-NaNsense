@@ -1,0 +1,16 @@
+{
+  "id": "krkp04262024243044",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "krkp04262024243044",
+  "date": "2024-04-26",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pprofile_68192",
+  "type": "player_bio",
+  "player": "Sanvir Singh",
+  "full_name": "Sanvir Singh",
+  "dob": "October 12, 1996",
+  "role": "All Rounder",
+  "batting_style": "Right Handed",
+  "bowling_style": "Right-arm medium",
+  "teams": [
+    "India Emerging",
+    "Punjab",
+    "Sunrisers Hyderabad",
+    "Mylapore Recreation Club A",
+    "JK Super Strikers"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "ODI": "2024",
+    "IPL": "2023-2024"
+  }
+}

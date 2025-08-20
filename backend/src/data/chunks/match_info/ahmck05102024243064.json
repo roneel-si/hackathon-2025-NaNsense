@@ -1,0 +1,16 @@
+{
+  "id": "ahmck05102024243064",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "ahmck05102024243064",
+  "date": "2024-05-10",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

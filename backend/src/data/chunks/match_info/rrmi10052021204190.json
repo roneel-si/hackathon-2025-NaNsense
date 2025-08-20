@@ -1,0 +1,16 @@
+{
+  "id": "rrmi10052021204190",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "rrmi10052021204190",
+  "date": "2021-10-05",
+  "venue": "Sharjah Cricket Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

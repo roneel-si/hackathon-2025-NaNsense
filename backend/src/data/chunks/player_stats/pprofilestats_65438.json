@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_65438",
+  "type": "player_career_stats",
+  "player": "Anmolpreet Singh",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "9",
+        "runs": "139",
+        "batting_strike_rate": "120.87",
+        "batting_average": "15.44",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "36 v LSG",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "1",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "243055",
+          "batting_score": "5(5)",
+          "bowling_score": "-",
+          "opponent": "Rajasthan Royals",
+          "date": "May 02, 2024"
+        },
+        {
+          "match_id": "243051",
+          "batting_score": "0(1)",
+          "bowling_score": "-",
+          "opponent": "Chennai Super Kings",
+          "date": "Apr 28, 2024"
+        },
+        {
+          "match_id": "222234",
+          "batting_score": "5(4)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "May 15, 2023"
+        },
+        {
+          "match_id": "222230",
+          "batting_score": "36(27)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 13, 2023"
+        },
+        {
+          "match_id": "222224",
+          "batting_score": "33(25)",
+          "bowling_score": "-",
+          "opponent": "Rajasthan Royals",
+          "date": "May 07, 2023"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

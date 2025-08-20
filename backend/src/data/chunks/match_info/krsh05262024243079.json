@@ -1,0 +1,16 @@
+{
+  "id": "krsh05262024243079",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "krsh05262024243079",
+  "date": "2024-05-26",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

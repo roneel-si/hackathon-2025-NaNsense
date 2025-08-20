@@ -1,0 +1,16 @@
+{
+  "id": "midd10022021204185",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "midd10022021204185",
+  "date": "2021-10-02",
+  "venue": "Sharjah Cricket Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "pprofilestats_5435",
+  "type": "player_career_stats",
+  "player": "Aditya Tare",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "35",
+        "runs": "339",
+        "batting_strike_rate": "124.17",
+        "batting_average": "14.12",
+        "fifties": "1",
+        "hundreds": "0",
+        "ducks": "6",
+        "highest_score": "59 v RR",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "3",
+        "stumping": "5",
+        "run_outs": "2"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "172318",
+          "date": "May 15, 2013",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Mumbai Indians beat Rajasthan Royals by 14 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "183402",
+          "batting_score": "0(1)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "Apr 22, 2017"
+        },
+        {
+          "match_id": "183386",
+          "batting_score": "0(5)",
+          "bowling_score": "-",
+          "opponent": "Rising Pune Supergiant",
+          "date": "Apr 11, 2017"
+        },
+        {
+          "match_id": "183382",
+          "batting_score": "18(17)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Apr 08, 2017"
+        },
+        {
+          "match_id": "181048",
+          "batting_score": "8(14)",
+          "bowling_score": "-",
+          "opponent": "Rising Pune Supergiant",
+          "date": "Apr 26, 2016"
+        },
+        {
+          "match_id": "181044",
+          "batting_score": "0(1)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "Apr 23, 2016"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

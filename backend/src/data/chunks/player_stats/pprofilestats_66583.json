@@ -1,0 +1,52 @@
+{
+  "id": "pprofilestats_66583",
+  "type": "player_career_stats",
+  "player": "Ishan Porel",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "1",
+        "runs": "-",
+        "batting_strike_rate": "0.00",
+        "batting_average": "-",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "-",
+        "wickets": "1",
+        "overs": "4",
+        "maidens": "0",
+        "runs_conceded": "1",
+        "economy": "9.75",
+        "bowling_strike_rate": "24.00",
+        "best_bowling_figures": "1/39 v RR",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "204171",
+          "batting_score": "DNB",
+          "bowling_score": "1/39",
+          "opponent": "Rajasthan Royals",
+          "date": "Sep 21, 2021"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "pprofilestats_3823",
+  "type": "player_career_stats",
+  "player": "Eoin Morgan",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "83",
+        "runs": "1405",
+        "batting_strike_rate": "122.60",
+        "batting_average": "22.66",
+        "fifties": "5",
+        "hundreds": "0",
+        "ducks": "6",
+        "highest_score": "68* v RR",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "36",
+        "stumping": "0",
+        "run_outs": "8"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "178061",
+          "date": "May 07, 2015",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "Brabourne Stadium, Mumbai",
+          "venue_id": "20",
+          "match_result": "Sunrisers Hyderabad beat Rajasthan Royals by 7 runs"
+        },
+        {
+          "match_id": "201018",
+          "date": "Apr 26, 2021",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Narendra Modi Stadium, Ahmedabad",
+          "venue_id": "137",
+          "match_result": "Kolkata Knight Riders beat Punjab Kings by 5 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "204199",
+          "batting_score": "4(8)",
+          "bowling_score": "-",
+          "opponent": "Chennai Super Kings",
+          "date": "Oct 15, 2021"
+        },
+        {
+          "match_id": "204198",
+          "batting_score": "0(3)",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "Oct 13, 2021"
+        },
+        {
+          "match_id": "204197",
+          "batting_score": "5*(7)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Oct 11, 2021"
+        },
+        {
+          "match_id": "204193",
+          "batting_score": "13*(11)",
+          "bowling_score": "-",
+          "opponent": "Rajasthan Royals",
+          "date": "Oct 07, 2021"
+        },
+        {
+          "match_id": "204188",
+          "batting_score": "2*(2)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "Oct 03, 2021"
+        }
+      ],
+      "captaincy": {
+        "matches": "24",
+        "win": "11",
+        "lose": "12",
+        "tied": "1",
+        "draw": "0",
+        "no_result": "45.83",
+        "win_percentage": "50",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

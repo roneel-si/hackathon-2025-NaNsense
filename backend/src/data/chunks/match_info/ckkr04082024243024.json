@@ -1,0 +1,16 @@
+{
+  "id": "ckkr04082024243024",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "ckkr04082024243024",
+  "date": "2024-04-08",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

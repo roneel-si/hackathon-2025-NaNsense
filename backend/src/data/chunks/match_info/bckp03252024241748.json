@@ -1,0 +1,16 @@
+{
+  "id": "bckp03252024241748",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "bckp03252024241748",
+  "date": "2024-03-25",
+  "venue": "M.Chinnaswamy Stadium",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bengaluru"
+  }
+}

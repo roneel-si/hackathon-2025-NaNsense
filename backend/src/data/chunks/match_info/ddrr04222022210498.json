@@ -1,0 +1,16 @@
+{
+  "id": "ddrr04222022210498",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "ddrr04222022210498",
+  "date": "2022-04-22",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

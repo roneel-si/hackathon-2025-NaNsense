@@ -1,0 +1,16 @@
+{
+  "id": "ckrr10192020197724",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "ckrr10192020197724",
+  "date": "2020-10-19",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

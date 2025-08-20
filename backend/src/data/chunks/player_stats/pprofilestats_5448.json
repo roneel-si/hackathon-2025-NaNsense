@@ -6,120 +6,29 @@
     {
       "league": "IPL",
       "career": {
-        "matches": "112",
-        "runs": "197",
-        "batting_strike_rate": "118.67",
-        "batting_average": "12.31",
-        "fifties": "0",
-        "hundreds": "0",
-        "ducks": "8",
-        "highest_score": "26 v KKR",
-        "wickets": "110",
-        "overs": "379",
-        "maidens": "3",
-        "runs_conceded": "110",
-        "economy": "8.87",
-        "bowling_strike_rate": "20.67",
-        "best_bowling_figures": "5/25 v DC",
-        "three_wicket_hauls": "8",
-        "five_wicket_hauls": "2",
-        "catches": "27",
-        "stumping": "0",
-        "run_outs": "4"
+        "matches": "-",
+        "runs": "-",
+        "batting_strike_rate": "-",
+        "batting_average": "-",
+        "fifties": "-",
+        "hundreds": "-",
+        "ducks": "-",
+        "highest_score": "-",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "-"
       },
-      "man_of_the_matches": [
-        {
-          "match_id": "7641",
-          "date": "Apr 17, 2010",
-          "opponent": "Rajasthan Royals",
-          "opponent_id": "1110",
-          "venue": "Eden Gardens, Kolkata",
-          "venue_id": "48",
-          "match_result": "Kolkata Knight Riders beat Rajasthan Royals by 8 wickets"
-        },
-        {
-          "match_id": "172309",
-          "date": "May 10, 2013",
-          "opponent": "Delhi Capitals",
-          "opponent_id": "1109",
-          "venue": "Arun Jaitley Stadium, Delhi",
-          "venue_id": "54",
-          "match_result": "Royal Challengers Bangalore beat Delhi Daredevils by 4 runs"
-        },
-        {
-          "match_id": "183421",
-          "date": "May 06, 2017",
-          "opponent": "Sunrisers Hyderabad",
-          "opponent_id": "1379",
-          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-          "venue_id": "158",
-          "match_result": "Rising Pune Supergiant beat Sunrisers Hyderabad by 12 runs"
-        },
-        {
-          "match_id": "183432",
-          "date": "May 14, 2017",
-          "opponent": "Punjab Kings",
-          "opponent_id": "1107",
-          "venue": "Maharashtra Cricket Association Stadium, Pune",
-          "venue_id": "1763",
-          "match_result": "Rising Pune Supergiant beat Kings XI Punjab by 9 wickets"
-        },
-        {
-          "match_id": "190317",
-          "date": "Apr 27, 2019",
-          "opponent": "Sunrisers Hyderabad",
-          "opponent_id": "1379",
-          "venue": "Sawai Mansingh Stadium, Jaipur",
-          "venue_id": "139",
-          "match_result": "Rajasthan Royals beat Sunrisers Hyderabad by 7 wickets"
-        },
-        {
-          "match_id": "201003",
-          "date": "Apr 15, 2021",
-          "opponent": "Delhi Capitals",
-          "opponent_id": "1109",
-          "venue": "Wankhede Stadium, Mumbai",
-          "venue_id": "168",
-          "match_result": "Rajasthan Royals beat Delhi Capitals by 3 wickets"
-        }
-      ],
-      "recent_games": [
-        {
-          "match_id": "260869",
-          "batting_score": "DNB",
-          "bowling_score": "3/24",
-          "opponent": "Kolkata Knight Riders",
-          "date": "May 25, 2025"
-        },
-        {
-          "match_id": "260867",
-          "batting_score": "DNB",
-          "bowling_score": "1/41",
-          "opponent": "Royal Challengers Bengaluru",
-          "date": "May 23, 2025"
-        },
-        {
-          "match_id": "257269",
-          "batting_score": "DNB",
-          "bowling_score": "1/13",
-          "opponent": "Delhi Capitals",
-          "date": "May 05, 2025"
-        },
-        {
-          "match_id": "257265",
-          "batting_score": "DNB",
-          "bowling_score": "3/35",
-          "opponent": "Gujarat Titans",
-          "date": "May 02, 2025"
-        },
-        {
-          "match_id": "257257",
-          "batting_score": "DNB",
-          "bowling_score": "2/21",
-          "opponent": "Chennai Super Kings",
-          "date": "Apr 25, 2025"
-        }
-      ],
+      "man_of_the_matches": [],
+      "recent_games": [],
       "captaincy": {
         "matches": "-",
         "win": "-",

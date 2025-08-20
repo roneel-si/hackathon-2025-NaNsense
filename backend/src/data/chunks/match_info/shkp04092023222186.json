@@ -1,0 +1,16 @@
+{
+  "id": "shkp04092023222186",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "shkp04092023222186",
+  "date": "2023-04-09",
+  "venue": "Rajiv Gandhi International Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

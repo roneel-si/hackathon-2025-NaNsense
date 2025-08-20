@@ -1,0 +1,19 @@
+{
+  "id": "pprofile_70085",
+  "type": "player_bio",
+  "player": "Anunay Singh",
+  "full_name": "Anunay Narayan Singh",
+  "dob": "January 3, 1993",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Right-arm medium",
+  "teams": [
+    "Rajasthan Royals",
+    "Bihar",
+    "Sheikhpura Eagles",
+    "Hawk Club"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {}
+}

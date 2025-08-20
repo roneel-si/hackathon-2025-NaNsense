@@ -1,0 +1,41 @@
+{
+  "id": "pprofile_64498",
+  "type": "player_bio",
+  "player": "Luke Wood",
+  "full_name": "Luke Wood",
+  "dob": "August 2, 1995",
+  "role": "Bowler",
+  "batting_style": "Left Handed",
+  "bowling_style": "Left-arm fast medium",
+  "teams": [
+    "England",
+    "Lancashire",
+    "Northamptonshire",
+    "Nottinghamshire",
+    "Worcestershire",
+    "Mumbai Indians",
+    "England Under-19",
+    "Melbourne Stars",
+    "Sylhet Strikers",
+    "England Lions",
+    "Quetta Gladiators",
+    "Peshawar Zalmi",
+    "Khulna Tigers",
+    "Bangla Tigers",
+    "Deccan Gladiators",
+    "London Spirit",
+    "Trent Rockets",
+    "Galle Marvels",
+    "Lancashire CCC",
+    "Desert Vipers",
+    "Dubai Capitals",
+    "Joburg Bangla Tigers"
+  ],
+  "bio": "",
+  "nationality": "England",
+  "career_span": {
+    "Test": "",
+    "ODI": "2022-2023",
+    "IPL": "2024-2024"
+  }
+}

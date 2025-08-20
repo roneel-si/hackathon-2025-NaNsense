@@ -1,0 +1,33 @@
+{
+  "id": "pprofile_63547",
+  "type": "player_bio",
+  "player": "Ravikumar Samarth",
+  "full_name": "Ravikumar Samarth",
+  "dob": "January 22, 1993",
+  "role": "Batsman",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "India A",
+    "India Green",
+    "Rest of India",
+    "South Zone",
+    "Karnataka",
+    "Sunrisers Hyderabad",
+    "Southern Champs",
+    "Mangalore United",
+    "Belagavi Panthers",
+    "Mysore Warriors",
+    "Bijapur Bulls",
+    "Kalyani Bengaluru Blasters",
+    "Bangalore Brigadiers",
+    "Uttarakhand",
+    "India C",
+    "Haridwar Spring Elmas"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "ODI": "2023"
+  }
+}

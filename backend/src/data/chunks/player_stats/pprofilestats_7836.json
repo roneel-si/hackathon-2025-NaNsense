@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_7836",
+  "type": "player_career_stats",
+  "player": "Isuru Udana",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "10",
+        "runs": "15",
+        "batting_strike_rate": "136.36",
+        "batting_average": "5.00",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "10* v PBKS",
+        "wickets": "8",
+        "overs": "29",
+        "maidens": "0",
+        "runs_conceded": "8",
+        "economy": "9.72",
+        "bowling_strike_rate": "21.75",
+        "best_bowling_figures": "2/41 v RR",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "3",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "197742",
+          "batting_score": "4(2)",
+          "bowling_score": "0/24",
+          "opponent": "Delhi Capitals",
+          "date": "Nov 02, 2020"
+        },
+        {
+          "match_id": "197739",
+          "batting_score": "0(1)",
+          "bowling_score": "1/20",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "Oct 31, 2020"
+        },
+        {
+          "match_id": "197726",
+          "batting_score": "DNB",
+          "bowling_score": "0/6",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Oct 21, 2020"
+        },
+        {
+          "match_id": "197720",
+          "batting_score": "DNB",
+          "bowling_score": "0/43",
+          "opponent": "Rajasthan Royals",
+          "date": "Oct 17, 2020"
+        },
+        {
+          "match_id": "197718",
+          "batting_score": "10*(5)",
+          "bowling_score": "0/14",
+          "opponent": "Punjab Kings",
+          "date": "Oct 15, 2020"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

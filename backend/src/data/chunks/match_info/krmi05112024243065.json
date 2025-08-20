@@ -1,0 +1,16 @@
+{
+  "id": "krmi05112024243065",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "krmi05112024243065",
+  "date": "2024-05-11",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "lkomi05242023225988",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "lkomi05242023225988",
+  "date": "2023-05-24",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

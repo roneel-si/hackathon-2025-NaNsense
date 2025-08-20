@@ -1,0 +1,16 @@
+{
+  "id": "ddsh09222021204172",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "ddsh09222021204172",
+  "date": "2021-09-22",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

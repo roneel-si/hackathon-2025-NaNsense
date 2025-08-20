@@ -1,0 +1,16 @@
+{
+  "id": "shck04052024241769",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "shck04052024241769",
+  "date": "2024-04-05",
+  "venue": "Rajiv Gandhi International Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pprofile_88620",
+  "type": "player_bio",
+  "player": "Aneeshwar Gautam",
+  "full_name": "Aneeshwar Gautam Narendra",
+  "dob": "January 16, 2003",
+  "role": "All-Rounder",
+  "batting_style": "Left Handed",
+  "bowling_style": "Slow left-arm orthodox",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "India Under-19",
+    "Karnataka",
+    "Mangalore United",
+    "Shivamogga Lions",
+    "Hubli Tigers",
+    "India B Under-19",
+    "India C Under-19",
+    "Karnataka U-19",
+    "Mangaluru Dragons"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": ""
+  }
+}

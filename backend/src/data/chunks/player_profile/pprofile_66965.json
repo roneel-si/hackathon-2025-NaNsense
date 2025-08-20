@@ -1,0 +1,33 @@
+{
+  "id": "pprofile_66965",
+  "type": "player_bio",
+  "player": "Tajinder Singh",
+  "full_name": "Tajinder Singh Dhillon",
+  "dob": "May 25, 1992",
+  "role": "All-Rounder",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "Canada",
+    "Punjab Kings",
+    "Mumbai Indians",
+    "Rajasthan",
+    "Maharashtra",
+    "Chicago Kingsmen",
+    "Hamilton Wonders",
+    "Kingsmen",
+    "MI New York",
+    "San Francisco Unicorns",
+    "Bangla Tigers Mississauga",
+    "Kingsmen X",
+    "New York Cowboys",
+    "Indian Warriors"
+  ],
+  "bio": "",
+  "nationality": "USA",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": ""
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "pprofilestats_1367",
+  "type": "player_career_stats",
+  "player": "Harbhajan Singh",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "163",
+        "runs": "833",
+        "batting_strike_rate": "137.91",
+        "batting_average": "15.71",
+        "fifties": "1",
+        "hundreds": "0",
+        "ducks": "14",
+        "highest_score": "64 v PBKS",
+        "wickets": "150",
+        "overs": "569.2",
+        "maidens": "6",
+        "runs_conceded": "150",
+        "economy": "7.07",
+        "bowling_strike_rate": "22.77",
+        "best_bowling_figures": "5/18 v CSK",
+        "three_wicket_hauls": "10",
+        "five_wicket_hauls": "1",
+        "catches": "49",
+        "stumping": "0",
+        "run_outs": "7"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "5127",
+          "date": "May 12, 2009",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "SuperSport Park, Centurion",
+          "venue_id": "153",
+          "match_result": "Mumbai Indians beat Kings XI Punjab by 8 wickets"
+        },
+        {
+          "match_id": "7574",
+          "date": "Mar 28, 2010",
+          "opponent": "Deccan Chargers",
+          "opponent_id": "1112",
+          "venue": "Dr. DY Patil Sports Academy, Navi Mumbai",
+          "venue_id": "219",
+          "match_result": "Mumbai Indians beat Deccan Chargers by 41 runs"
+        },
+        {
+          "match_id": "91765",
+          "date": "Apr 22, 2011",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Mumbai Indians beat Chennai Super Kings by 8 runs"
+        },
+        {
+          "match_id": "172327",
+          "date": "May 24, 2013",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Mumbai Indians beat Rajasthan Royals by 4 wickets"
+        },
+        {
+          "match_id": "178036",
+          "date": "Apr 19, 2015",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Mumbai Indians beat Royal Challengers Bangalore by 18 runs"
+        },
+        {
+          "match_id": "178059",
+          "date": "May 05, 2015",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Mumbai Indians beat Delhi Daredevils by 5 wickets"
+        },
+        {
+          "match_id": "189310",
+          "date": "Mar 23, 2019",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Royal Challengers Bangalore by 7 wickets"
+        },
+        {
+          "match_id": "190255",
+          "date": "Apr 06, 2019",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Kings XI Punjab by 22 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "201006",
+          "batting_score": "2*(2)",
+          "bowling_score": "0/38",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Apr 18, 2021"
+        },
+        {
+          "match_id": "201001",
+          "batting_score": "2*(2)",
+          "bowling_score": "0/17",
+          "opponent": "Mumbai Indians",
+          "date": "Apr 13, 2021"
+        },
+        {
+          "match_id": "199879",
+          "batting_score": "DNB",
+          "bowling_score": "0/8",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "Apr 11, 2021"
+        },
+        {
+          "match_id": "190612",
+          "batting_score": "DNB",
+          "bowling_score": "0/27",
+          "opponent": "Mumbai Indians",
+          "date": "May 12, 2019"
+        },
+        {
+          "match_id": "190611",
+          "batting_score": "DNB",
+          "bowling_score": "2/31",
+          "opponent": "Delhi Capitals",
+          "date": "May 10, 2019"
+        }
+      ],
+      "captaincy": {
+        "matches": "20",
+        "win": "10",
+        "lose": "10",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "50",
+        "win_percentage": "50",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

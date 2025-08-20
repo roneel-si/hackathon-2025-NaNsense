@@ -1,0 +1,26 @@
+{
+  "id": "pprofile_82853",
+  "type": "player_bio",
+  "player": "Ansh Patel",
+  "full_name": "Ansh Pradipkumar Patel",
+  "dob": "February 19, 2002",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Left-arm wrist spin",
+  "teams": [
+    "Canada",
+    "Punjab Kings",
+    "Baroda",
+    "Atlanta Fire",
+    "Challenger",
+    "New York Strikers",
+    "Atlanta Kings CC"
+  ],
+  "bio": "",
+  "nationality": "Canada",
+  "career_span": {
+    "Test": "",
+    "ODI": "2024-2024",
+    "IPL": ""
+  }
+}

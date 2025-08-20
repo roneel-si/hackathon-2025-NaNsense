@@ -1,0 +1,43 @@
+{
+  "id": "pprofile_66244",
+  "type": "player_bio",
+  "player": "Ali Khan",
+  "full_name": "Muhammad Ahsan Ali Khan",
+  "dob": "December 13, 1990",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Right-arm fast medium",
+  "teams": [
+    "USA",
+    "Windward Islands Volcanoes",
+    "Kolkata Knight Riders",
+    "Guyana Amazon Warriors",
+    "Trinbago Knight Riders",
+    "ICC Americas",
+    "Islamabad United",
+    "Karachi Kings",
+    "Khulna Tigers",
+    "Bangla Tigers",
+    "Vancouver Knights",
+    "Winnipeg Hawks",
+    "Kabul Zwanan",
+    "Bravo XI",
+    "Delhi Bulls",
+    "Qalandars",
+    "Samp Army",
+    "Chennai Brave Jaguars",
+    "Houston Hurricanes",
+    "New York Strikers",
+    "Abu Dhabi Knight Riders",
+    "Los Angeles Knight Riders",
+    "Bangla Tigers Mississauga",
+    "Colombo Jaguars"
+  ],
+  "bio": "",
+  "nationality": "USA",
+  "career_span": {
+    "Test": "",
+    "ODI": "2019-2023",
+    "IPL": ""
+  }
+}

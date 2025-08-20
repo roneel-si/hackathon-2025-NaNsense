@@ -1,0 +1,16 @@
+{
+  "id": "lkosh04072023222180",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "lkosh04072023222180",
+  "date": "2023-04-07",
+  "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

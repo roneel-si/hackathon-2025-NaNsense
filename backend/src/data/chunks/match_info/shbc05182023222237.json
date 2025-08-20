@@ -1,0 +1,16 @@
+{
+  "id": "shbc05182023222237",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "shbc05182023222237",
+  "date": "2023-05-18",
+  "venue": "Rajiv Gandhi International Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

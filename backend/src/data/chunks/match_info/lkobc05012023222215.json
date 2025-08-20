@@ -1,0 +1,16 @@
+{
+  "id": "lkobc05012023222215",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "lkobc05012023222215",
+  "date": "2023-05-01",
+  "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

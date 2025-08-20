@@ -1,0 +1,27 @@
+{
+  "id": "pprofile_64708",
+  "type": "player_bio",
+  "player": "Virat Singh",
+  "full_name": "Virat Binod Singh",
+  "dob": "December 8, 1997",
+  "role": "Batsman",
+  "batting_style": "Left Handed",
+  "bowling_style": "Leg break googly",
+  "teams": [
+    "East Zone",
+    "India Under-19",
+    "Jharkhand",
+    "Sunrisers Hyderabad",
+    "India Under-23",
+    "India C",
+    "City Cricket Club",
+    "Jharkhand CC",
+    "Jupiter Sports Club"
+  ],
+  "bio": "Virat Singh is an Indian cricketer who has made headlines since a very young age. A left-handed batsman who generally plays at number 3, Virat is also a part-time leg-spinner. He has been a revelation for his domestic team, Jharkhand, leading them to victory in the 2014/15 Deodhar Trophy final. Virat Singh has always been ahead of the curve for his age. He made his debut for the Jharkhand U-19s at the ripe age of 14, in the Vinoo Mankad Trophy. In March 2014, Virat made his senior debut for the Jharkhand team in the Vijay Hazare Trophy. He made his Ranji Trophy debut in December 2014, against Assam, scoring his maiden first-class century in his second match against Kerala. His recent exploits and consistent form has seen him selected for the India 'C' squad for the 2019–20 Deodhar Trophy. He also was in the news when he was bought by the Hyderabad-based franchise in the Indian T20 League for a sum of Rs. 1.90 crore.",
+  "nationality": "India",
+  "career_span": {
+    "ODI": "2017",
+    "IPL": "2021"
+  }
+}

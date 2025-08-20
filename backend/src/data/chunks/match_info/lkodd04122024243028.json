@@ -1,0 +1,16 @@
+{
+  "id": "lkodd04122024243028",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "lkodd04122024243028",
+  "date": "2024-04-12",
+  "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ddahm04042023222176",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "ddahm04042023222176",
+  "date": "2023-04-04",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

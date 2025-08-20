@@ -1,0 +1,16 @@
+{
+  "id": "ahmmi03242024237775",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "ahmmi03242024237775",
+  "date": "2024-03-24",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

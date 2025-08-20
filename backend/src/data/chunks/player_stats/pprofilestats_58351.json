@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_58351",
+  "type": "player_career_stats",
+  "player": "Tymal Mills",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "10",
+        "runs": "8",
+        "batting_strike_rate": "57.14",
+        "batting_average": "2",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "2",
+        "highest_score": "6 v SRH",
+        "wickets": "11",
+        "overs": "34.5",
+        "maidens": "0",
+        "runs_conceded": "11",
+        "economy": "9.85",
+        "bowling_strike_rate": "19.00",
+        "best_bowling_figures": "3/35 v RR",
+        "three_wicket_hauls": "1",
+        "five_wicket_hauls": "0",
+        "catches": "1",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "210485",
+          "batting_score": "0*(1)",
+          "bowling_score": "0/54",
+          "opponent": "Lucknow Super Giants",
+          "date": "April 16, 2022"
+        },
+        {
+          "match_id": "210480",
+          "batting_score": "0(2)",
+          "bowling_score": "0/37",
+          "opponent": "Punjab Kings",
+          "date": "April 13, 2022"
+        },
+        {
+          "match_id": "210469",
+          "batting_score": "DNB",
+          "bowling_score": "2/38",
+          "opponent": "Kolkata Knight Riders",
+          "date": "April 6, 2022"
+        },
+        {
+          "match_id": "210459",
+          "batting_score": "DNB",
+          "bowling_score": "3/35",
+          "opponent": "Rajasthan Royals",
+          "date": "April 2, 2022"
+        },
+        {
+          "match_id": "208289",
+          "batting_score": "DNB",
+          "bowling_score": "1/26",
+          "opponent": "Delhi Capitals",
+          "date": "March 27, 2022"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

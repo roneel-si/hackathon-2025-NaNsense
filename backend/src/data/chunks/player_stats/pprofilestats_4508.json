@@ -1,0 +1,126 @@
+{
+  "id": "pprofilestats_4508",
+  "type": "player_career_stats",
+  "player": "Wriddhiman Saha",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "170",
+        "runs": "2934",
+        "batting_strike_rate": "127.57",
+        "batting_average": "24.25",
+        "fifties": "13",
+        "hundreds": "1",
+        "ducks": "7",
+        "highest_score": "115* v KKR",
+        "wickets": "0",
+        "overs": "0",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "0.00",
+        "bowling_strike_rate": "0.00",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "93",
+        "stumping": "26",
+        "run_outs": "6"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "91804",
+          "date": "May 18, 2011",
+          "opponent": "Kochi Tuskers Kerala",
+          "opponent_id": "1243",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Kochi Tuskers Kerala by 11 runs"
+        },
+        {
+          "match_id": "175956",
+          "date": "May 14, 2014",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Kings XI Punjab beat Sunrisers Hyderabad by 6 wickets"
+        },
+        {
+          "match_id": "183428",
+          "date": "May 11, 2017",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Kings XI Punjab beat Mumbai Indians by 7 runs"
+        },
+        {
+          "match_id": "197734",
+          "date": "October 27, 2020",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Dubai International Stadium, Dubai",
+          "venue_id": "449",
+          "match_result": "Sunrisers Hyderabad beat Delhi Capitals by 88 runs"
+        },
+        {
+          "match_id": "210526",
+          "date": "May 15, 2022",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Gujarat Titans beat Chennai Super Kings by 7 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "243057",
+          "batting_score": "1(7)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 4, 2024"
+        },
+        {
+          "match_id": "243048",
+          "batting_score": "5(4)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "April 28, 2024"
+        },
+        {
+          "match_id": "243042",
+          "batting_score": "39(25)",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "April 24, 2024"
+        },
+        {
+          "match_id": "243039",
+          "batting_score": "13(11)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "April 21, 2024"
+        },
+        {
+          "match_id": "243033",
+          "batting_score": "2(10)",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "April 17, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

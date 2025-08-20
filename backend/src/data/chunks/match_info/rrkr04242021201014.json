@@ -1,0 +1,16 @@
+{
+  "id": "rrkr04242021201014",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "rrkr04242021201014",
+  "date": "2021-04-24",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "id": "pprofilestats_5380",
+  "type": "player_career_stats",
+  "player": "David Warner",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "184",
+        "runs": "6565",
+        "batting_strike_rate": "139.77",
+        "batting_average": "40.52",
+        "fifties": "62",
+        "hundreds": "4",
+        "ducks": "11",
+        "highest_score": "126 v KKR",
+        "wickets": "0",
+        "overs": "0.1",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "12.00",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "0/2 v DC",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "86",
+        "stumping": "0",
+        "run_outs": "10"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "7572",
+          "date": "Mar 29 2010",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Delhi Daredevils beat Kolkata Knight Riders by 40 runs"
+        },
+        {
+          "match_id": "91766",
+          "date": "Apr 23 2011",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Delhi Daredevils beat Kings XI Punjab by 29 runs"
+        },
+        {
+          "match_id": "92434",
+          "date": "May 10 2012",
+          "opponent": "Deccan Chargers",
+          "opponent_id": "1112",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Delhi Daredevils beat Deccan Chargers by 9 wickets"
+        },
+        {
+          "match_id": "172290",
+          "date": "Apr 28 2013",
+          "opponent": "Pune Warriors India",
+          "opponent_id": "1244",
+          "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+          "venue_id": "1428",
+          "match_result": "Delhi Daredevils beat Pune Warriors India by 15 runs"
+        },
+        {
+          "match_id": "172295",
+          "date": "May 1 2013",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+          "venue_id": "1428",
+          "match_result": "Delhi Daredevils beat Kolkata Knight Riders by 7 wickets"
+        },
+        {
+          "match_id": "175963",
+          "date": "May 20 2014",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Sunrisers Hyderabad beat Royal Challengers Bangalore by 7 wickets"
+        },
+        {
+          "match_id": "175967",
+          "date": "May 22 2014",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "JSCA International Stadium Complex, Ranchi",
+          "venue_id": "581",
+          "match_result": "Sunrisers Hyderabad beat Chennai Super Kings by 6 wickets"
+        },
+        {
+          "match_id": "178028",
+          "date": "Apr 13 2015",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Sunrisers Hyderabad beat Royal Challengers Bangalore by 8 wickets"
+        },
+        {
+          "match_id": "178039",
+          "date": "Apr 22 2015",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+          "venue_id": "185",
+          "match_result": "Sunrisers Hyderabad beat Kolkata Knight Riders by 16 runs (D/L method)"
+        },
+        {
+          "match_id": "178054",
+          "date": "May 2 2015",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Sunrisers Hyderabad beat Chennai Super Kings by 22 runs"
+        },
+        {
+          "match_id": "178068",
+          "date": "May 11 2015",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Sunrisers Hyderabad beat Kings XI Punjab by 5 runs"
+        },
+        {
+          "match_id": "181038",
+          "date": "Apr 18 2016",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Sunrisers Hyderabad beat Mumbai Indians by 7 wickets"
+        },
+        {
+          "match_id": "181053",
+          "date": "Apr 30 2016",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Sunrisers Hyderabad beat Royal Challengers Bangalore by 15 runs"
+        },
+        {
+          "match_id": "181085",
+          "date": "May 27 2016",
+          "opponent": "Gujarat Lions",
+          "opponent_id": "1509",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Sunrisers Hyderabad beat Gujarat Lions by 4 wickets"
+        },
+        {
+          "match_id": "183414",
+          "date": "Apr 30 2017",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Sunrisers Hyderabad beat Kolkata Knight Riders by 48 runs"
+        },
+        {
+          "match_id": "190288",
+          "date": "Apr 17 2019",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Sunrisers Hyderabad beat Chennai Super Kings by 6 wickets"
+        },
+        {
+          "match_id": "190323",
+          "date": "Apr 29 2019",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Sunrisers Hyderabad beat Kings XI Punjab by 45 runs"
+        },
+        {
+          "match_id": "210514",
+          "date": "May 5 2022",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Brabourne Stadium, Mumbai",
+          "venue_id": "20",
+          "match_result": "Delhi Capitals beat Sunrisers Hyderabad by 21 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "243067",
+          "batting_score": "1(2)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 12 2024"
+        },
+        {
+          "match_id": "243037",
+          "batting_score": "1(3)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "Apr 20 2024"
+        },
+        {
+          "match_id": "243028",
+          "batting_score": "8(9)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "Apr 12 2024"
+        },
+        {
+          "match_id": "241771",
+          "batting_score": "10(8)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "Apr 7 2024"
+        },
+        {
+          "match_id": "241767",
+          "batting_score": "18(13)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Apr 3 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "83",
+        "win": "40",
+        "lose": "41",
+        "tied": "2",
+        "draw": "0",
+        "no_result": "48.19",
+        "win_percentage": "49.4",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

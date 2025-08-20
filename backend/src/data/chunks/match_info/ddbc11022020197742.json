@@ -1,0 +1,16 @@
+{
+  "id": "ddbc11022020197742",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "ddbc11022020197742",
+  "date": "2020-11-02",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

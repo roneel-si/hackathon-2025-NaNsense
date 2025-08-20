@@ -1,0 +1,19 @@
+{
+  "id": "pprofile_74123",
+  "type": "player_bio",
+  "player": "Saurabh Dubey",
+  "full_name": "Saurabh Rajendraprasad Dubey",
+  "dob": "January 23, 1998",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Left-arm medium fast",
+  "teams": [
+    "India Emerging",
+    "Vidarbha",
+    "Sunrisers Hyderabad",
+    "Orange Tigers"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {}
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pprofile_91321",
+  "type": "player_bio",
+  "player": "Ramesh Kumar",
+  "full_name": "Ramesh Kumar",
+  "dob": "January 1, 1999",
+  "role": "All Rounder",
+  "batting_style": "Left Handed",
+  "bowling_style": "-",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Villianur Mohit Kings"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {}
+}

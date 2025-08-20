@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_63714",
+  "type": "player_career_stats",
+  "player": "Jagadeesha Suchith",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "22",
+        "runs": "70",
+        "batting_strike_rate": "114.75",
+        "batting_average": "17.5",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "34* v PBKS",
+        "wickets": "19",
+        "overs": "70",
+        "maidens": "0",
+        "runs_conceded": "19",
+        "economy": "8.60",
+        "bowling_strike_rate": "22.11",
+        "best_bowling_figures": "2/12 v RCB",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "10",
+        "stumping": "0",
+        "run_outs": "2"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "210534",
+          "batting_score": "0(1)",
+          "bowling_score": "1/38",
+          "opponent": "Punjab Kings",
+          "date": "May 22, 2022"
+        },
+        {
+          "match_id": "210518",
+          "batting_score": "2(7)",
+          "bowling_score": "2/30",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 8, 2022"
+        },
+        {
+          "match_id": "210500",
+          "batting_score": "DNB",
+          "bowling_score": "2/12",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "April 23, 2022"
+        },
+        {
+          "match_id": "210488",
+          "batting_score": "DNB",
+          "bowling_score": "1/28",
+          "opponent": "Punjab Kings",
+          "date": "April 17, 2022"
+        },
+        {
+          "match_id": "210483",
+          "batting_score": "DNB",
+          "bowling_score": "1/32",
+          "opponent": "Kolkata Knight Riders",
+          "date": "April 15, 2022"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

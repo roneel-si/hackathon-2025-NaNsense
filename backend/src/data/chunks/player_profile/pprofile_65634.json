@@ -1,0 +1,34 @@
+{
+  "id": "pprofile_65634",
+  "type": "player_bio",
+  "player": "George Garton",
+  "full_name": "George Henry Simmons Garton",
+  "dob": "April 15, 1997",
+  "role": "Bowler",
+  "batting_style": "Left Handed",
+  "bowling_style": "Left-arm fast",
+  "teams": [
+    "England",
+    "Warwickshire",
+    "Royal Challengers Bengaluru",
+    "England Under-19",
+    "Sussex",
+    "Adelaide Strikers",
+    "Sydney Thunder",
+    "England Lions",
+    "Bangla Tigers",
+    "Qalandars",
+    "Manchester Originals",
+    "Southern Brave",
+    "Morrisville Samp Army",
+    "Joburg Super Kings",
+    "Jaffna Titans"
+  ],
+  "bio": "",
+  "nationality": "England",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": "2021-2021"
+  }
+}

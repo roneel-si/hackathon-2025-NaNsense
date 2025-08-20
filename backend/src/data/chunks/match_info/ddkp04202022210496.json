@@ -1,0 +1,16 @@
+{
+  "id": "ddkp04202022210496",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "ddkp04202022210496",
+  "date": "2022-04-20",
+  "venue": "Brabourne Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

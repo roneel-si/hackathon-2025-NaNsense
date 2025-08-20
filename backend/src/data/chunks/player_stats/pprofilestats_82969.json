@@ -1,0 +1,99 @@
+{
+  "id": "pprofilestats_82969",
+  "type": "player_career_stats",
+  "player": "Umran Malik",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "26",
+        "runs": "23",
+        "batting_strike_rate": "143.75",
+        "batting_average": "11.5",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "2",
+        "highest_score": "19* v RR",
+        "wickets": "29",
+        "overs": "82.1",
+        "maidens": "1",
+        "runs_conceded": "29",
+        "economy": "9.40",
+        "bowling_strike_rate": "17.00",
+        "best_bowling_figures": "5/25 v GT",
+        "three_wicket_hauls": "2",
+        "five_wicket_hauls": "1",
+        "catches": "6",
+        "stumping": "0",
+        "run_outs": "2"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "210488",
+          "date": "April 17, 2022",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Dr. DY Patil Sports Academy, Navi Mumbai",
+          "venue_id": "219",
+          "match_result": "Sunrisers Hyderabad beat Punjab Kings by 7 wickets"
+        },
+        {
+          "match_id": "210504",
+          "date": "April 27, 2022",
+          "opponent": "Gujarat Titans",
+          "opponent_id": "2955",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Gujarat Titans beat Sunrisers Hyderabad by 5 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "241753",
+          "batting_score": "DNB",
+          "bowling_score": "0/15",
+          "opponent": "Mumbai Indians",
+          "date": "March 27, 2024"
+        },
+        {
+          "match_id": "222241",
+          "batting_score": "DNB",
+          "bowling_score": "0/41",
+          "opponent": "Mumbai Indians",
+          "date": "May 21, 2023"
+        },
+        {
+          "match_id": "222212",
+          "batting_score": "DNB",
+          "bowling_score": "0/22",
+          "opponent": "Delhi Capitals",
+          "date": "April 29, 2023"
+        },
+        {
+          "match_id": "222206",
+          "batting_score": "DNB",
+          "bowling_score": "0/14",
+          "opponent": "Delhi Capitals",
+          "date": "April 24, 2023"
+        },
+        {
+          "match_id": "222201",
+          "batting_score": "DNB",
+          "bowling_score": "0/18",
+          "opponent": "Chennai Super Kings",
+          "date": "April 21, 2023"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

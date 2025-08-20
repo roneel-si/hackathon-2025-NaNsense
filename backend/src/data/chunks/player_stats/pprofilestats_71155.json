@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_71155",
+  "type": "player_career_stats",
+  "player": "Hrithik Shokeen",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "13",
+        "runs": "66",
+        "batting_strike_rate": "101.54",
+        "batting_average": "22",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "25 v CSK",
+        "wickets": "5",
+        "overs": "34",
+        "maidens": "0",
+        "runs_conceded": "5",
+        "economy": "9.24",
+        "bowling_strike_rate": "40.80",
+        "best_bowling_figures": "2/34 v KKR",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "5",
+        "stumping": "0",
+        "run_outs": "1"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "225988",
+          "batting_score": "0*(1)",
+          "bowling_score": "0/18",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 24, 2023"
+        },
+        {
+          "match_id": "222235",
+          "batting_score": "DNB",
+          "bowling_score": "0/20",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 16, 2023"
+        },
+        {
+          "match_id": "222203",
+          "batting_score": "DNB",
+          "bowling_score": "0/24",
+          "opponent": "Punjab Kings",
+          "date": "April 22, 2023"
+        },
+        {
+          "match_id": "222197",
+          "batting_score": "DNB",
+          "bowling_score": "0/12",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "April 18, 2023"
+        },
+        {
+          "match_id": "222194",
+          "batting_score": "DNB",
+          "bowling_score": "2/34",
+          "opponent": "Kolkata Knight Riders",
+          "date": "April 16, 2023"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

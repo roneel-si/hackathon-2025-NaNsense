@@ -1,0 +1,16 @@
+{
+  "id": "ahmbc04282024243048",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "ahmbc04282024243048",
+  "date": "2024-04-28",
+  "venue": "Narendra Modi Stadium",
+  "teams": [
+    "Gujarat Titans",
+    "Royal Challengers Bengaluru"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bengaluru"
+  }
+}

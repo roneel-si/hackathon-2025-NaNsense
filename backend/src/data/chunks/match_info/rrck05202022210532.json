@@ -1,0 +1,16 @@
+{
+  "id": "rrck05202022210532",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "rrck05202022210532",
+  "date": "2022-05-20",
+  "venue": "Brabourne Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

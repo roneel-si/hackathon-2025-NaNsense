@@ -1,0 +1,22 @@
+{
+  "id": "pprofile_73393",
+  "type": "player_bio",
+  "player": "Ripal Patel",
+  "full_name": "Ripal Vinubhai Patel",
+  "dob": "September 28, 1995",
+  "role": "Batsman",
+  "batting_style": "Right Handed",
+  "bowling_style": "Right-arm medium fast",
+  "teams": [
+    "Delhi Capitals",
+    "Gujarat",
+    "LA Titans",
+    "Los Angeles Lashings",
+    "Gandhinagar Lions"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "IPL": "2021-2023"
+  }
+}

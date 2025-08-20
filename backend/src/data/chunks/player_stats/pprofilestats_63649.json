@@ -6,129 +6,38 @@
     {
       "league": "IPL",
       "career": {
-        "matches": "119",
-        "runs": "2853",
-        "batting_strike_rate": "136.77",
-        "batting_average": "27.97",
-        "fifties": "20",
-        "hundreds": "0",
-        "ducks": "7",
-        "highest_score": "87 v CSK",
-        "wickets": "10",
-        "overs": "32",
-        "maidens": "0",
-        "runs_conceded": "10",
-        "economy": "8.44",
-        "bowling_strike_rate": "19.20",
-        "best_bowling_figures": "2/11 v RCB",
-        "three_wicket_hauls": "0",
-        "five_wicket_hauls": "0",
-        "catches": "26",
-        "stumping": "0",
-        "run_outs": "2"
+        "matches": "-",
+        "runs": "-",
+        "batting_strike_rate": "-",
+        "batting_average": "-",
+        "fifties": "-",
+        "hundreds": "-",
+        "ducks": "-",
+        "highest_score": "-",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "-"
       },
-      "man_of_the_matches": [
-        {
-          "match_id": "183384",
-          "date": "April 9, 2017",
-          "opponent": "Kolkata Knight Riders",
-          "opponent_id": "1106",
-          "venue": "Wankhede Stadium, Mumbai",
-          "venue_id": "168",
-          "match_result": "Mumbai Indians beat Kolkata Knight Riders by 4 wickets"
-        },
-        {
-          "match_id": "183393",
-          "date": "April 16, 2017",
-          "opponent": "Gujarat Lions",
-          "opponent_id": "1509",
-          "venue": "Wankhede Stadium, Mumbai",
-          "venue_id": "168",
-          "match_result": "Mumbai Indians beat Gujarat Lions by 6 wickets"
-        },
-        {
-          "match_id": "186183",
-          "date": "April 16, 2018",
-          "opponent": "Delhi Capitals",
-          "opponent_id": "1109",
-          "venue": "Eden Gardens, Kolkata",
-          "venue_id": "48",
-          "match_result": "Kolkata Knight Riders beat Delhi Daredevils by 71 runs"
-        },
-        {
-          "match_id": "186185",
-          "date": "April 18, 2018",
-          "opponent": "Rajasthan Royals",
-          "opponent_id": "1110",
-          "venue": "Sawai Mansingh Stadium, Jaipur",
-          "venue_id": "139",
-          "match_result": "Kolkata Knight Riders beat Rajasthan Royals by 7 wickets"
-        },
-        {
-          "match_id": "199879",
-          "date": "April 11, 2021",
-          "opponent": "Sunrisers Hyderabad",
-          "opponent_id": "1379",
-          "venue": "MA Chidambaram Stadium, Chennai",
-          "venue_id": "91",
-          "match_result": "Kolkata Knight Riders beat Sunrisers Hyderabad by 10 runs"
-        },
-        {
-          "match_id": "257225",
-          "date": "March 30, 2025",
-          "opponent": "Chennai Super Kings",
-          "opponent_id": "1108",
-          "venue": "Barsapara Cricket Stadium, Guwahati",
-          "venue_id": "1837",
-          "match_result": "Rajasthan Royals beat Chennai Super Kings by 6 runs"
-        }
-      ],
-      "recent_games": [
-        {
-          "match_id": "257264",
-          "batting_score": "9(11)",
-          "bowling_score": "-",
-          "opponent": "Mumbai Indians",
-          "date": "May 1, 2025"
-        },
-        {
-          "match_id": "257261",
-          "batting_score": "4(2)",
-          "bowling_score": "-",
-          "opponent": "Gujarat Titans",
-          "date": "April 28, 2025"
-        },
-        {
-          "match_id": "257256",
-          "batting_score": "28(22)",
-          "bowling_score": "-",
-          "opponent": "Royal Challengers Bengaluru",
-          "date": "April 24, 2025"
-        },
-        {
-          "match_id": "257250",
-          "batting_score": "8(7)",
-          "bowling_score": "-",
-          "opponent": "Lucknow Super Giants",
-          "date": "April 19, 2025"
-        },
-        {
-          "match_id": "257246",
-          "batting_score": "51(28)",
-          "bowling_score": "-",
-          "opponent": "Delhi Capitals",
-          "date": "April 16, 2025"
-        }
-      ],
+      "man_of_the_matches": [],
+      "recent_games": [],
       "captaincy": {
-        "matches": "14",
-        "win": "6",
-        "lose": "8",
-        "tied": "0",
-        "draw": "0",
-        "no_result": "0",
-        "win_percentage": "42.85",
-        "loss_percentage": "57.14"
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
       }
     }
   ]

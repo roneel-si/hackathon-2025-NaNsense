@@ -1,0 +1,16 @@
+{
+  "id": "rrkp04122021199880",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "rrkp04122021199880",
+  "date": "2021-04-12",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

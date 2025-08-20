@@ -1,0 +1,16 @@
+{
+  "id": "shbc04252024243043",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "shbc04252024243043",
+  "date": "2024-04-25",
+  "venue": "Rajiv Gandhi International Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Royal Challengers Bengaluru"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bengaluru"
+  }
+}

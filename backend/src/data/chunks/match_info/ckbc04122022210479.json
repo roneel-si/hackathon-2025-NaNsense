@@ -1,0 +1,16 @@
+{
+  "id": "ckbc04122022210479",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "ckbc04122022210479",
+  "date": "2022-04-12",
+  "venue": "Dr. DY Patil Sports Academy",
+  "teams": [
+    "Chennai Super Kings",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

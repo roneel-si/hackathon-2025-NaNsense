@@ -1,0 +1,16 @@
+{
+  "id": "cksh04092022210474",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "cksh04092022210474",
+  "date": "2022-04-09",
+  "venue": "Dr. DY Patil Sports Academy",
+  "teams": [
+    "Chennai Super Kings",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

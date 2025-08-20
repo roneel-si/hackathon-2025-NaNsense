@@ -1,0 +1,16 @@
+{
+  "id": "shrr03292022209450",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "shrr03292022209450",
+  "date": "2022-03-29",
+  "venue": "Maharashtra Cricket Association Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

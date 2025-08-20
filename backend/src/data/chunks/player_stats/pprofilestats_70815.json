@@ -1,0 +1,52 @@
+{
+  "id": "pprofilestats_70815",
+  "type": "player_career_stats",
+  "player": "Duan Jansen",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "1",
+        "runs": "-",
+        "batting_strike_rate": "0.00",
+        "batting_average": "-",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "-",
+        "wickets": "1",
+        "overs": "4",
+        "maidens": "0",
+        "runs_conceded": "1",
+        "economy": "13.25",
+        "bowling_strike_rate": "24.00",
+        "best_bowling_figures": "1/53 v KKR",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "2",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "222194",
+          "batting_score": "DNB",
+          "bowling_score": "1/53",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Apr 16, 2023"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

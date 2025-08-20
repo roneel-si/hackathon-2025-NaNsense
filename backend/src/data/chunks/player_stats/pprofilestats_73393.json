@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_73393",
+  "type": "player_career_stats",
+  "player": "Ripal Patel",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "9",
+        "runs": "80",
+        "batting_strike_rate": "109.58",
+        "batting_average": "16.00",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "23 v GT",
+        "wickets": "0",
+        "overs": "3",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "7.33",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "0/22 v RCB",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "2",
+        "stumping": "0",
+        "run_outs": "2"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "222227",
+          "batting_score": "10(16)",
+          "bowling_score": "-",
+          "opponent": "Chennai Super Kings",
+          "date": "May 10, 2023"
+        },
+        {
+          "match_id": "222222",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 06, 2023"
+        },
+        {
+          "match_id": "222216",
+          "batting_score": "23(13)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "May 02, 2023"
+        },
+        {
+          "match_id": "222212",
+          "batting_score": "11*(8)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "Apr 29, 2023"
+        },
+        {
+          "match_id": "222206",
+          "batting_score": "5(6)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "Apr 24, 2023"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

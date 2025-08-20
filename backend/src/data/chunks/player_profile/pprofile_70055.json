@@ -1,0 +1,21 @@
+{
+  "id": "pprofile_70055",
+  "type": "player_bio",
+  "player": "Sumit Kumar",
+  "full_name": "Sumit Kumar",
+  "dob": "December 12, 1995",
+  "role": "All Rounder",
+  "batting_style": "Right Handed",
+  "bowling_style": "Right-arm medium",
+  "teams": [
+    "Delhi Capitals",
+    "Haryana",
+    "RBI",
+    "Central Delhi Kings"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "IPL": "2024"
+  }
+}

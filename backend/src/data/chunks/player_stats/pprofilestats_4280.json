@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_4280",
+  "type": "player_career_stats",
+  "player": "Pradeep Sangwan",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "42",
+        "runs": "26",
+        "batting_strike_rate": "59.09",
+        "batting_average": "3.25",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "6",
+        "highest_score": "6* v MI",
+        "wickets": "38",
+        "overs": "142.4",
+        "maidens": "1",
+        "runs_conceded": "38",
+        "economy": "8.69",
+        "bowling_strike_rate": "22.52",
+        "best_bowling_figures": "3/18 v DCH",
+        "three_wicket_hauls": "3",
+        "five_wicket_hauls": "0",
+        "catches": "7",
+        "stumping": "0",
+        "run_outs": "1"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "210515",
+          "batting_score": "DNB",
+          "bowling_score": "1/23",
+          "opponent": "Mumbai Indians",
+          "date": "May 06, 2022"
+        },
+        {
+          "match_id": "210512",
+          "batting_score": "2(5)",
+          "bowling_score": "0/23",
+          "opponent": "Punjab Kings",
+          "date": "May 03, 2022"
+        },
+        {
+          "match_id": "210507",
+          "batting_score": "DNB",
+          "bowling_score": "2/19",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Apr 30, 2022"
+        },
+        {
+          "match_id": "186177",
+          "batting_score": "0(4)",
+          "bowling_score": "0/19",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "Apr 12, 2018"
+        },
+        {
+          "match_id": "183430",
+          "batting_score": "0(1)",
+          "bowling_score": "0/37",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 13, 2017"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

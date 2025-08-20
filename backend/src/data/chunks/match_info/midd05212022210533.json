@@ -1,0 +1,16 @@
+{
+  "id": "midd05212022210533",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "midd05212022210533",
+  "date": "2022-05-21",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

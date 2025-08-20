@@ -1,0 +1,16 @@
+{
+  "id": "lkorr04272024243047",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "lkorr04272024243047",
+  "date": "2024-04-27",
+  "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

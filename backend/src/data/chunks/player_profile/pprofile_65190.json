@@ -1,0 +1,32 @@
+{
+  "id": "pprofile_65190",
+  "type": "player_bio",
+  "player": "Saurabh Kumar",
+  "full_name": "Saurabh Kumar",
+  "dob": "May 1, 1993",
+  "role": "All-Rounder",
+  "batting_style": "Left Handed",
+  "bowling_style": "Slow left-arm orthodox",
+  "teams": [
+    "India",
+    "Central Zone",
+    "India A",
+    "India Blue",
+    "Rest of India",
+    "Punjab Kings",
+    "Uttar Pradesh",
+    "Services",
+    "Rising Pune Supergiant",
+    "Noida Kings",
+    "Gaur Gorakhpur Lions",
+    "India D",
+    "Tungabhadra Warriors"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": ""
+  }
+}

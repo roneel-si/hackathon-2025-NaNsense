@@ -1,0 +1,29 @@
+{
+  "id": "pprofile_82632",
+  "type": "player_bio",
+  "player": "Abdul Basith",
+  "full_name": "Pappanayil Abdul Basith",
+  "dob": "October 9, 1998",
+  "role": "All-Rounder",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off Spin",
+  "teams": [
+    "Rajasthan Royals",
+    "Kerala",
+    "KCA Royals",
+    "KCA Tigers",
+    "KCA Lions",
+    "KCA Panthers",
+    "Tripunithura Cricket Club",
+    "Ernakulam",
+    "Kerala CC",
+    "Adani Trivandrum Royals"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": "2023-2023"
+  }
+}

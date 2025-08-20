@@ -1,0 +1,16 @@
+{
+  "id": "bcmi04022023219158",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "bcmi04022023219158",
+  "date": "2023-04-02",
+  "venue": "M.Chinnaswamy Stadium",
+  "teams": [
+    "Royal Challengers Bangalore",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

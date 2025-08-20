@@ -1,0 +1,16 @@
+{
+  "id": "kpmi05032023222217",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "kpmi05032023222217",
+  "date": "2023-05-03",
+  "venue": "Punjab Cricket Association IS Bindra Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

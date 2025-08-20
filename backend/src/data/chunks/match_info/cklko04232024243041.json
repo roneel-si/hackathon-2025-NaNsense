@@ -1,0 +1,16 @@
+{
+  "id": "cklko04232024243041",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "cklko04232024243041",
+  "date": "2024-04-23",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

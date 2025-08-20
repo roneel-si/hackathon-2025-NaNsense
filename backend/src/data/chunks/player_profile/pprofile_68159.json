@@ -1,0 +1,21 @@
+{
+  "id": "pprofile_68159",
+  "type": "player_bio",
+  "player": "Abhijeet Tomar",
+  "full_name": "Abhijeet Tomar",
+  "dob": "March 14, 1995",
+  "role": "Batsman",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "Central Zone",
+    "Kolkata Knight Riders",
+    "Rajasthan",
+    "Jodhpur Sunrisers"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "IPL": "2022"
+  }
+}

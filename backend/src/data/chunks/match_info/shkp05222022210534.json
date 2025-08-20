@@ -1,0 +1,16 @@
+{
+  "id": "shkp05222022210534",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "shkp05222022210534",
+  "date": "2022-05-22",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

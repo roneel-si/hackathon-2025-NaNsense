@@ -1,0 +1,16 @@
+{
+  "id": "krrr11012020197741",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "krrr11012020197741",
+  "date": "2020-11-01",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

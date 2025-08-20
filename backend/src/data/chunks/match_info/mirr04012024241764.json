@@ -1,0 +1,16 @@
+{
+  "id": "mirr04012024241764",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "mirr04012024241764",
+  "date": "2024-04-01",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

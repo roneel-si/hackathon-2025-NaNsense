@@ -1,0 +1,16 @@
+{
+  "id": "bckr04262023222208",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "bckr04262023222208",
+  "date": "2023-04-26",
+  "venue": "M.Chinnaswamy Stadium",
+  "teams": [
+    "Royal Challengers Bangalore",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

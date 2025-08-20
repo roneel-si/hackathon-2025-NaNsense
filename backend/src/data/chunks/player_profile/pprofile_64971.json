@@ -1,0 +1,40 @@
+{
+  "id": "pprofile_64971",
+  "type": "player_bio",
+  "player": "Chris Green",
+  "full_name": "Christopher James Green",
+  "dob": "October 1, 1993",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "Australia",
+    "Lancashire",
+    "Warwickshire",
+    "Kolkata Knight Riders",
+    "Middlesex",
+    "New South Wales",
+    "Sydney Thunder",
+    "Guyana Amazon Warriors",
+    "Jamaica Tallawahs",
+    "Cricket Australia XI",
+    "Lahore Qalandars",
+    "Prime Ministers XI",
+    "Multan Sultans",
+    "Toronto Nationals",
+    "Northern Warriors",
+    "Brampton Wolves",
+    "Trent Rockets",
+    "Welsh Fire",
+    "Kandy Falcons",
+    "Antigua & Barbuda Falcons",
+    "Dallas Lonestars CC"
+  ],
+  "bio": "",
+  "nationality": "Australia",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": "2020-2020"
+  }
+}

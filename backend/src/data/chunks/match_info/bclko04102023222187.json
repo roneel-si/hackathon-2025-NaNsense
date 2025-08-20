@@ -1,0 +1,16 @@
+{
+  "id": "bclko04102023222187",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "bclko04102023222187",
+  "date": "2023-04-10",
+  "venue": "M.Chinnaswamy Stadium",
+  "teams": [
+    "Royal Challengers Bangalore",
+    "Lucknow Super Giants"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

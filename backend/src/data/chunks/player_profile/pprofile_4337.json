@@ -1,0 +1,32 @@
+{
+  "id": "pprofile_4337",
+  "type": "player_bio",
+  "player": "James Pattinson",
+  "full_name": "James Lee Pattinson",
+  "dob": "May 3, 1990",
+  "role": "Bowler",
+  "batting_style": "Left Handed",
+  "bowling_style": "Right-arm fast medium",
+  "teams": [
+    "Australia",
+    "Australia A",
+    "Nottinghamshire",
+    "Kolkata Knight Riders",
+    "Mumbai Indians",
+    "Victoria",
+    "Australia Under-19",
+    "Brisbane Heat",
+    "Melbourne Renegades",
+    "Melbourne Stars",
+    "Prime Ministers XI",
+    "California Knights",
+    "Australia Masters"
+  ],
+  "bio": "James Pattinson’s talent was evident in his debut first-class game against Western Australia where he outshone more established performers; the likes of Peter Siddle, Dirk Nannes and Damien Wright. After playing just four first-class matches, such was the selectors’ faith that they included him for Australia’s Test tour of India. A right-arm fast bowler, who can swing the ball at will, James first honed his skills with brother Darren at their home backyard before going on to play for Dandenong Cricket Club and the Australia Under-19 teams. He had a wonderful 2009-10 season, where in a domestic one-day match he ripped through New South Wales’ batting line-up with a fiery spell. James made his Australia A debut in 2010 before impressing national selectors at the ‘Australian Centre of Excellence’ and soon received the big call-up. He was named to replace an injured Josh Hazlewood on Australia’s tour to India in 2010. Unfortunately his first opportunity on the international stage turned out to be a damp squib as he was ruled out due to a stiff back. Later, under Michael Clarke’s captaincy, James made his ODI debut in 2011 against Bangladesh. He had an impressive Test debut against New Zealand later that year, picking up six wickets in the match that included a five-wicket haul and was also adjudged Man of the Match.",
+  "nationality": "Australia",
+  "career_span": {
+    "Test": "2011-2020",
+    "ODI": "2011-2015",
+    "IPL": "2020-2020"
+  }
+}

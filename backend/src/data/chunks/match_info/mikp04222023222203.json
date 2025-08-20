@@ -1,0 +1,16 @@
+{
+  "id": "mikp04222023222203",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "mikp04222023222203",
+  "date": "2023-04-22",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

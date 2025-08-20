@@ -1,0 +1,16 @@
+{
+  "id": "mirr10062020197707",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "mirr10062020197707",
+  "date": "2020-10-06",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Mumbai Indians"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rrdd05112022210522",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "rrdd05112022210522",
+  "date": "2022-05-11",
+  "venue": "Dr. DY Patil Sports Academy",
+  "teams": [
+    "Rajasthan Royals",
+    "Delhi Capitals"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

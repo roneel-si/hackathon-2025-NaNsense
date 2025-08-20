@@ -1,0 +1,18 @@
+{
+  "id": "pprofile_74810",
+  "type": "player_bio",
+  "player": "Rahul Buddhi",
+  "full_name": "Rahul Ravinder Buddhi",
+  "dob": "September 20, 1997",
+  "role": "Batsman",
+  "batting_style": "Left Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "Mumbai Indians",
+    "Hyderabad",
+    "Hyderabad CC"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {}
+}

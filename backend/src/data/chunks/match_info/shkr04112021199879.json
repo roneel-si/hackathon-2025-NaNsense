@@ -1,0 +1,16 @@
+{
+  "id": "shkr04112021199879",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "shkr04112021199879",
+  "date": "2021-04-11",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Sunrisers Hyderabad",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

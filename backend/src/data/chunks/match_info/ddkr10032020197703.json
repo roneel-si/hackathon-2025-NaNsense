@@ -1,0 +1,16 @@
+{
+  "id": "ddkr10032020197703",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "ddkr10032020197703",
+  "date": "2020-10-03",
+  "venue": "Sharjah Cricket Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

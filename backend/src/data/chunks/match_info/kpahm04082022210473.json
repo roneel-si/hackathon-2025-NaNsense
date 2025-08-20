@@ -1,0 +1,16 @@
+{
+  "id": "kpahm04082022210473",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "kpahm04082022210473",
+  "date": "2022-04-08",
+  "venue": "Brabourne Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Gujarat Titans"
+  ],
+  "result": {
+    "winner": "Gujarat Titans"
+  }
+}

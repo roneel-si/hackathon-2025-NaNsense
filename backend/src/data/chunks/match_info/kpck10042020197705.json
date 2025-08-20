@@ -1,0 +1,16 @@
+{
+  "id": "kpck10042020197705",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "kpck10042020197705",
+  "date": "2020-10-04",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Kings XI Punjab",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

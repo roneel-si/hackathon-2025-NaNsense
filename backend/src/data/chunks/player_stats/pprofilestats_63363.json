@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_63363",
+  "type": "player_career_stats",
+  "player": "Sandeep Warrier",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "10",
+        "runs": "-",
+        "batting_strike_rate": "0.00",
+        "batting_average": "-",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "-",
+        "wickets": "8",
+        "overs": "28",
+        "maidens": "0",
+        "runs_conceded": "8",
+        "economy": "9.03",
+        "bowling_strike_rate": "21.00",
+        "best_bowling_figures": "3/15 v DC",
+        "three_wicket_hauls": "1",
+        "five_wicket_hauls": "0",
+        "catches": "1",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "243064",
+          "batting_score": "DNB",
+          "bowling_score": "1/28",
+          "opponent": "Chennai Super Kings",
+          "date": "May 10, 2024"
+        },
+        {
+          "match_id": "243048",
+          "batting_score": "DNB",
+          "bowling_score": "0/15",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Apr 28, 2024"
+        },
+        {
+          "match_id": "243042",
+          "batting_score": "DNB",
+          "bowling_score": "3/15",
+          "opponent": "Delhi Capitals",
+          "date": "Apr 24, 2024"
+        },
+        {
+          "match_id": "243039",
+          "batting_score": "DNB",
+          "bowling_score": "0/21",
+          "opponent": "Punjab Kings",
+          "date": "Apr 21, 2024"
+        },
+        {
+          "match_id": "243033",
+          "batting_score": "DNB",
+          "bowling_score": "2/40",
+          "opponent": "Delhi Capitals",
+          "date": "Apr 17, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

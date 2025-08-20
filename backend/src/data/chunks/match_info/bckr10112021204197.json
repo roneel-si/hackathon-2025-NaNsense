@@ -1,0 +1,16 @@
+{
+  "id": "bckr10112021204197",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "bckr10112021204197",
+  "date": "2021-10-11",
+  "venue": "Sharjah Cricket Stadium",
+  "teams": [
+    "Royal Challengers Bangalore",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

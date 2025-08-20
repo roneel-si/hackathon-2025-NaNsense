@@ -1,0 +1,34 @@
+{
+  "id": "pprofile_13193",
+  "type": "player_bio",
+  "player": "Benny Howell",
+  "full_name": "Benny Alexander Cameron Howell",
+  "dob": "October 5, 1988",
+  "role": "All Rounder",
+  "batting_style": "Right Handed",
+  "bowling_style": "Right-arm medium",
+  "teams": [
+    "Gloucestershire",
+    "Hampshire",
+    "Punjab Kings",
+    "Melbourne Renegades",
+    "Chattogram Challengers",
+    "Sylhet Strikers",
+    "England Lions",
+    "Rangpur Riders",
+    "St Kitts and Nevis Patriots",
+    "Peshawar Zalmi",
+    "Khulna Tigers",
+    "Bangla Tigers",
+    "Kerala Knights",
+    "Birmingham Phoenix",
+    "Colombo Strikers",
+    "Desert Vipers",
+    "Nuwara Eliya Kings"
+  ],
+  "bio": "",
+  "nationality": "England",
+  "career_span": {
+    "Test": "2013-2019"
+  }
+}

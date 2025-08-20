@@ -1,0 +1,16 @@
+{
+  "id": "ckkp11012020197740",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "ckkp11012020197740",
+  "date": "2020-11-01",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Kings XI Punjab"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

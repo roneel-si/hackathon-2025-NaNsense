@@ -1,0 +1,16 @@
+{
+  "id": "krbc04062023222178",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "krbc04062023222178",
+  "date": "2023-04-06",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

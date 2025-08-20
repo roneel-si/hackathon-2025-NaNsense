@@ -1,0 +1,30 @@
+{
+  "id": "pprofile_68051",
+  "type": "player_bio",
+  "player": "Josh Philippe",
+  "full_name": "Joshua Ryan Philippe",
+  "dob": "June 1, 1997",
+  "role": "Wicket-Keeper",
+  "batting_style": "Right Handed",
+  "bowling_style": "Right-arm medium",
+  "teams": [
+    "Australia",
+    "Australia A",
+    "Royal Challengers Bengaluru",
+    "Western Australia",
+    "New South Wales",
+    "Sussex",
+    "Perth Scorchers",
+    "Sydney Sixers",
+    "Western Australia XI",
+    "Washington Freedom",
+    "Bangla Tigers Mississauga"
+  ],
+  "bio": "Josh Philippe is a right-handed wicketkeeper-batsman from Western Australia. He made quite a few heads turn with his performances in the Big Bash League. Josh first came into the reckoning when he scored a valiant 74 in First-Class debut against Tasmania in 2017. His team, unfortunately, ended up on the losing side but his knock gave everyone a glimpse of his talent. The right-hander played a vital role for the Prime Minister's XI when South Africa came calling in 2017. He scored 57 runs along with 4 dismissals in that game. Josh had a great BBL 09 where he finished as the third-highest run-scorer in the tournament. He was the Player of the Final and his impactful knock helped Sydney Sixers win the title for the second time. Taking note of his performances, the Bangalore-based franchise picked him in the 2020 Indian T20 League auction for his base price of 20 lakh INR.",
+  "nationality": "Australia",
+  "career_span": {
+    "Test": "",
+    "ODI": "2021-2021",
+    "IPL": "2020-2020"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ckmi09192021204169",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "ckmi09192021204169",
+  "date": "2021-09-19",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Mumbai Indians"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

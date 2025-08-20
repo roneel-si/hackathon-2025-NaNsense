@@ -1,0 +1,16 @@
+{
+  "id": "ddsh04202024243037",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "ddsh04202024243037",
+  "date": "2024-04-20",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Sunrisers Hyderabad"
+  }
+}

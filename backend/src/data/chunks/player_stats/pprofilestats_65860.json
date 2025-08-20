@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_65860",
+  "type": "player_career_stats",
+  "player": "Mayank Dagar",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "8",
+        "runs": "0",
+        "batting_strike_rate": "0.00",
+        "batting_average": "0.00",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "0 v LSG",
+        "wickets": "2",
+        "overs": "22.5",
+        "maidens": "0",
+        "runs_conceded": "2",
+        "economy": "8.89",
+        "bowling_strike_rate": "68.50",
+        "best_bowling_figures": "1/23 v KKR",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "3",
+        "stumping": "0",
+        "run_outs": "1"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "241770",
+          "batting_score": "DNB",
+          "bowling_score": "0/34",
+          "opponent": "Rajasthan Royals",
+          "date": "Apr 06, 2024"
+        },
+        {
+          "match_id": "241766",
+          "batting_score": "0(1)",
+          "bowling_score": "0/23",
+          "opponent": "Lucknow Super Giants",
+          "date": "Apr 02, 2024"
+        },
+        {
+          "match_id": "241756",
+          "batting_score": "DNB",
+          "bowling_score": "1/23",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Mar 29, 2024"
+        },
+        {
+          "match_id": "241748",
+          "batting_score": "DNB",
+          "bowling_score": "0/34",
+          "opponent": "Punjab Kings",
+          "date": "Mar 25, 2024"
+        },
+        {
+          "match_id": "237771",
+          "batting_score": "DNB",
+          "bowling_score": "0/6",
+          "opponent": "Chennai Super Kings",
+          "date": "Mar 22, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

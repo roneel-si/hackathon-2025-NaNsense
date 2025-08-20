@@ -1,0 +1,16 @@
+{
+  "id": "kpbc04202023222199",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "kpbc04202023222199",
+  "date": "2023-04-20",
+  "venue": "Punjab Cricket Association IS Bindra Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

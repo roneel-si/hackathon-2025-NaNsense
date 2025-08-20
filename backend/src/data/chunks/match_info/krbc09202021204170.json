@@ -1,0 +1,16 @@
+{
+  "id": "krbc09202021204170",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "krbc09202021204170",
+  "date": "2021-09-20",
+  "venue": "Sheikh Zayed Stadium",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

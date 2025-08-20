@@ -1,0 +1,16 @@
+{
+  "id": "kpck04162021201004",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "kpck04162021201004",
+  "date": "2021-04-16",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

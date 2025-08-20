@@ -1,0 +1,52 @@
+{
+  "id": "pprofilestats_100572",
+  "type": "player_career_stats",
+  "player": "Raghav Goyal",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "1",
+        "runs": "-",
+        "batting_strike_rate": "0.00",
+        "batting_average": "-",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "-",
+        "wickets": "0",
+        "overs": "4",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "8.25",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "0/33 v CSK",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "1",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "222221",
+          "batting_score": "DNB",
+          "bowling_score": "0/33",
+          "opponent": "Chennai Super Kings",
+          "date": "May 06, 2023"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

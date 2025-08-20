@@ -1,0 +1,25 @@
+{
+  "id": "pprofile_68261",
+  "type": "player_bio",
+  "player": "Kuldip Yadav",
+  "full_name": "Kuldip Yadav",
+  "dob": "October 15, 1996",
+  "role": "Bowler",
+  "batting_style": "Left Handed",
+  "bowling_style": "Left-arm medium fast",
+  "teams": [
+    "India Emerging",
+    "Rajasthan Royals",
+    "Delhi",
+    "South Delhi Superstarz",
+    "North Delhi Strikers",
+    "Sapience"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": "2021-2023"
+  }
+}

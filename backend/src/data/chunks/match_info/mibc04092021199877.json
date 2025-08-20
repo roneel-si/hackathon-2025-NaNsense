@@ -1,0 +1,16 @@
+{
+  "id": "mibc04092021199877",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "mibc04092021199877",
+  "date": "2021-04-09",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Mumbai Indians",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

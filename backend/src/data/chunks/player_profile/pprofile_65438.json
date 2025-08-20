@@ -1,0 +1,32 @@
+{
+  "id": "pprofile_65438",
+  "type": "player_bio",
+  "player": "Anmolpreet Singh",
+  "full_name": "Anmolpreet Singh",
+  "dob": "March 28, 1998",
+  "role": "Batsman",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "India A",
+    "India Blue",
+    "Indian Board Presidents XI",
+    "Rest of India",
+    "Mumbai Indians",
+    "India Under-19",
+    "Punjab",
+    "Sunrisers Hyderabad",
+    "India C",
+    "CAG",
+    "Royal Phantoms",
+    "Hampton Falcons",
+    "Lightning Legends"
+  ],
+  "bio": "A very potent glimpse of what Anmolpreet Singh possesses was witnessed in his Ranji debut season itself. Playing for his native Punjab in the 2017 season, aged just 19, Singh was the fourth highest run-getter that season (753 runs), which included two double hundreds. His average of 125.5 was the third highest in the season. In his debut game against Himachal Pradesh, he made his maiden half ton and this wonder of a batsman was the sole succour for Punjab in a rather drab season. His crucial knock of 72 in the semi-final against Sri Lanka in the 2016 Under-19 World Cup helped India make it to the finals. Picked by Mumbai in the 2019 Indian Premier League auctions, Anmolpreet is yet to make his debut and would be itching to get going whenever he gets one. With the 2020 edition in the anvil, that day might not be far.",
+  "nationality": "India",
+  "career_span": {
+    "Test": "2018",
+    "ODI": "2024",
+    "IPL": "2021-2024"
+  }
+}

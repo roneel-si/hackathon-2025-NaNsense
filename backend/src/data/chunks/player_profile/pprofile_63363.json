@@ -1,0 +1,37 @@
+{
+  "id": "pprofile_63363",
+  "type": "player_bio",
+  "player": "Sandeep Warrier",
+  "full_name": "Sankarankutty Sandeep Warrier",
+  "dob": "April 4, 1991",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Right-arm medium",
+  "teams": [
+    "India",
+    "India A",
+    "India Red",
+    "Rest of India",
+    "South Zone",
+    "Royal Challengers Bengaluru",
+    "Kolkata Knight Riders",
+    "Mumbai Indians",
+    "Tamil Nadu",
+    "Kerala",
+    "India Under-23",
+    "Chepauk Super Gillies",
+    "Dindigul Dragons",
+    "VB Kanchi Veerans",
+    "India C",
+    "Nellai Royal Kings",
+    "Gujarat Titans",
+    "Vijay CC"
+  ],
+  "bio": "Sandeep Warrier a right-arm medium pacer from Kerala came into limelight after his impressive spell of 6-44 for Kerala against Jharkhand in 2012. In 2013, Warrier was signed by the Indian T20 league team, Bangalore for the sixth edition and was yet again bought back by the same outfit.",
+  "nationality": "India",
+  "career_span": {
+    "Test": "2023",
+    "ODI": "2022",
+    "IPL": "2019-2024"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bcck05182024243073",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "bcck05182024243073",
+  "date": "2024-05-18",
+  "venue": "M.Chinnaswamy Stadium",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bengaluru"
+  }
+}

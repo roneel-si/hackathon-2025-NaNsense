@@ -6,156 +6,38 @@
     {
       "league": "IPL",
       "career": {
-        "matches": "133",
-        "runs": "3731",
-        "batting_strike_rate": "133.35",
-        "batting_average": "34.23",
-        "fifties": "27",
-        "hundreds": "0",
-        "ducks": "7",
-        "highest_score": "97* v GT",
-        "wickets": "0",
-        "overs": "1",
-        "maidens": "0",
-        "runs_conceded": "0",
-        "economy": "7.00",
+        "matches": "-",
+        "runs": "-",
+        "batting_strike_rate": "-",
+        "batting_average": "-",
+        "fifties": "-",
+        "hundreds": "-",
+        "ducks": "-",
+        "highest_score": "-",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
         "bowling_strike_rate": "-",
-        "best_bowling_figures": "0/7 v DC",
-        "three_wicket_hauls": "0",
-        "five_wicket_hauls": "0",
-        "catches": "56",
-        "stumping": "0",
-        "run_outs": "10"
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "-"
       },
-      "man_of_the_matches": [
-        {
-          "match_id": "178041",
-          "date": "April 23, 2015",
-          "opponent": "Mumbai Indians",
-          "opponent_id": "1111",
-          "venue": "Arun Jaitley Stadium, Delhi",
-          "venue_id": "54",
-          "match_result": "Delhi Daredevils beat Mumbai Indians by 37 runs"
-        },
-        {
-          "match_id": "183427",
-          "date": "May 10, 2017",
-          "opponent": "Gujarat Lions",
-          "opponent_id": "1509",
-          "venue": "Green Park, Kanpur",
-          "venue_id": "61",
-          "match_result": "Delhi Daredevils beat Gujarat Lions by 2 wickets"
-        },
-        {
-          "match_id": "186196",
-          "date": "April 27, 2018",
-          "opponent": "Kolkata Knight Riders",
-          "opponent_id": "1106",
-          "venue": "Arun Jaitley Stadium, Delhi",
-          "venue_id": "54",
-          "match_result": "Delhi Daredevils beat Kolkata Knight Riders by 55 runs"
-        },
-        {
-          "match_id": "190297",
-          "date": "April 20, 2019",
-          "opponent": "Punjab Kings",
-          "opponent_id": "1107",
-          "venue": "Arun Jaitley Stadium, Delhi",
-          "venue_id": "54",
-          "match_result": "Delhi Capitals beat Kings XI Punjab by 5 wickets"
-        },
-        {
-          "match_id": "197703",
-          "date": "October 3, 2020",
-          "opponent": "Kolkata Knight Riders",
-          "opponent_id": "1106",
-          "venue": "Sharjah Cricket Stadium, Sharjah",
-          "venue_id": "143",
-          "match_result": "Delhi Capitals beat Kolkata Knight Riders by 18 runs"
-        },
-        {
-          "match_id": "204175",
-          "date": "September 25, 2021",
-          "opponent": "Rajasthan Royals",
-          "opponent_id": "1110",
-          "venue": "Zayed Cricket Stadium, Abu Dhabi",
-          "venue_id": "174",
-          "match_result": "Delhi Capitals beat Rajasthan Royals by 33 runs"
-        },
-        {
-          "match_id": "253703",
-          "date": "March 25, 2025",
-          "opponent": "Gujarat Titans",
-          "opponent_id": "2955",
-          "venue": "Narendra Modi Stadium, Ahmedabad",
-          "venue_id": "137",
-          "match_result": "Punjab Kings beat Gujarat Titans by 11 runs"
-        },
-        {
-          "match_id": "257263",
-          "date": "April 30, 2025",
-          "opponent": "Chennai Super Kings",
-          "opponent_id": "1108",
-          "venue": "MA Chidambaram Stadium, Chennai",
-          "venue_id": "91",
-          "match_result": "Punjab Kings beat Chennai Super Kings by 4 wickets"
-        },
-        {
-          "match_id": "260874",
-          "date": "June 1, 2025",
-          "opponent": "Mumbai Indians",
-          "opponent_id": "1111",
-          "venue": "Narendra Modi Stadium, Ahmedabad",
-          "venue_id": "137",
-          "match_result": "Punjab Kings beat Mumbai Indians by 5 wickets"
-        }
-      ],
-      "recent_games": [
-        {
-          "match_id": "260875",
-          "batting_score": "1(2)",
-          "bowling_score": "-",
-          "opponent": "Royal Challengers Bengaluru",
-          "date": "June 3, 2025"
-        },
-        {
-          "match_id": "260874",
-          "batting_score": "87*(41)",
-          "bowling_score": "-",
-          "opponent": "Mumbai Indians",
-          "date": "June 1, 2025"
-        },
-        {
-          "match_id": "260872",
-          "batting_score": "2(3)",
-          "bowling_score": "-",
-          "opponent": "Royal Challengers Bengaluru",
-          "date": "May 29, 2025"
-        },
-        {
-          "match_id": "260870",
-          "batting_score": "26*(16)",
-          "bowling_score": "-",
-          "opponent": "Mumbai Indians",
-          "date": "May 26, 2025"
-        },
-        {
-          "match_id": "260896",
-          "batting_score": "53(34)",
-          "bowling_score": "-",
-          "opponent": "Delhi Capitals",
-          "date": "May 24, 2025"
-        }
-      ],
+      "man_of_the_matches": [],
+      "recent_games": [],
       "captaincy": {
-        "matches": "87",
-        "win": "48",
-        "lose": "35",
-        "tied": "2",
-        "draw": "0",
-        "no_result": "0",
-        "win_percentage": "55.17",
-        "loss_percentage": "40.22"
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
       }
     }
   ]

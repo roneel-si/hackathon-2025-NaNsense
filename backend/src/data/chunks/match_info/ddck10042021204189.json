@@ -1,0 +1,16 @@
+{
+  "id": "ddck10042021204189",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "ddck10042021204189",
+  "date": "2021-10-04",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Delhi Capitals"
+  }
+}

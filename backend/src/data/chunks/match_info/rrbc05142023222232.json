@@ -1,0 +1,16 @@
+{
+  "id": "rrbc05142023222232",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "rrbc05142023222232",
+  "date": "2023-05-14",
+  "venue": "Sawai Mansingh Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

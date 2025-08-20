@@ -1,0 +1,16 @@
+{
+  "id": "ckkp04032022210464",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "ckkp04032022210464",
+  "date": "2022-04-03",
+  "venue": "Brabourne Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Punjab Kings"
+  ],
+  "result": {
+    "winner": "Punjab Kings"
+  }
+}

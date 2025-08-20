@@ -1,0 +1,16 @@
+{
+  "id": "krck04232023222205",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "krck04232023222205",
+  "date": "2023-04-23",
+  "venue": "Eden Gardens",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Chennai Super Kings"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

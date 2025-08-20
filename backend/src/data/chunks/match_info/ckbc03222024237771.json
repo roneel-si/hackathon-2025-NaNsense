@@ -1,0 +1,16 @@
+{
+  "id": "ckbc03222024237771",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2024,
+  "match_id": "ckbc03222024237771",
+  "date": "2024-03-22",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Royal Challengers Bengaluru"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

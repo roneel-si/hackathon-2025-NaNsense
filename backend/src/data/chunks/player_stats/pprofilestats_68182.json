@@ -1,0 +1,90 @@
+{
+  "id": "pprofilestats_68182",
+  "type": "player_career_stats",
+  "player": "Mohsin Khan",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "24",
+        "runs": "25",
+        "batting_strike_rate": "104.17",
+        "batting_average": "8.33",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "13* v PBKS",
+        "wickets": "27",
+        "overs": "81",
+        "maidens": "2",
+        "runs_conceded": "27",
+        "economy": "8.51",
+        "bowling_strike_rate": "18.00",
+        "best_bowling_figures": "4/16 v DC",
+        "three_wicket_hauls": "2",
+        "five_wicket_hauls": "0",
+        "catches": "2",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "210509",
+          "date": "May 1, 2022",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Lucknow Super Giants beat Delhi Capitals by 6 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "243072",
+          "batting_score": "DNB",
+          "bowling_score": "1/45",
+          "opponent": "Mumbai Indians",
+          "date": "May 17, 2024"
+        },
+        {
+          "match_id": "243069",
+          "batting_score": "DNB",
+          "bowling_score": "0/29",
+          "opponent": "Delhi Capitals",
+          "date": "May 14, 2024"
+        },
+        {
+          "match_id": "243059",
+          "batting_score": "DNB",
+          "bowling_score": "0/28",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 5, 2024"
+        },
+        {
+          "match_id": "243053",
+          "batting_score": "DNB",
+          "bowling_score": "2/36",
+          "opponent": "Mumbai Indians",
+          "date": "April 30, 2024"
+        },
+        {
+          "match_id": "243047",
+          "batting_score": "DNB",
+          "bowling_score": "0/52",
+          "opponent": "Rajasthan Royals",
+          "date": "April 27, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

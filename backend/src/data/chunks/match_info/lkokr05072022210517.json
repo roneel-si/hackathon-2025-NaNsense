@@ -1,0 +1,16 @@
+{
+  "id": "lkokr05072022210517",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "lkokr05072022210517",
+  "date": "2022-05-07",
+  "venue": "Maharashtra Cricket Association Stadium",
+  "teams": [
+    "Lucknow Super Giants",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Lucknow Super Giants"
+  }
+}

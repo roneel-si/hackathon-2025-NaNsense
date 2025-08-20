@@ -1,0 +1,16 @@
+{
+  "id": "ddbc04162022210486",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2022,
+  "match_id": "ddbc04162022210486",
+  "date": "2022-04-16",
+  "venue": "Wankhede Stadium",
+  "teams": [
+    "Delhi Capitals",
+    "Royal Challengers Bangalore"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

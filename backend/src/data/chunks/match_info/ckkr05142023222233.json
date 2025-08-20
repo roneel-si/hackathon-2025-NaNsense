@@ -1,0 +1,16 @@
+{
+  "id": "ckkr05142023222233",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "ckkr05142023222233",
+  "date": "2023-05-14",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Kolkata Knight Riders"
+  }
+}

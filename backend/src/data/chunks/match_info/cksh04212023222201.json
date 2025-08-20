@@ -1,0 +1,16 @@
+{
+  "id": "cksh04212023222201",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2023,
+  "match_id": "cksh04212023222201",
+  "date": "2023-04-21",
+  "venue": "MA Chidambaram Stadium",
+  "teams": [
+    "Chennai Super Kings",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Chennai Super Kings"
+  }
+}

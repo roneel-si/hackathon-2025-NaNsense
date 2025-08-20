@@ -1,0 +1,16 @@
+{
+  "id": "kprr09212021204171",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "kprr09212021204171",
+  "date": "2021-09-21",
+  "venue": "Dubai International Cricket Stadium",
+  "teams": [
+    "Punjab Kings",
+    "Rajasthan Royals"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}

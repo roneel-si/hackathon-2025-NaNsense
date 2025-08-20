@@ -1,0 +1,21 @@
+{
+  "id": "pprofile_63666",
+  "type": "player_bio",
+  "player": "Lukman Meriwala",
+  "full_name": "Lukman Iqbal Meriwala",
+  "dob": "December 11, 1991",
+  "role": "Bowler",
+  "batting_style": "Left Handed",
+  "bowling_style": "Left-arm fast medium",
+  "teams": [
+    "Delhi Capitals",
+    "Baroda",
+    "Trichy Grand Cholas",
+    "Diamond Dazzlers"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "IPL": "2021"
+  }
+}

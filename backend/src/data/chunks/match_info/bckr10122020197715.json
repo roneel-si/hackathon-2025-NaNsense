@@ -1,0 +1,16 @@
+{
+  "id": "bckr10122020197715",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2020,
+  "match_id": "bckr10122020197715",
+  "date": "2020-10-12",
+  "venue": "Sharjah Cricket Stadium",
+  "teams": [
+    "Royal Challengers Bangalore",
+    "Kolkata Knight Riders"
+  ],
+  "result": {
+    "winner": "Royal Challengers Bangalore"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rrsh05022021201032",
+  "type": "match_info",
+  "league": "ipl",
+  "season": 2021,
+  "match_id": "rrsh05022021201032",
+  "date": "2021-05-02",
+  "venue": "Arun Jaitley Stadium",
+  "teams": [
+    "Rajasthan Royals",
+    "Sunrisers Hyderabad"
+  ],
+  "result": {
+    "winner": "Rajasthan Royals"
+  }
+}
