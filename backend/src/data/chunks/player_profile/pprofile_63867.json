@@ -1,0 +1,38 @@
+{
+  "id": "pprofile_63867",
+  "type": "player_bio",
+  "player": "Tim Seifert",
+  "full_name": "Tim Louis Seifert",
+  "dob": "December 14, 1994",
+  "role": "Wicket-Keeper",
+  "batting_style": "Right Handed",
+  "bowling_style": "-",
+  "teams": [
+    "New Zealand",
+    "Northern Districts",
+    "New Zealand A",
+    "Royal Challengers Bengaluru",
+    "Kolkata Knight Riders",
+    "Delhi Capitals",
+    "New Zealand Under-19",
+    "Sussex",
+    "Melbourne Renegades",
+    "New Zealand XI",
+    "Saint Lucia Kings",
+    "Trinbago Knight Riders",
+    "Karachi Kings",
+    "Montreal Tigers",
+    "Dambulla Sixers",
+    "Galle Marvels",
+    "Sharjah Warriorz",
+    "San Francisco Unicorns",
+    "Durban Wolves"
+  ],
+  "bio": "",
+  "nationality": "New Zealand",
+  "career_span": {
+    "Test": "",
+    "ODI": "2019-2025",
+    "IPL": "2021-2022"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pprofile_81813",
+  "type": "player_bio",
+  "player": "Mitchell Owen",
+  "full_name": "Mitchell J Owen",
+  "dob": "September 16, 2001",
+  "role": "All-Rounder",
+  "batting_style": "Right Handed",
+  "bowling_style": "Right-arm medium",
+  "teams": [
+    "Australia",
+    "Tasmania",
+    "Punjab Kings",
+    "Hobart Hurricanes",
+    "Cricket Australia XI",
+    "Peshawar Zalmi",
+    "Southern Storm",
+    "New York Strikers",
+    "Paarl Royals",
+    "Washington Freedom",
+    "Gold Coast"
+  ],
+  "bio": "",
+  "nationality": "Australia",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": "2025-2025"
+  }
+}

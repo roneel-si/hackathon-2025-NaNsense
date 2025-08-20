@@ -1,0 +1,26 @@
+{
+  "id": "pprofile_71368",
+  "type": "player_bio",
+  "player": "Harsh Dubey",
+  "full_name": "Harsh Surendra Dubey",
+  "dob": "July 23, 2002",
+  "role": "All Rounder",
+  "batting_style": "Left Handed",
+  "bowling_style": "Slow left-arm orthodox",
+  "teams": [
+    "Central Zone",
+    "India A",
+    "Vidarbha",
+    "Sunrisers Hyderabad",
+    "India A Under-19",
+    "VCA Green",
+    "Vijay CC",
+    "Mylapore Recreation Club A"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "2023",
+    "IPL": "2025"
+  }
+}

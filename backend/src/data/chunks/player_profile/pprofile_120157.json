@@ -1,0 +1,24 @@
+{
+  "id": "pprofile_120157",
+  "type": "player_bio",
+  "player": "Ayush Mhatre",
+  "full_name": "Ayush Mhatre",
+  "dob": "July 16, 2007",
+  "role": "Batsman",
+  "batting_style": "Right Handed",
+  "bowling_style": "Off break",
+  "teams": [
+    "Chennai Super Kings",
+    "India Under-19",
+    "Mumbai",
+    "Triumph Knights Mumbai North East",
+    "Thane Tigers",
+    "BPCL",
+    "New Hind Sports Club"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "IPL": "2025"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pprofile_100564",
+  "type": "player_bio",
+  "player": "Suyash Sharma",
+  "full_name": "Suyash Sharma",
+  "dob": "May 15, 2003",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Leg break googly",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "Kolkata Knight Riders",
+    "Delhi",
+    "North Delhi Strikers",
+    "Outer Delhi Warriors"
+  ],
+  "bio": "Hailing from Delhi, Suyash Sharma is a right-arm leg-spinner known for his deceptive bowling action and an array of variations. He began his cricketing journey playing club cricket in Delhi before making a mark at the junior level. His consistent performances soon earned him a place in the senior setup. Despite having no prior experience at the senior level, Suyash was scouted by Kolkata, who saw promise in his skill set and backed him for the 2023 Indian Premier League. Interestingly, his T20 debut came on the grand stage of the IPL when he made his first appearance against Bengaluru, delivering a memorable spell with three wickets. He finished his debut season with 10 wickets and was subsequently retained for the following year. Later in 2023, he also made his List A debut for Delhi in the Vijay Hazare Trophy. Opportunities were limited for Suyash in the 2024 IPL, and he was released at the end of the season. However, given the value of quality leg-spinners in the shortest format, he found a new home at the 2025 IPL auction, with Bengaluru securing his services.",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": "2023-2025"
+  }
+}

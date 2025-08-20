@@ -1,0 +1,39 @@
+{
+  "id": "pprofile_67784",
+  "type": "player_bio",
+  "player": "Blessing Muzarabani",
+  "full_name": "Blessing Muzarabani",
+  "dob": "October 2, 1996",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Right-arm fast medium",
+  "teams": [
+    "Zimbabwe",
+    "Mashonaland Eagles",
+    "Northamptonshire",
+    "Northerns",
+    "Southern Rocks",
+    "Southerns",
+    "Zimbabwe A",
+    "Royal Challengers Bengaluru",
+    "Zimbabwe XI",
+    "St Kitts and Nevis Patriots",
+    "Karachi Kings",
+    "Rising Stars (ZIM)",
+    "Multan Sultans",
+    "Northern Warriors",
+    "Lucknow Super Giants",
+    "Takashinga 1",
+    "Dubai Capitals",
+    "Gulf Giants",
+    "Joburg Bangla Tigers",
+    "NYS Lagos"
+  ],
+  "bio": "",
+  "nationality": "Zimbabwe",
+  "career_span": {
+    "Test": "2017-2025",
+    "ODI": "2018-2025",
+    "IPL": ""
+  }
+}

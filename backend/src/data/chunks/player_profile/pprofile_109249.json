@@ -1,0 +1,27 @@
+{
+  "id": "pprofile_109249",
+  "type": "player_bio",
+  "player": "Lhuan-dre Pretorius",
+  "full_name": "Lhuan-dre Gilbert Pretorius",
+  "dob": "March 27, 2006",
+  "role": "Wicket-Keeper",
+  "batting_style": "Left Handed",
+  "bowling_style": "-",
+  "teams": [
+    "South Africa",
+    "Hampshire",
+    "South Africa A",
+    "Titans",
+    "Rajasthan Royals",
+    "South Africa Under-19",
+    "South Africa Emerging",
+    "Paarl Royals"
+  ],
+  "bio": "",
+  "nationality": "South Africa",
+  "career_span": {
+    "Test": "2025-2025",
+    "ODI": "",
+    "IPL": ""
+  }
+}

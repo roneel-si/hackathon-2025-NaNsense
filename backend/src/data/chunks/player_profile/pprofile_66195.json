@@ -1,0 +1,35 @@
+{
+  "id": "pprofile_66195",
+  "type": "player_bio",
+  "player": "Nandre Burger",
+  "full_name": "Nandre Burger",
+  "dob": "August 11, 1995",
+  "role": "Bowler",
+  "batting_style": "Left Handed",
+  "bowling_style": "Left-arm fast medium",
+  "teams": [
+    "South Africa",
+    "Gauteng",
+    "Garden Route Badgers",
+    "Western Province",
+    "Rajasthan Royals",
+    "Cape Cobras",
+    "DP World Lions",
+    "South Africa Emerging",
+    "Cape Town Blitz",
+    "Nelson Mandela Bay Giants",
+    "Jaffna Kings",
+    "Fortune Barishal",
+    "Joburg Super Kings",
+    "Seattle Orcas",
+    "Texas Super Kings",
+    "Harare Bolts"
+  ],
+  "bio": "",
+  "nationality": "South Africa",
+  "career_span": {
+    "Test": "2023-2024",
+    "ODI": "2023-2024",
+    "IPL": "2024-2024"
+  }
+}

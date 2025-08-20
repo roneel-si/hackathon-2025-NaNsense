@@ -1,0 +1,26 @@
+{
+  "id": "pprofile_68150",
+  "type": "player_bio",
+  "player": "Urvil Patel",
+  "full_name": "Urvil Mukesh Patel",
+  "dob": "October 17, 1998",
+  "role": "Wicket-Keeper",
+  "batting_style": "Right Handed",
+  "bowling_style": "-",
+  "teams": [
+    "West Zone",
+    "Chennai Super Kings",
+    "Gujarat",
+    "Baroda",
+    "Gujarat Titans",
+    "Life Care Cricket Club",
+    "Heritage City Titans"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {
+    "Test": "",
+    "ODI": "",
+    "IPL": "2025-2025"
+  }
+}

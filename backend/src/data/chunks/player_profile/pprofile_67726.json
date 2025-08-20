@@ -1,0 +1,24 @@
+{
+  "id": "pprofile_67726",
+  "type": "player_bio",
+  "player": "Raghu Sharma",
+  "full_name": "Raghu Shivam Om Gauri Dutt Sharma",
+  "dob": "March 11, 1993",
+  "role": "Bowler",
+  "batting_style": "Right Handed",
+  "bowling_style": "Leg break",
+  "teams": [
+    "Galle Cricket Club",
+    "Mumbai Indians",
+    "Punjab",
+    "Puducherry",
+    "Panthers XI",
+    "Sharks XI",
+    "Kayamganj Royals",
+    "Villianur Mohit Kings",
+    "Lightning Legends"
+  ],
+  "bio": "",
+  "nationality": "India",
+  "career_span": {}
+}
