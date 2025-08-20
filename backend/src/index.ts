@@ -1,6 +1,7 @@
 import "dotenv/config";
 import Fastify, { FastifyInstance } from "fastify";
 // @ts-ignore
+import cors from "@fastify/cors";
 import autoload from "@fastify/autoload";
 import path from "path";
 import { containerConfig } from "./config/container";
@@ -21,6 +22,11 @@ const start = async (): Promise<void> => {
 		await fastify.register(fastifyAwilixPlugin, {
 			disposeOnClose: true,
 			disposeOnResponse: false,
+		});
+		await fastify.register(cors, {
+			origin: "*",
+			methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+			allowedHeaders: ["Content-Type", "Authorization"],
 		});
 
 		// Register dependencies
@@ -62,3 +68,4 @@ const start = async (): Promise<void> => {
 };
 
 start();
+
