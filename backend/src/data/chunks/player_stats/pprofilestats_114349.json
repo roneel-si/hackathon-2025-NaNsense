@@ -1,0 +1,90 @@
+{
+  "id": "pprofilestats_114349",
+  "type": "player_career_stats",
+  "player": "Vaibhav Sooryavanshi",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "7",
+        "runs": "252",
+        "batting_strike_rate": "206.55",
+        "batting_average": "36.00",
+        "fifties": "1",
+        "hundreds": "1",
+        "ducks": "1",
+        "highest_score": "101 v GT",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "257261",
+          "date": "Apr 28, 2025",
+          "opponent": "Gujarat Titans",
+          "opponent_id": "2955",
+          "venue": "Sawai Mansingh Stadium, Jaipur",
+          "venue_id": "139",
+          "match_result": "Rajasthan Royals beat Gujarat Titans by 8 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260864",
+          "batting_score": "57(33)",
+          "bowling_score": "-",
+          "opponent": "Chennai Super Kings",
+          "date": "May 20, 2025"
+        },
+        {
+          "match_id": "260861",
+          "batting_score": "40(15)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "May 18, 2025"
+        },
+        {
+          "match_id": "257267",
+          "batting_score": "4(2)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 04, 2025"
+        },
+        {
+          "match_id": "257264",
+          "batting_score": "0(2)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 01, 2025"
+        },
+        {
+          "match_id": "257261",
+          "batting_score": "101(38)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "Apr 28, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

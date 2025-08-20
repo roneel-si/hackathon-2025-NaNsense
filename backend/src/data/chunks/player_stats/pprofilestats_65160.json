@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_65160",
+  "type": "player_career_stats",
+  "player": "T Natarajan",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "62",
+        "runs": "3",
+        "batting_strike_rate": "60.00",
+        "batting_average": "-",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "3",
+        "highest_score": "3* v RCB",
+        "wickets": "67",
+        "overs": "222.5",
+        "maidens": "2",
+        "runs_conceded": "67",
+        "economy": "8.83",
+        "bowling_strike_rate": "19.95",
+        "best_bowling_figures": "4/19 v DC",
+        "three_wicket_hauls": "4",
+        "five_wicket_hauls": "0",
+        "catches": "9",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "257269",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 05, 2025"
+        },
+        {
+          "match_id": "243079",
+          "batting_score": "DNB",
+          "bowling_score": "0/29",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 26, 2024"
+        },
+        {
+          "match_id": "243078",
+          "batting_score": "DNB",
+          "bowling_score": "1/13",
+          "opponent": "Rajasthan Royals",
+          "date": "May 24, 2024"
+        },
+        {
+          "match_id": "243076",
+          "batting_score": "DNB",
+          "bowling_score": "1/22",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 21, 2024"
+        },
+        {
+          "match_id": "243074",
+          "batting_score": "DNB",
+          "bowling_score": "2/33",
+          "opponent": "Punjab Kings",
+          "date": "May 19, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

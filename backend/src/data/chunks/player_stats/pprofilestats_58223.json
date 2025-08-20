@@ -1,0 +1,90 @@
+{
+  "id": "pprofilestats_58223",
+  "type": "player_career_stats",
+  "player": "Shahbaz Ahamad",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "58",
+        "runs": "545",
+        "batting_strike_rate": "121.65",
+        "batting_average": "18.79",
+        "fifties": "1",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "59* v DC",
+        "wickets": "22",
+        "overs": "98",
+        "maidens": "0",
+        "runs_conceded": "22",
+        "economy": "9.58",
+        "bowling_strike_rate": "26.72",
+        "best_bowling_figures": "3/7 v SRH",
+        "three_wicket_hauls": "2",
+        "five_wicket_hauls": "0",
+        "catches": "21",
+        "stumping": "0",
+        "run_outs": "1"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "243078",
+          "date": "May 24, 2024",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Sunrisers Hyderabad beat Rajasthan Royals by 36 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260871",
+          "batting_score": "DNB",
+          "bowling_score": "0/39",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 27, 2025"
+        },
+        {
+          "match_id": "260866",
+          "batting_score": "DNB",
+          "bowling_score": "1/41",
+          "opponent": "Gujarat Titans",
+          "date": "May 22, 2025"
+        },
+        {
+          "match_id": "253702",
+          "batting_score": "9(8)",
+          "bowling_score": "0/22",
+          "opponent": "Delhi Capitals",
+          "date": "Mar 24, 2025"
+        },
+        {
+          "match_id": "243079",
+          "batting_score": "8(7)",
+          "bowling_score": "1/22",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 26, 2024"
+        },
+        {
+          "match_id": "243078",
+          "batting_score": "18(18)",
+          "bowling_score": "3/23",
+          "opponent": "Rajasthan Royals",
+          "date": "May 24, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

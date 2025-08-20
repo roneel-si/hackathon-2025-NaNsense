@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_100353",
+  "type": "player_career_stats",
+  "player": "Naman Dhir",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "23",
+        "runs": "392",
+        "batting_strike_rate": "180.65",
+        "batting_average": "28",
+        "fifties": "1",
+        "hundreds": "0",
+        "ducks": "3",
+        "highest_score": "62* v LSG",
+        "wickets": "0",
+        "overs": "8.4",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "8.77",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "0/9 v GT",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "15",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "260874",
+          "batting_score": "37(18)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "June 1, 2025"
+        },
+        {
+          "match_id": "260873",
+          "batting_score": "9(6)",
+          "bowling_score": "0/9",
+          "opponent": "Gujarat Titans",
+          "date": "May 30, 2025"
+        },
+        {
+          "match_id": "260870",
+          "batting_score": "20(12)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "May 26, 2025"
+        },
+        {
+          "match_id": "260865",
+          "batting_score": "24*(8)",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "May 21, 2025"
+        },
+        {
+          "match_id": "257270",
+          "batting_score": "7(10)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "May 6, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

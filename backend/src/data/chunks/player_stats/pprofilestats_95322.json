@@ -1,0 +1,59 @@
+{
+  "id": "pprofilestats_95322",
+  "type": "player_career_stats",
+  "player": "Robin Minz",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "-",
+        "runs": "-",
+        "batting_strike_rate": "-",
+        "batting_average": "-",
+        "fifties": "-",
+        "hundreds": "-",
+        "ducks": "-",
+        "highest_score": "-",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "-"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "257223",
+          "batting_score": "3(6)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "Mar 29, 2025"
+        },
+        {
+          "match_id": "253700",
+          "batting_score": "3(9)",
+          "bowling_score": "-",
+          "opponent": "Chennai Super Kings",
+          "date": "Mar 23, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

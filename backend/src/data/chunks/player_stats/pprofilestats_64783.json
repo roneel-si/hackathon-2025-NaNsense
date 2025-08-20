@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_64783",
+  "type": "player_career_stats",
+  "player": "Vishnu Vinod",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "6",
+        "runs": "56",
+        "batting_strike_rate": "98.25",
+        "batting_average": "9.33",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "30 v GT",
+        "wickets": "0",
+        "overs": "0",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "0.00",
+        "bowling_strike_rate": "0.00",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "0",
+        "stumping": "2",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "225989",
+          "batting_score": "5(7)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "May 26, 2023"
+        },
+        {
+          "match_id": "222235",
+          "batting_score": "2(4)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 16, 2023"
+        },
+        {
+          "match_id": "222229",
+          "batting_score": "30(20)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "May 12, 2023"
+        },
+        {
+          "match_id": "183433",
+          "batting_score": "3(9)",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "May 14, 2017"
+        },
+        {
+          "match_id": "183385",
+          "batting_score": "7(12)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "April 10, 2017"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

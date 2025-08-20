@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_83453",
+  "type": "player_career_stats",
+  "player": "Shubham Dubey",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "12",
+        "runs": "139",
+        "batting_strike_rate": "163.52",
+        "batting_average": "23.16",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "34* v SRH",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "1",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "260861",
+          "batting_score": "7*(7)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "May 18, 2025"
+        },
+        {
+          "match_id": "257267",
+          "batting_score": "25*(14)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 04, 2025"
+        },
+        {
+          "match_id": "257264",
+          "batting_score": "15(9)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 01, 2025"
+        },
+        {
+          "match_id": "257256",
+          "batting_score": "12(7)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Apr 24, 2025"
+        },
+        {
+          "match_id": "257250",
+          "batting_score": "3*(3)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "Apr 19, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

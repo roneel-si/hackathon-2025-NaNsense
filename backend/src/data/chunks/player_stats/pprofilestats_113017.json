@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_113017",
+  "type": "player_career_stats",
+  "player": "Aniket Verma",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "14",
+        "runs": "236",
+        "batting_strike_rate": "166.19",
+        "batting_average": "26.22",
+        "fifties": "1",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "74 v DC",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "6",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "260869",
+          "batting_score": "12*(6)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 25 2025"
+        },
+        {
+          "match_id": "260867",
+          "batting_score": "26(9)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 23 2025"
+        },
+        {
+          "match_id": "260863",
+          "batting_score": "5*(2)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 19 2025"
+        },
+        {
+          "match_id": "257269",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "May 5 2025"
+        },
+        {
+          "match_id": "257265",
+          "batting_score": "3(7)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "May 2 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

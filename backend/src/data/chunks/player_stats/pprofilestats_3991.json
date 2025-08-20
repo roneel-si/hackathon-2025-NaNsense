@@ -1,0 +1,198 @@
+{
+  "id": "pprofilestats_3991",
+  "type": "player_career_stats",
+  "player": "Ajinkya Rahane",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "198",
+        "runs": "5032",
+        "batting_strike_rate": "125.01",
+        "batting_average": "30.49",
+        "fifties": "33",
+        "hundreds": "2",
+        "ducks": "13",
+        "highest_score": "105* v DC",
+        "wickets": "1",
+        "overs": "1",
+        "maidens": "0",
+        "runs_conceded": "1",
+        "economy": "5.00",
+        "bowling_strike_rate": "6.00",
+        "best_bowling_figures": "1/5 v PBKS",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "75",
+        "stumping": "0",
+        "run_outs": "7"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "92402",
+          "date": "Apr 06, 2012",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Sawai Mansingh Stadium, Jaipur",
+          "venue_id": "139",
+          "match_result": "Rajasthan Royals beat Kings XI Punjab by 31 runs"
+        },
+        {
+          "match_id": "92429",
+          "date": "Apr 15, 2012",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Rajasthan Royals beat Royal Challengers Bangalore by 59 runs"
+        },
+        {
+          "match_id": "172274",
+          "date": "Apr 17, 2013",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Sawai Mansingh Stadium, Jaipur",
+          "venue_id": "139",
+          "match_result": "Rajasthan Royals beat Mumbai Indians by 87 runs"
+        },
+        {
+          "match_id": "172302",
+          "date": "May 05, 2013",
+          "opponent": "Pune Warriors India",
+          "opponent_id": "1244",
+          "venue": "Sawai Mansingh Stadium, Jaipur",
+          "venue_id": "139",
+          "match_result": "Rajasthan Royals beat Pune Warriors India by 5 wickets"
+        },
+        {
+          "match_id": "172304",
+          "date": "May 07, 2013",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Sawai Mansingh Stadium, Jaipur",
+          "venue_id": "139",
+          "match_result": "Rajasthan Royals beat Delhi Daredevils by 9 wickets"
+        },
+        {
+          "match_id": "175875",
+          "date": "Apr 18, 2014",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Zayed Cricket Stadium, Abu Dhabi",
+          "venue_id": "174",
+          "match_result": "Rajasthan Royals beat Sunrisers Hyderabad by 4 wickets"
+        },
+        {
+          "match_id": "175958",
+          "date": "May 15, 2014",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Narendra Modi Stadium, Ahmedabad",
+          "venue_id": "137",
+          "match_result": "Rajasthan Royals beat Delhi Daredevils by 62 runs"
+        },
+        {
+          "match_id": "178031",
+          "date": "Apr 16, 2015",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+          "venue_id": "185",
+          "match_result": "Rajasthan Royals beat Sunrisers Hyderabad by 6 wickets"
+        },
+        {
+          "match_id": "178035",
+          "date": "Apr 19, 2015",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Narendra Modi Stadium, Ahmedabad",
+          "venue_id": "137",
+          "match_result": "Rajasthan Royals beat Chennai Super Kings by 8 wickets"
+        },
+        {
+          "match_id": "178056",
+          "date": "May 03, 2015",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Brabourne Stadium, Mumbai",
+          "venue_id": "20",
+          "match_result": "Rajasthan Royals beat Delhi Daredevils by 14 runs"
+        },
+        {
+          "match_id": "181027",
+          "date": "Apr 09, 2016",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Rising Pune Supergiants beat Mumbai Indians by 9 wickets"
+        },
+        {
+          "match_id": "181059",
+          "date": "May 05, 2016",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Rising Pune Supergiants beat Delhi Daredevils by 7 wickets"
+        },
+        {
+          "match_id": "222205",
+          "date": "Apr 23, 2023",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Chennai Super Kings beat Kolkata Knight Riders by 49 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260869",
+          "batting_score": "15(8)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 25, 2025"
+        },
+        {
+          "match_id": "257271",
+          "batting_score": "48(33)",
+          "bowling_score": "-",
+          "opponent": "Chennai Super Kings",
+          "date": "May 07, 2025"
+        },
+        {
+          "match_id": "257267",
+          "batting_score": "30(24)",
+          "bowling_score": "-",
+          "opponent": "Rajasthan Royals",
+          "date": "May 04, 2025"
+        },
+        {
+          "match_id": "257262",
+          "batting_score": "26(14)",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "Apr 29, 2025"
+        },
+        {
+          "match_id": "257258",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "Apr 26, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "38",
+        "win": "14",
+        "lose": "23",
+        "tied": "0",
+        "draw": "1",
+        "no_result": "36.84",
+        "win_percentage": "60.53",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

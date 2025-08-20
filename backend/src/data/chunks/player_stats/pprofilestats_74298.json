@@ -1,0 +1,90 @@
+{
+  "id": "pprofilestats_74298",
+  "type": "player_career_stats",
+  "player": "Vaibhav Arora",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "32",
+        "runs": "9",
+        "batting_strike_rate": "37.50",
+        "batting_average": "2.25",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "4",
+        "highest_score": "2* v SRH",
+        "wickets": "36",
+        "overs": "106.2",
+        "maidens": "1",
+        "runs_conceded": "36",
+        "economy": "9.55",
+        "bowling_strike_rate": "17.72",
+        "best_bowling_figures": "3/27 v DC",
+        "three_wicket_hauls": "3",
+        "five_wicket_hauls": "0",
+        "catches": "9",
+        "stumping": "0",
+        "run_outs": "1"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "257229",
+          "date": "Apr 03, 2025",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Kolkata Knight Riders beat Sunrisers Hyderabad by 80 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260869",
+          "batting_score": "0(1)",
+          "bowling_score": "1/39",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 25, 2025"
+        },
+        {
+          "match_id": "257271",
+          "batting_score": "DNB",
+          "bowling_score": "3/48",
+          "opponent": "Chennai Super Kings",
+          "date": "May 07, 2025"
+        },
+        {
+          "match_id": "257267",
+          "batting_score": "DNB",
+          "bowling_score": "1/50",
+          "opponent": "Rajasthan Royals",
+          "date": "May 04, 2025"
+        },
+        {
+          "match_id": "257262",
+          "batting_score": "DNB",
+          "bowling_score": "1/19",
+          "opponent": "Delhi Capitals",
+          "date": "Apr 29, 2025"
+        },
+        {
+          "match_id": "257258",
+          "batting_score": "DNB",
+          "bowling_score": "2/34",
+          "opponent": "Punjab Kings",
+          "date": "Apr 26, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

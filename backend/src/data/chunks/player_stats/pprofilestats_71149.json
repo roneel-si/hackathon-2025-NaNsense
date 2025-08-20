@@ -1,0 +1,52 @@
+{
+  "id": "pprofilestats_71149",
+  "type": "player_career_stats",
+  "player": "Manav Suthar",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "1",
+        "runs": "1",
+        "batting_strike_rate": "50.00",
+        "batting_average": "1.00",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "1 v RCB",
+        "wickets": "0",
+        "overs": "2",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "13.00",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "0/26 v RCB",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "243057",
+          "batting_score": "1(2)",
+          "bowling_score": "0/26",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 04, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

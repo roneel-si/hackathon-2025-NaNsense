@@ -1,0 +1,52 @@
+{
+  "id": "pprofilestats_94786",
+  "type": "player_career_stats",
+  "player": "Musheer Khan",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "1",
+        "runs": "0",
+        "batting_strike_rate": "0.00",
+        "batting_average": "0",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "0 v RCB",
+        "wickets": "1",
+        "overs": "2",
+        "maidens": "0",
+        "runs_conceded": "1",
+        "economy": "13.50",
+        "bowling_strike_rate": "12.00",
+        "best_bowling_figures": "1/27 v RCB",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "0",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "260872",
+          "batting_score": "0(3)",
+          "bowling_score": "1/27",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 29, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

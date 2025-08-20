@@ -1,0 +1,90 @@
+{
+  "id": "pprofilestats_68237",
+  "type": "player_career_stats",
+  "player": "Simarjeet Singh",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "14",
+        "runs": "10",
+        "batting_strike_rate": "66.67",
+        "batting_average": "3.33",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "2",
+        "highest_score": "3* v RR",
+        "wickets": "11",
+        "overs": "40",
+        "maidens": "0",
+        "runs_conceded": "11",
+        "economy": "10.00",
+        "bowling_strike_rate": "21.82",
+        "best_bowling_figures": "3/26 v RR",
+        "three_wicket_hauls": "1",
+        "five_wicket_hauls": "0",
+        "catches": "3",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "243066",
+          "date": "May 12, 2024",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Rajasthan Royals by 5 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "257234",
+          "batting_score": "0(2)",
+          "bowling_score": "0/20",
+          "opponent": "Gujarat Titans",
+          "date": "April 6, 2025"
+        },
+        {
+          "match_id": "257229",
+          "batting_score": "0(1)",
+          "bowling_score": "0/47",
+          "opponent": "Kolkata Knight Riders",
+          "date": "April 3, 2025"
+        },
+        {
+          "match_id": "257221",
+          "batting_score": "3*(4)",
+          "bowling_score": "0/28",
+          "opponent": "Lucknow Super Giants",
+          "date": "March 27, 2025"
+        },
+        {
+          "match_id": "253699",
+          "batting_score": "DNB",
+          "bowling_score": "2/46",
+          "opponent": "Rajasthan Royals",
+          "date": "March 23, 2025"
+        },
+        {
+          "match_id": "243073",
+          "batting_score": "DNB",
+          "bowling_score": "0/19",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 18, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

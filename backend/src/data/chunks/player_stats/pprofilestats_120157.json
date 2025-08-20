@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_120157",
+  "type": "player_career_stats",
+  "player": "Ayush Mhatre",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "7",
+        "runs": "240",
+        "batting_strike_rate": "188.97",
+        "batting_average": "34.28",
+        "fifties": "1",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "94 v RCB",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "4",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "260868",
+          "batting_score": "34(17)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "May 25, 2025"
+        },
+        {
+          "match_id": "260864",
+          "batting_score": "43(20)",
+          "bowling_score": "-",
+          "opponent": "Rajasthan Royals",
+          "date": "May 20, 2025"
+        },
+        {
+          "match_id": "257271",
+          "batting_score": "0(2)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 07, 2025"
+        },
+        {
+          "match_id": "257266",
+          "batting_score": "94(48)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 03, 2025"
+        },
+        {
+          "match_id": "257263",
+          "batting_score": "7(6)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "Apr 30, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

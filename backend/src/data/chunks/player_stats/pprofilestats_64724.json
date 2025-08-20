@@ -1,0 +1,90 @@
+{
+  "id": "pprofilestats_64724",
+  "type": "player_career_stats",
+  "player": "Jitesh Sharma",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "55",
+        "runs": "991",
+        "batting_strike_rate": "157.05",
+        "batting_average": "25.41",
+        "fifties": "1",
+        "hundreds": "0",
+        "ducks": "2",
+        "highest_score": "85* v LSG",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "44",
+        "stumping": "5",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "260871",
+          "date": "May 27, 2025",
+          "opponent": "Lucknow Super Giants",
+          "opponent_id": "2954",
+          "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+          "venue_id": "1900",
+          "match_result": "Royal Challengers Bengaluru beat Lucknow Super Giants by 6 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260875",
+          "batting_score": "24(10)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "Jun 03, 2025"
+        },
+        {
+          "match_id": "260872",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "May 29, 2025"
+        },
+        {
+          "match_id": "260871",
+          "batting_score": "85*(33)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 27, 2025"
+        },
+        {
+          "match_id": "260867",
+          "batting_score": "24(15)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 23, 2025"
+        },
+        {
+          "match_id": "257266",
+          "batting_score": "7(8)",
+          "bowling_score": "-",
+          "opponent": "Chennai Super Kings",
+          "date": "May 03, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "3",
+        "win": "1",
+        "lose": "2",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "33.33",
+        "win_percentage": "66.67",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_64721",
+  "type": "player_career_stats",
+  "player": "Shahrukh Khan",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "55",
+        "runs": "732",
+        "batting_strike_rate": "149.08",
+        "batting_average": "21.52",
+        "fifties": "2",
+        "hundreds": "0",
+        "ducks": "4",
+        "highest_score": "58 v RCB",
+        "wickets": "1",
+        "overs": "3",
+        "maidens": "0",
+        "runs_conceded": "1",
+        "economy": "9.33",
+        "bowling_strike_rate": "18.00",
+        "best_bowling_figures": "1/13 v CSK",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "25",
+        "stumping": "0",
+        "run_outs": "5"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "260873",
+          "batting_score": "13(7)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 30, 2025"
+        },
+        {
+          "match_id": "260868",
+          "batting_score": "19(15)",
+          "bowling_score": "1/13",
+          "opponent": "Chennai Super Kings",
+          "date": "May 25, 2025"
+        },
+        {
+          "match_id": "260866",
+          "batting_score": "57(29)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 22, 2025"
+        },
+        {
+          "match_id": "260862",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "May 18, 2025"
+        },
+        {
+          "match_id": "257270",
+          "batting_score": "6(6)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 06, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

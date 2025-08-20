@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_70191",
+  "type": "player_career_stats",
+  "player": "Kumar Kartikeya",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "16",
+        "runs": "12",
+        "batting_strike_rate": "70.58",
+        "batting_average": "3.00",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "6 v GT",
+        "wickets": "12",
+        "overs": "47",
+        "maidens": "0",
+        "runs_conceded": "12",
+        "economy": "8.65",
+        "bowling_strike_rate": "23.50",
+        "best_bowling_figures": "2/22 v CSK",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "1",
+        "stumping": "0",
+        "run_outs": "2"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "257264",
+          "batting_score": "2(4)",
+          "bowling_score": "0/22",
+          "opponent": "Mumbai Indians",
+          "date": "May 1 2025"
+        },
+        {
+          "match_id": "257242",
+          "batting_score": "DNB",
+          "bowling_score": "1/25",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Apr 13 2025"
+        },
+        {
+          "match_id": "257232",
+          "batting_score": "DNB",
+          "bowling_score": "1/21",
+          "opponent": "Punjab Kings",
+          "date": "Apr 5 2025"
+        },
+        {
+          "match_id": "257225",
+          "batting_score": "1(1)",
+          "bowling_score": "0/10",
+          "opponent": "Chennai Super Kings",
+          "date": "Mar 30 2025"
+        },
+        {
+          "match_id": "225989",
+          "batting_score": "6(7)",
+          "bowling_score": "0/15",
+          "opponent": "Gujarat Titans",
+          "date": "May 26 2023"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

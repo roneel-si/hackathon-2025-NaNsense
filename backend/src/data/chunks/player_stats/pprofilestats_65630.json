@@ -1,0 +1,66 @@
+{
+  "id": "pprofilestats_65630",
+  "type": "player_career_stats",
+  "player": "Richard Gleeson",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "3",
+        "runs": "2",
+        "batting_strike_rate": "100.00",
+        "batting_average": "0",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "2* v PBKS",
+        "wickets": "2",
+        "overs": "11.2",
+        "maidens": "0",
+        "runs_conceded": "2",
+        "economy": "9.71",
+        "bowling_strike_rate": "34.00",
+        "best_bowling_figures": "1/30 v PBKS",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "0",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "260873",
+          "batting_score": "DNB",
+          "bowling_score": "1/39",
+          "opponent": "Gujarat Titans",
+          "date": "May 30, 2025"
+        },
+        {
+          "match_id": "243058",
+          "batting_score": "2*(2)",
+          "bowling_score": "0/41",
+          "opponent": "Punjab Kings",
+          "date": "May 5, 2024"
+        },
+        {
+          "match_id": "243054",
+          "batting_score": "DNB",
+          "bowling_score": "1/30",
+          "opponent": "Punjab Kings",
+          "date": "May 1, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

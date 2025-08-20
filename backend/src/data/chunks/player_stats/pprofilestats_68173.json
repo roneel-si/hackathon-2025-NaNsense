@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_68173",
+  "type": "player_career_stats",
+  "player": "Chetan Sakariya",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "20",
+        "runs": "20",
+        "batting_strike_rate": "64.51",
+        "batting_average": "3.33",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "3",
+        "highest_score": "7 v PBKS",
+        "wickets": "20",
+        "overs": "74",
+        "maidens": "1",
+        "runs_conceded": "20",
+        "economy": "8.62",
+        "bowling_strike_rate": "22.20",
+        "best_bowling_figures": "3/31 v PBKS",
+        "three_wicket_hauls": "2",
+        "five_wicket_hauls": "0",
+        "catches": "6",
+        "stumping": "0",
+        "run_outs": "1"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "257258",
+          "batting_score": "DNB",
+          "bowling_score": "0/39",
+          "opponent": "Punjab Kings",
+          "date": "Apr 26, 2025"
+        },
+        {
+          "match_id": "222239",
+          "batting_score": "0*(2)",
+          "bowling_score": "1/36",
+          "opponent": "Chennai Super Kings",
+          "date": "May 20, 2023"
+        },
+        {
+          "match_id": "219156",
+          "batting_score": "4(4)",
+          "bowling_score": "2/53",
+          "opponent": "Lucknow Super Giants",
+          "date": "Apr 01, 2023"
+        },
+        {
+          "match_id": "210522",
+          "batting_score": "DNB",
+          "bowling_score": "2/23",
+          "opponent": "Rajasthan Royals",
+          "date": "May 11, 2022"
+        },
+        {
+          "match_id": "210509",
+          "batting_score": "DNB",
+          "bowling_score": "0/44",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 01, 2022"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

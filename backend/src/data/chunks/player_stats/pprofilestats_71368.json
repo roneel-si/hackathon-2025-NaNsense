@@ -1,0 +1,73 @@
+{
+  "id": "pprofilestats_71368",
+  "type": "player_career_stats",
+  "player": "Harsh Dubey",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "4",
+        "runs": "-",
+        "batting_strike_rate": "0.00",
+        "batting_average": "-",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "-",
+        "wickets": "5",
+        "overs": "10",
+        "maidens": "0",
+        "runs_conceded": "5",
+        "economy": "9.80",
+        "bowling_strike_rate": "12.00",
+        "best_bowling_figures": "3/34 v KKR",
+        "three_wicket_hauls": "1",
+        "five_wicket_hauls": "0",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "260869",
+          "batting_score": "DNB",
+          "bowling_score": "3/34",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 25, 2025"
+        },
+        {
+          "match_id": "260867",
+          "batting_score": "DNB",
+          "bowling_score": "1/20",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 23, 2025"
+        },
+        {
+          "match_id": "260863",
+          "batting_score": "DNB",
+          "bowling_score": "1/44",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 19, 2025"
+        },
+        {
+          "match_id": "257269",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "May 05, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

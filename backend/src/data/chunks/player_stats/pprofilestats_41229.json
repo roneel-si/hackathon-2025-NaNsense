@@ -1,0 +1,117 @@
+{
+  "id": "pprofilestats_41229",
+  "type": "player_career_stats",
+  "player": "Rahul Tripathi",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "100",
+        "runs": "2291",
+        "batting_strike_rate": "137.84",
+        "batting_average": "26.33",
+        "fifties": "12",
+        "hundreds": "0",
+        "ducks": "4",
+        "highest_score": "93 v KKR",
+        "wickets": "0",
+        "overs": "1",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "12.00",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "0/12 v KKR",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "34",
+        "stumping": "0",
+        "run_outs": "5"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "183418",
+          "date": "May 03, 2017",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Rising Pune Supergiant beat Kolkata Knight Riders by 4 wickets"
+        },
+        {
+          "match_id": "197708",
+          "date": "Oct 07, 2020",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Zayed Cricket Stadium, Abu Dhabi",
+          "venue_id": "174",
+          "match_result": "Kolkata Knight Riders beat Chennai Super Kings by 10 runs"
+        },
+        {
+          "match_id": "210483",
+          "date": "Apr 15, 2022",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Brabourne Stadium, Mumbai",
+          "venue_id": "20",
+          "match_result": "Sunrisers Hyderabad beat Kolkata Knight Riders by 7 wickets"
+        },
+        {
+          "match_id": "210529",
+          "date": "May 17, 2022",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Sunrisers Hyderabad beat Mumbai Indians by 3 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "257244",
+          "batting_score": "9(10)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "Apr 14, 2025"
+        },
+        {
+          "match_id": "257239",
+          "batting_score": "16(22)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Apr 11, 2025"
+        },
+        {
+          "match_id": "257225",
+          "batting_score": "23(19)",
+          "bowling_score": "-",
+          "opponent": "Rajasthan Royals",
+          "date": "Mar 30, 2025"
+        },
+        {
+          "match_id": "257222",
+          "batting_score": "5(3)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Mar 28, 2025"
+        },
+        {
+          "match_id": "253700",
+          "batting_score": "2(3)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "Mar 23, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

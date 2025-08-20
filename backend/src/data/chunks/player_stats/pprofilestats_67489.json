@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_67489",
+  "type": "player_career_stats",
+  "player": "Darshan Nalkande",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "6",
+        "runs": "12",
+        "batting_strike_rate": "100.00",
+        "batting_average": "6.00",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "12 v LSG",
+        "wickets": "6",
+        "overs": "14",
+        "maidens": "0",
+        "runs_conceded": "6",
+        "economy": "10.57",
+        "bowling_strike_rate": "14.00",
+        "best_bowling_figures": "2/21 v LSG",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "2",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "241772",
+          "batting_score": "12(11)",
+          "bowling_score": "2/21",
+          "opponent": "Lucknow Super Giants",
+          "date": "Apr 07, 2024"
+        },
+        {
+          "match_id": "241768",
+          "batting_score": "DNB",
+          "bowling_score": "1/6",
+          "opponent": "Punjab Kings",
+          "date": "Apr 04, 2024"
+        },
+        {
+          "match_id": "241760",
+          "batting_score": "DNB",
+          "bowling_score": "0/18",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "Mar 31, 2024"
+        },
+        {
+          "match_id": "225987",
+          "batting_score": "0(1)",
+          "bowling_score": "1/44",
+          "opponent": "Chennai Super Kings",
+          "date": "May 23, 2023"
+        },
+        {
+          "match_id": "210478",
+          "batting_score": "DNB",
+          "bowling_score": "0/22",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "Apr 11, 2022"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

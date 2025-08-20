@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_69659",
+  "type": "player_career_stats",
+  "player": "Arjun Tendulkar",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "5",
+        "runs": "13",
+        "batting_strike_rate": "144.44",
+        "batting_average": "13",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "13 v GT",
+        "wickets": "3",
+        "overs": "12.1",
+        "maidens": "0",
+        "runs_conceded": "3",
+        "economy": "9.37",
+        "bowling_strike_rate": "24.33",
+        "best_bowling_figures": "1/9 v GT",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "0",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "243072",
+          "batting_score": "DNB",
+          "bowling_score": "0/22",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 17, 2024"
+        },
+        {
+          "match_id": "222207",
+          "batting_score": "13(9)",
+          "bowling_score": "1/9",
+          "opponent": "Gujarat Titans",
+          "date": "April 25, 2023"
+        },
+        {
+          "match_id": "222203",
+          "batting_score": "DNB",
+          "bowling_score": "1/48",
+          "opponent": "Punjab Kings",
+          "date": "April 22, 2023"
+        },
+        {
+          "match_id": "222197",
+          "batting_score": "DNB",
+          "bowling_score": "1/18",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "April 18, 2023"
+        },
+        {
+          "match_id": "222194",
+          "batting_score": "DNB",
+          "bowling_score": "0/17",
+          "opponent": "Kolkata Knight Riders",
+          "date": "April 16, 2023"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

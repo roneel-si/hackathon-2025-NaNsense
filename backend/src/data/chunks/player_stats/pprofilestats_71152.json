@@ -1,0 +1,59 @@
+{
+  "id": "pprofilestats_71152",
+  "type": "player_career_stats",
+  "player": "Rajvardhan Hangargekar",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "2",
+        "runs": "-",
+        "batting_strike_rate": "0.00",
+        "batting_average": "-",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "-",
+        "wickets": "3",
+        "overs": "6",
+        "maidens": "0",
+        "runs_conceded": "3",
+        "economy": "10.00",
+        "bowling_strike_rate": "12.00",
+        "best_bowling_figures": "3/36 v GT",
+        "three_wicket_hauls": "1",
+        "five_wicket_hauls": "0",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "222174",
+          "batting_score": "DNB",
+          "bowling_score": "0/24",
+          "opponent": "Lucknow Super Giants",
+          "date": "Apr 03, 2023"
+        },
+        {
+          "match_id": "219154",
+          "batting_score": "DNB",
+          "bowling_score": "3/36",
+          "opponent": "Gujarat Titans",
+          "date": "Mar 31, 2023"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

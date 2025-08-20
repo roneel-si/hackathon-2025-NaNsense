@@ -1,0 +1,99 @@
+{
+  "id": "pprofilestats_65702",
+  "type": "player_career_stats",
+  "player": "Prasidh Krishna",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "66",
+        "runs": "9",
+        "batting_strike_rate": "37.50",
+        "batting_average": "3",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "2",
+        "highest_score": "4* v GT",
+        "wickets": "74",
+        "overs": "249.5",
+        "maidens": "3",
+        "runs_conceded": "74",
+        "economy": "8.77",
+        "bowling_strike_rate": "20.26",
+        "best_bowling_figures": "4/30 v SRH",
+        "three_wicket_hauls": "5",
+        "five_wicket_hauls": "0",
+        "catches": "14",
+        "stumping": "0",
+        "run_outs": "1"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "257223",
+          "date": "March 29, 2025",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Narendra Modi Stadium, Ahmedabad",
+          "venue_id": "137",
+          "match_result": "Gujarat Titans beat Mumbai Indians by 36 runs"
+        },
+        {
+          "match_id": "257265",
+          "date": "May 2, 2025",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Narendra Modi Stadium, Ahmedabad",
+          "venue_id": "137",
+          "match_result": "Gujarat Titans beat Sunrisers Hyderabad by 38 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260873",
+          "batting_score": "DNB",
+          "bowling_score": "2/53",
+          "opponent": "Mumbai Indians",
+          "date": "May 30, 2025"
+        },
+        {
+          "match_id": "260868",
+          "batting_score": "DNB",
+          "bowling_score": "2/22",
+          "opponent": "Chennai Super Kings",
+          "date": "May 25, 2025"
+        },
+        {
+          "match_id": "260866",
+          "batting_score": "DNB",
+          "bowling_score": "0/44",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 22, 2025"
+        },
+        {
+          "match_id": "260862",
+          "batting_score": "DNB",
+          "bowling_score": "1/40",
+          "opponent": "Delhi Capitals",
+          "date": "May 18, 2025"
+        },
+        {
+          "match_id": "257270",
+          "batting_score": "DNB",
+          "bowling_score": "1/37",
+          "opponent": "Mumbai Indians",
+          "date": "May 6, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

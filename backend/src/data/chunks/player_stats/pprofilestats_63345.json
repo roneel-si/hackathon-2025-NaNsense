@@ -1,0 +1,108 @@
+{
+  "id": "pprofilestats_63345",
+  "type": "player_career_stats",
+  "player": "Shardul Thakur",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "105",
+        "runs": "325",
+        "batting_strike_rate": "139.48",
+        "batting_average": "11.61",
+        "fifties": "1",
+        "hundreds": "0",
+        "ducks": "8",
+        "highest_score": "68 v RCB",
+        "wickets": "107",
+        "overs": "345",
+        "maidens": "3",
+        "runs_conceded": "107",
+        "economy": "9.40",
+        "bowling_strike_rate": "19.35",
+        "best_bowling_figures": "4/34 v SRH",
+        "three_wicket_hauls": "6",
+        "five_wicket_hauls": "0",
+        "catches": "36",
+        "stumping": "0",
+        "run_outs": "2"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "210528",
+          "date": "May 16, 2022",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Dr. DY Patil Sports Academy, Navi Mumbai",
+          "venue_id": "219",
+          "match_result": "Delhi Capitals beat Punjab Kings by 17 runs"
+        },
+        {
+          "match_id": "222178",
+          "date": "April 6, 2023",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Kolkata Knight Riders beat Royal Challengers Bangalore by 81 runs"
+        },
+        {
+          "match_id": "257221",
+          "date": "March 27, 2025",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Lucknow Super Giants beat Sunrisers Hyderabad by 5 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260863",
+          "batting_score": "4(1)",
+          "bowling_score": "1/39",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 19, 2025"
+        },
+        {
+          "match_id": "257254",
+          "batting_score": "DNB",
+          "bowling_score": "0/28",
+          "opponent": "Delhi Capitals",
+          "date": "April 22, 2025"
+        },
+        {
+          "match_id": "257250",
+          "batting_score": "DNB",
+          "bowling_score": "1/34",
+          "opponent": "Rajasthan Royals",
+          "date": "April 19, 2025"
+        },
+        {
+          "match_id": "257244",
+          "batting_score": "6(4)",
+          "bowling_score": "0/56",
+          "opponent": "Chennai Super Kings",
+          "date": "April 14, 2025"
+        },
+        {
+          "match_id": "257240",
+          "batting_score": "DNB",
+          "bowling_score": "2/34",
+          "opponent": "Gujarat Titans",
+          "date": "April 12, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

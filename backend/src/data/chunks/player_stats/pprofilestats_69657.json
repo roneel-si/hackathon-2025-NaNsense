@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_69657",
+  "type": "player_career_stats",
+  "player": "Nehal Wadhera",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "36",
+        "runs": "719",
+        "batting_strike_rate": "142.94",
+        "batting_average": "26.63",
+        "fifties": "4",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "70 v RR",
+        "wickets": "0",
+        "overs": "2.5",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "7.76",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "0/9 v RCB",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "12",
+        "stumping": "0",
+        "run_outs": "1"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "260875",
+          "batting_score": "15(18)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "June 3, 2025"
+        },
+        {
+          "match_id": "260874",
+          "batting_score": "48(29)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "June 1, 2025"
+        },
+        {
+          "match_id": "260872",
+          "batting_score": "8(10)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 29, 2025"
+        },
+        {
+          "match_id": "260870",
+          "batting_score": "2*(2)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 26, 2025"
+        },
+        {
+          "match_id": "260896",
+          "batting_score": "16(16)",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "May 24, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

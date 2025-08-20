@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_71151",
+  "type": "player_career_stats",
+  "player": "Anshul Kamboj",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "11",
+        "runs": "16",
+        "batting_strike_rate": "114.29",
+        "batting_average": "8",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "5* v RR",
+        "wickets": "10",
+        "overs": "31.3",
+        "maidens": "0",
+        "runs_conceded": "10",
+        "economy": "9.08",
+        "bowling_strike_rate": "18.90",
+        "best_bowling_figures": "3/13 v GT",
+        "three_wicket_hauls": "1",
+        "five_wicket_hauls": "0",
+        "catches": "4",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "260868",
+          "batting_score": "DNB",
+          "bowling_score": "3/13",
+          "opponent": "Gujarat Titans",
+          "date": "May 25, 2025"
+        },
+        {
+          "match_id": "260864",
+          "batting_score": "5*(3)",
+          "bowling_score": "1/21",
+          "opponent": "Rajasthan Royals",
+          "date": "May 20, 2025"
+        },
+        {
+          "match_id": "257271",
+          "batting_score": "4*(1)",
+          "bowling_score": "1/38",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 7, 2025"
+        },
+        {
+          "match_id": "257266",
+          "batting_score": "DNB",
+          "bowling_score": "0/25",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 3, 2025"
+        },
+        {
+          "match_id": "257263",
+          "batting_score": "0(1)",
+          "bowling_score": "0/20",
+          "opponent": "Punjab Kings",
+          "date": "April 30, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

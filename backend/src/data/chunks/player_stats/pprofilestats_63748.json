@@ -1,0 +1,90 @@
+{
+  "id": "pprofilestats_63748",
+  "type": "player_career_stats",
+  "player": "Deepak Hooda",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "125",
+        "runs": "1496",
+        "batting_strike_rate": "127.64",
+        "batting_average": "17.60",
+        "fifties": "8",
+        "hundreds": "0",
+        "ducks": "5",
+        "highest_score": "64 v RR",
+        "wickets": "10",
+        "overs": "63.1",
+        "maidens": "0",
+        "runs_conceded": "10",
+        "economy": "8.64",
+        "bowling_strike_rate": "37.90",
+        "best_bowling_figures": "2/16 v KKR",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "55",
+        "stumping": "0",
+        "run_outs": "10"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "178026",
+          "date": "Apr 12 2015",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Rajasthan Royals beat Delhi Daredevils by 3 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260868",
+          "batting_score": "DNB",
+          "bowling_score": "0/15",
+          "opponent": "Gujarat Titans",
+          "date": "May 25 2025"
+        },
+        {
+          "match_id": "257266",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 3 2025"
+        },
+        {
+          "match_id": "257263",
+          "batting_score": "2(2)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "Apr 30 2025"
+        },
+        {
+          "match_id": "257257",
+          "batting_score": "22(21)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "Apr 25 2025"
+        },
+        {
+          "match_id": "257239",
+          "batting_score": "0(4)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Apr 11 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

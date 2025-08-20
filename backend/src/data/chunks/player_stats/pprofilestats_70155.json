@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_70155",
+  "type": "player_career_stats",
+  "player": "Yash Dayal",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "43",
+        "runs": "4",
+        "batting_strike_rate": "44.44",
+        "batting_average": "1.33",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "2",
+        "highest_score": "3 v SRH",
+        "wickets": "41",
+        "overs": "145.1",
+        "maidens": "0",
+        "runs_conceded": "41",
+        "economy": "9.58",
+        "bowling_strike_rate": "21.24",
+        "best_bowling_figures": "3/20 v DC",
+        "three_wicket_hauls": "2",
+        "five_wicket_hauls": "0",
+        "catches": "8",
+        "stumping": "0",
+        "run_outs": "1"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "260875",
+          "batting_score": "1*(1)",
+          "bowling_score": "1/18",
+          "opponent": "Punjab Kings",
+          "date": "June 3, 2025"
+        },
+        {
+          "match_id": "260872",
+          "batting_score": "DNB",
+          "bowling_score": "2/26",
+          "opponent": "Punjab Kings",
+          "date": "May 29, 2025"
+        },
+        {
+          "match_id": "260871",
+          "batting_score": "DNB",
+          "bowling_score": "0/44",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 27, 2025"
+        },
+        {
+          "match_id": "260867",
+          "batting_score": "3(6)",
+          "bowling_score": "0/36",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 23, 2025"
+        },
+        {
+          "match_id": "257266",
+          "batting_score": "DNB",
+          "bowling_score": "1/41",
+          "opponent": "Chennai Super Kings",
+          "date": "May 3, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

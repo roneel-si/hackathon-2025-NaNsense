@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_67126",
+  "type": "player_career_stats",
+  "player": "Mayank Markande",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "37",
+        "runs": "48",
+        "batting_strike_rate": "114.28",
+        "batting_average": "16.00",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "2",
+        "highest_score": "18* v GT",
+        "wickets": "37",
+        "overs": "120",
+        "maidens": "0",
+        "runs_conceded": "37",
+        "economy": "8.90",
+        "bowling_strike_rate": "19.45",
+        "best_bowling_figures": "4/15 v PBKS",
+        "three_wicket_hauls": "3",
+        "five_wicket_hauls": "0",
+        "catches": "8",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "243043",
+          "batting_score": "DNB",
+          "bowling_score": "1/42",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Apr 25, 2024"
+        },
+        {
+          "match_id": "243037",
+          "batting_score": "DNB",
+          "bowling_score": "2/26",
+          "opponent": "Delhi Capitals",
+          "date": "Apr 20, 2024"
+        },
+        {
+          "match_id": "243032",
+          "batting_score": "DNB",
+          "bowling_score": "2/46",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Apr 15, 2024"
+        },
+        {
+          "match_id": "241769",
+          "batting_score": "DNB",
+          "bowling_score": "0/21",
+          "opponent": "Chennai Super Kings",
+          "date": "Apr 05, 2024"
+        },
+        {
+          "match_id": "241760",
+          "batting_score": "DNB",
+          "bowling_score": "1/33",
+          "opponent": "Gujarat Titans",
+          "date": "Mar 31, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

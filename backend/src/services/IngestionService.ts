@@ -141,9 +141,158 @@ async function main(tournamentIds: number[]) {
 			},
 		};
 
+		let overallBattingIplStats =
+			data.data[1].overall["Batting & Fielding"]?.IPL;
+		let overallBowlingIplStats = data.data[1].overall["Bowling"]?.IPL;
+
+		let playerStatsNode = {
+			id: "pprofilestats_" + playerId,
+			type: "player_career_stats",
+			player: data.data[0].profile.Bio.Player_Name,
+			stats: [
+				{
+					league: "IPL",
+					career: {
+						matches:
+							overallBattingIplStats && overallBattingIplStats[0]
+								? overallBattingIplStats[0]
+								: "-",
+						runs:
+							overallBattingIplStats && overallBattingIplStats[3]
+								? overallBattingIplStats[3]
+								: "-",
+						batting_strike_rate:
+							overallBattingIplStats && overallBattingIplStats[10]
+								? overallBattingIplStats[10]
+								: "-",
+						batting_average:
+							overallBattingIplStats && overallBattingIplStats[9]
+								? overallBattingIplStats[9]
+								: "-",
+						fifties:
+							overallBattingIplStats && overallBattingIplStats[6]
+								? overallBattingIplStats[6]
+								: "-",
+						hundreds:
+							overallBattingIplStats && overallBattingIplStats[5]
+								? overallBattingIplStats[5]
+								: "-",
+						ducks:
+							overallBattingIplStats && overallBattingIplStats[15]
+								? overallBattingIplStats[15]
+								: "-",
+						highest_score:
+							overallBattingIplStats && overallBattingIplStats[4]
+								? overallBattingIplStats[4]
+								: "-",
+						wickets:
+							overallBowlingIplStats && overallBowlingIplStats[4]
+								? overallBowlingIplStats[4]
+								: "-",
+						overs:
+							overallBowlingIplStats && overallBowlingIplStats[1]
+								? overallBowlingIplStats[1]
+								: "-",
+						maidens:
+							overallBowlingIplStats && overallBowlingIplStats[2]
+								? overallBowlingIplStats[2]
+								: "-",
+						runs_conceded:
+							overallBowlingIplStats && overallBowlingIplStats[4]
+								? overallBowlingIplStats[4]
+								: "-",
+						economy:
+							overallBowlingIplStats && overallBowlingIplStats[9]
+								? overallBowlingIplStats[9]
+								: "-",
+						bowling_strike_rate:
+							overallBowlingIplStats && overallBowlingIplStats[10]
+								? overallBowlingIplStats[10]
+								: "-",
+						best_bowling_figures:
+							overallBowlingIplStats && overallBowlingIplStats[5]
+								? overallBowlingIplStats[5]
+								: "-",
+						three_wicket_hauls:
+							overallBowlingIplStats && overallBowlingIplStats[6]
+								? overallBowlingIplStats[6]
+								: "-",
+						five_wicket_hauls:
+							overallBowlingIplStats && overallBowlingIplStats[7]
+								? overallBowlingIplStats[7]
+								: "-",
+						catches:
+							overallBattingIplStats && overallBattingIplStats[11]
+								? overallBattingIplStats[11]
+								: "-",
+						stumping:
+							overallBattingIplStats && overallBattingIplStats[12]
+								? overallBattingIplStats[12]
+								: "-",
+						run_outs:
+							overallBattingIplStats && overallBattingIplStats[16]
+								? overallBattingIplStats[16]
+								: "-",
+					},
+					man_of_the_matches: Object.values(
+						data.data[7]?.mom?.IPL || {},
+					).map((match: any) => ({
+						match_id: match.Match_Id,
+						date: match.Date,
+						opponent: match.Vs,
+						opponent_id: match.Vs_Id,
+						venue: match.Venue,
+						venue_id: match.Venue_Id,
+						match_result: match.Match_result,
+					})),
+					recent_games: Object.values(
+						data.data[8]?.last_5?.IPL?.Performance || {},
+					).map((game: any) => ({
+						match_id: game.Match_Id,
+						batting_score: game.Bat_Score,
+						bowling_score: game.Bowl_Score,
+						opponent: game.Against,
+						date: game.Date,
+					})),
+					captaincy: data.data[9]?.captaincy?.IPL
+						? {
+								matches: data.data[9].captaincy.IPL[0] || "-",
+								win: data.data[9].captaincy.IPL[1] || "-",
+								lose: data.data[9].captaincy.IPL[2] || "-",
+								tied: data.data[9].captaincy.IPL[3] || "-",
+								draw: data.data[9].captaincy.IPL[4] || "-",
+								no_result: data.data[9].captaincy.IPL[5] || "-",
+								win_percentage:
+									data.data[9].captaincy.IPL[6] || "-",
+								loss_percentage:
+									data.data[9].captaincy.IPL[7] || "-",
+						  }
+						: {
+								matches: "-",
+								win: "-",
+								lose: "-",
+								tied: "-",
+								draw: "-",
+								no_result: "-",
+								win_percentage: "-",
+								loss_percentage: "-",
+						  },
+				},
+			],
+		};
+
 		fs.writeFileSync(
 			path.join(DATA_DIR, "player_profile", `pprofile_${playerId}.json`),
 			JSON.stringify(playerNode, null, 2),
+		);
+
+		fs.writeFileSync(
+			path.join(
+				DATA_DIR,
+				"player_stats",
+				`pprofilestats_${playerId}.json`,
+			),
+			JSON.stringify(playerStatsNode, null, 2),
 		);
 	}
 

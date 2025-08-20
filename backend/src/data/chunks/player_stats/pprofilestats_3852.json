@@ -1,0 +1,270 @@
+{
+  "id": "pprofilestats_3852",
+  "type": "player_career_stats",
+  "player": "Rohit Sharma",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "272",
+        "runs": "7046",
+        "batting_strike_rate": "132.10",
+        "batting_average": "29.73",
+        "fifties": "47",
+        "hundreds": "2",
+        "ducks": "18",
+        "highest_score": "109* v KKR",
+        "wickets": "15",
+        "overs": "56.3",
+        "maidens": "0",
+        "runs_conceded": "15",
+        "economy": "8.02",
+        "bowling_strike_rate": "22.60",
+        "best_bowling_figures": "4/6 v MI",
+        "three_wicket_hauls": "1",
+        "five_wicket_hauls": "0",
+        "catches": "102",
+        "stumping": "0",
+        "run_outs": "10"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "5116",
+          "date": "May 6, 2009",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "SuperSport Park, Centurion",
+          "venue_id": "153",
+          "match_result": "Deccan Chargers beat Mumbai Indians by 19 runs"
+        },
+        {
+          "match_id": "5133",
+          "date": "May 16, 2009",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "The Wanderers Stadium, Johannesburg",
+          "venue_id": "111",
+          "match_result": "Deccan Chargers beat Kolkata Knight Riders by 6 wickets"
+        },
+        {
+          "match_id": "7489",
+          "date": "April 16, 2010",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+          "venue_id": "248",
+          "match_result": "Deccan Chargers beat Kings XI Punjab by 5 wickets"
+        },
+        {
+          "match_id": "92414",
+          "date": "April 9, 2012",
+          "opponent": "Deccan Chargers",
+          "opponent_id": "1112",
+          "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+          "venue_id": "185",
+          "match_result": "Mumbai Indians beat Deccan Chargers by 5 wickets"
+        },
+        {
+          "match_id": "92505",
+          "date": "May 12, 2012",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Mumbai Indians beat Kolkata Knight Riders by 27 runs"
+        },
+        {
+          "match_id": "172266",
+          "date": "April 13, 2013",
+          "opponent": "Pune Warriors India",
+          "opponent_id": "1244",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Mumbai Indians beat Pune Warriors India by 41 runs"
+        },
+        {
+          "match_id": "172292",
+          "date": "April 29, 2013",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Mumbai Indians beat Kings XI Punjab by 4 runs"
+        },
+        {
+          "match_id": "175944",
+          "date": "May 6, 2014",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Mumbai Indians beat Royal Challengers Bangalore by 19 runs"
+        },
+        {
+          "match_id": "178080",
+          "date": "May 24, 2015",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Mumbai Indians beat Chennai Super Kings by 41 runs"
+        },
+        {
+          "match_id": "181031",
+          "date": "April 13, 2016",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Mumbai Indians beat Kolkata Knight Riders by 6 wickets"
+        },
+        {
+          "match_id": "181040",
+          "date": "April 20, 2016",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Mumbai Indians beat Royal Challengers Bangalore by 6 wickets"
+        },
+        {
+          "match_id": "181050",
+          "date": "April 28, 2016",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Mumbai Indians beat Kolkata Knight Riders by 6 wickets"
+        },
+        {
+          "match_id": "181055",
+          "date": "May 1, 2016",
+          "opponent": "Rising Pune Supergiant",
+          "opponent_id": "1508",
+          "venue": "Maharashtra Cricket Association Stadium, Pune",
+          "venue_id": "1763",
+          "match_result": "Mumbai Indians beat Rising Pune Supergiants by 8 wickets"
+        },
+        {
+          "match_id": "183415",
+          "date": "May 1, 2017",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Mumbai Indians beat Royal Challengers Bangalore by 5 wickets"
+        },
+        {
+          "match_id": "186184",
+          "date": "April 17, 2018",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Mumbai Indians beat Royal Challengers Bangalore by 46 runs"
+        },
+        {
+          "match_id": "186197",
+          "date": "April 28, 2018",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Maharashtra Cricket Association Stadium, Pune",
+          "venue_id": "1763",
+          "match_result": "Mumbai Indians beat Chennai Super Kings by 8 wickets"
+        },
+        {
+          "match_id": "190315",
+          "date": "April 26, 2019",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Mumbai Indians beat Chennai Super Kings by 46 runs"
+        },
+        {
+          "match_id": "197692",
+          "date": "September 23, 2020",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Zayed Cricket Stadium, Abu Dhabi",
+          "venue_id": "174",
+          "match_result": "Mumbai Indians beat Kolkata Knight Riders by 49 runs"
+        },
+        {
+          "match_id": "222188",
+          "date": "April 11, 2023",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Mumbai Indians beat Delhi Capitals by 6 wickets"
+        },
+        {
+          "match_id": "257252",
+          "date": "April 20, 2025",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Mumbai Indians beat Chennai Super Kings by 9 wickets"
+        },
+        {
+          "match_id": "260873",
+          "date": "May 30, 2025",
+          "opponent": "Gujarat Titans",
+          "opponent_id": "2955",
+          "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+          "venue_id": "2189",
+          "match_result": "Mumbai Indians beat Gujarat Titans by 20 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260874",
+          "batting_score": "8(7)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "June 1, 2025"
+        },
+        {
+          "match_id": "260873",
+          "batting_score": "81(50)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "May 30, 2025"
+        },
+        {
+          "match_id": "260870",
+          "batting_score": "24(21)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "May 26, 2025"
+        },
+        {
+          "match_id": "260865",
+          "batting_score": "5(5)",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "May 21, 2025"
+        },
+        {
+          "match_id": "257270",
+          "batting_score": "7(8)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "May 6, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "158",
+        "win": "87",
+        "lose": "67",
+        "tied": "4",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "55.06",
+        "loss_percentage": "42.4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "pprofilestats_74055",
+  "type": "player_career_stats",
+  "player": "Akash Madhwal",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "17",
+        "runs": "8",
+        "batting_strike_rate": "57.14",
+        "batting_average": "-",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "4* v RR",
+        "wickets": "23",
+        "overs": "58.4",
+        "maidens": "0",
+        "runs_conceded": "23",
+        "economy": "10.05",
+        "bowling_strike_rate": "15.30",
+        "best_bowling_figures": "5/5 v LSG",
+        "three_wicket_hauls": "4",
+        "five_wicket_hauls": "1",
+        "catches": "1",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "225988",
+          "date": "May 24, 2023",
+          "opponent": "Lucknow Super Giants",
+          "opponent_id": "2954",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Mumbai Indians beat Lucknow Super Giants by 81 runs"
+        },
+        {
+          "match_id": "260864",
+          "date": "May 20, 2025",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Rajasthan Royals beat Chennai Super Kings by 6 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260864",
+          "batting_score": "DNB",
+          "bowling_score": "3/29",
+          "opponent": "Chennai Super Kings",
+          "date": "May 20, 2025"
+        },
+        {
+          "match_id": "260861",
+          "batting_score": "DNB",
+          "bowling_score": "1/48",
+          "opponent": "Punjab Kings",
+          "date": "May 18, 2025"
+        },
+        {
+          "match_id": "257267",
+          "batting_score": "DNB",
+          "bowling_score": "0/50",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 04, 2025"
+        },
+        {
+          "match_id": "257264",
+          "batting_score": "4*(9)",
+          "bowling_score": "0/39",
+          "opponent": "Mumbai Indians",
+          "date": "May 01, 2025"
+        },
+        {
+          "match_id": "243035",
+          "batting_score": "DNB",
+          "bowling_score": "1/46",
+          "opponent": "Punjab Kings",
+          "date": "Apr 18, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

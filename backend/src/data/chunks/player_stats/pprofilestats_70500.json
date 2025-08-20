@@ -1,0 +1,117 @@
+{
+  "id": "pprofilestats_70500",
+  "type": "player_career_stats",
+  "player": "Harpreet Brar",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "49",
+        "runs": "244",
+        "batting_strike_rate": "120.20",
+        "batting_average": "20.33",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "29 v GT",
+        "wickets": "35",
+        "overs": "135.1",
+        "maidens": "1",
+        "runs_conceded": "35",
+        "economy": "8.03",
+        "bowling_strike_rate": "23.17",
+        "best_bowling_figures": "4/30 v DC",
+        "three_wicket_hauls": "3",
+        "five_wicket_hauls": "0",
+        "catches": "14",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "201027",
+          "date": "April 30, 2021",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Narendra Modi Stadium, Ahmedabad",
+          "venue_id": "137",
+          "match_result": "Punjab Kings beat Royal Challengers Bangalore by 34 runs"
+        },
+        {
+          "match_id": "210534",
+          "date": "May 22, 2022",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Punjab Kings beat Sunrisers Hyderabad by 5 wickets"
+        },
+        {
+          "match_id": "243054",
+          "date": "May 1, 2024",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Punjab Kings beat Chennai Super Kings by 7 wickets"
+        },
+        {
+          "match_id": "260861",
+          "date": "May 18, 2025",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "Sawai Mansingh Stadium, Jaipur",
+          "venue_id": "139",
+          "match_result": "Punjab Kings beat Rajasthan Royals by 10 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260872",
+          "batting_score": "4(11)",
+          "bowling_score": "0/18",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 29, 2025"
+        },
+        {
+          "match_id": "260870",
+          "batting_score": "DNB",
+          "bowling_score": "1/36",
+          "opponent": "Mumbai Indians",
+          "date": "May 26, 2025"
+        },
+        {
+          "match_id": "260896",
+          "batting_score": "7*(2)",
+          "bowling_score": "2/41",
+          "opponent": "Delhi Capitals",
+          "date": "May 24, 2025"
+        },
+        {
+          "match_id": "260861",
+          "batting_score": "DNB",
+          "bowling_score": "3/22",
+          "opponent": "Rajasthan Royals",
+          "date": "May 18, 2025"
+        },
+        {
+          "match_id": "257263",
+          "batting_score": "DNB",
+          "bowling_score": "1/21",
+          "opponent": "Chennai Super Kings",
+          "date": "April 30, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

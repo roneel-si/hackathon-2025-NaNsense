@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_58065",
+  "type": "player_career_stats",
+  "player": "Dushmantha Chameera",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "19",
+        "runs": "53",
+        "batting_strike_rate": "126.19",
+        "batting_average": "13.25",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "2",
+        "highest_score": "17 v PBKS",
+        "wickets": "13",
+        "overs": "62",
+        "maidens": "0",
+        "runs_conceded": "13",
+        "economy": "9.73",
+        "bowling_strike_rate": "28.62",
+        "best_bowling_figures": "2/17 v PBKS",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "3",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "260865",
+          "batting_score": "8*(10)",
+          "bowling_score": "1/54",
+          "opponent": "Mumbai Indians",
+          "date": "May 21, 2025"
+        },
+        {
+          "match_id": "260862",
+          "batting_score": "DNB",
+          "bowling_score": "0/22",
+          "opponent": "Gujarat Titans",
+          "date": "May 18, 2025"
+        },
+        {
+          "match_id": "257269",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 5, 2025"
+        },
+        {
+          "match_id": "257262",
+          "batting_score": "2*(3)",
+          "bowling_score": "1/46",
+          "opponent": "Kolkata Knight Riders",
+          "date": "April 29, 2025"
+        },
+        {
+          "match_id": "257260",
+          "batting_score": "0*(1)",
+          "bowling_score": "1/24",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "April 27, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

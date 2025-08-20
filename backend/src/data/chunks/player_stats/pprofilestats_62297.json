@@ -1,0 +1,108 @@
+{
+  "id": "pprofilestats_62297",
+  "type": "player_career_stats",
+  "player": "Karun Nair",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "84",
+        "runs": "1694",
+        "batting_strike_rate": "131.72",
+        "batting_average": "23.85",
+        "fifties": "11",
+        "hundreds": "0",
+        "ducks": "5",
+        "highest_score": "89 v MI",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "25",
+        "stumping": "0",
+        "run_outs": "2"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "175940",
+          "date": "May 3 2014",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Rajasthan Royals beat Delhi Daredevils by 7 wickets"
+        },
+        {
+          "match_id": "181078",
+          "date": "May 20 2016",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+          "venue_id": "1428",
+          "match_result": "Delhi Daredevils beat Sunrisers Hyderabad by 6 wickets"
+        },
+        {
+          "match_id": "183429",
+          "date": "May 12 2017",
+          "opponent": "Rising Pune Supergiant",
+          "opponent_id": "1508",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Delhi Daredevils beat Rising Pune Supergiant by 7 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260896",
+          "batting_score": "44(27)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "May 24 2025"
+        },
+        {
+          "match_id": "257269",
+          "batting_score": "0(1)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 5 2025"
+        },
+        {
+          "match_id": "257262",
+          "batting_score": "15(13)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Apr 29 2025"
+        },
+        {
+          "match_id": "257260",
+          "batting_score": "4(4)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Apr 27 2025"
+        },
+        {
+          "match_id": "257254",
+          "batting_score": "15(9)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "Apr 22 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "3",
+        "win": "2",
+        "lose": "1",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "66.67",
+        "win_percentage": "33.33",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

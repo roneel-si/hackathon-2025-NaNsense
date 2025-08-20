@@ -1,0 +1,243 @@
+{
+  "id": "pprofilestats_3676",
+  "type": "player_career_stats",
+  "player": "MS Dhoni",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "278",
+        "runs": "5439",
+        "batting_strike_rate": "137.45",
+        "batting_average": "38.30",
+        "fifties": "24",
+        "hundreds": "0",
+        "ducks": "9",
+        "highest_score": "84* v RCB",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "158",
+        "stumping": "47",
+        "run_outs": "10"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "4943",
+          "date": "Apr 28, 2008",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Chennai Super Kings beat Royal Challengers Bangalore by 13 runs"
+        },
+        {
+          "match_id": "4956",
+          "date": "May 08, 2008",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Chennai Super Kings beat Delhi Daredevils by 4 wickets"
+        },
+        {
+          "match_id": "5113",
+          "date": "May 04, 2009",
+          "opponent": "Deccan Chargers",
+          "opponent_id": "1112",
+          "venue": "Buffalo Park, East London",
+          "venue_id": "23",
+          "match_result": "Chennai Super Kings beat Deccan Chargers by 78 runs"
+        },
+        {
+          "match_id": "7551",
+          "date": "Mar 16, 2010",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Chennai Super Kings beat Kolkata Knight Riders by 55 runs"
+        },
+        {
+          "match_id": "7600",
+          "date": "Apr 18, 2010",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+          "venue_id": "248",
+          "match_result": "Chennai Super Kings beat Kings XI Punjab by 6 wickets"
+        },
+        {
+          "match_id": "91796",
+          "date": "May 12, 2011",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Delhi Daredevils by 18 runs"
+        },
+        {
+          "match_id": "92521",
+          "date": "May 23, 2012",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Chennai Super Kings beat Mumbai Indians by 38 runs"
+        },
+        {
+          "match_id": "172285",
+          "date": "Apr 25, 2013",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Sunrisers Hyderabad by 5 wickets"
+        },
+        {
+          "match_id": "172293",
+          "date": "Apr 30, 2013",
+          "opponent": "Pune Warriors India",
+          "opponent_id": "1244",
+          "venue": "Maharashtra Cricket Association Stadium, Pune",
+          "venue_id": "1763",
+          "match_result": "Chennai Super Kings beat Pune Warriors India by 37 runs"
+        },
+        {
+          "match_id": "172317",
+          "date": "May 14, 2013",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Delhi Daredevils by 33 runs"
+        },
+        {
+          "match_id": "175970",
+          "date": "May 24, 2014",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Chennai Super Kings beat Royal Challengers Bangalore by 8 wickets"
+        },
+        {
+          "match_id": "181079",
+          "date": "May 21, 2016",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+          "venue_id": "185",
+          "match_result": "Rising Pune Supergiants beat Kings XI Punjab by 4 wickets"
+        },
+        {
+          "match_id": "183401",
+          "date": "Apr 22, 2017",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Maharashtra Cricket Association Stadium, Pune",
+          "venue_id": "1763",
+          "match_result": "Rising Pune Supergiant beat Sunrisers Hyderabad by 6 wickets"
+        },
+        {
+          "match_id": "186194",
+          "date": "Apr 25, 2018",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Chennai Super Kings beat Royal Challengers Bangalore by 5 wickets"
+        },
+        {
+          "match_id": "189939",
+          "date": "Mar 31, 2019",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Rajasthan Royals by 8 runs"
+        },
+        {
+          "match_id": "190265",
+          "date": "Apr 11, 2019",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "Sawai Mansingh Stadium, Jaipur",
+          "venue_id": "139",
+          "match_result": "Chennai Super Kings beat Rajasthan Royals by 4 wickets"
+        },
+        {
+          "match_id": "190326",
+          "date": "May 01, 2019",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Delhi Capitals by 80 runs"
+        },
+        {
+          "match_id": "257244",
+          "date": "Apr 14, 2025",
+          "opponent": "Lucknow Super Giants",
+          "opponent_id": "2954",
+          "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+          "venue_id": "1900",
+          "match_result": "Chennai Super Kings beat Lucknow Super Giants by 5 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260868",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "May 25, 2025"
+        },
+        {
+          "match_id": "260864",
+          "batting_score": "16(17)",
+          "bowling_score": "-",
+          "opponent": "Rajasthan Royals",
+          "date": "May 20, 2025"
+        },
+        {
+          "match_id": "257271",
+          "batting_score": "17*(18)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 07, 2025"
+        },
+        {
+          "match_id": "257266",
+          "batting_score": "12(8)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 03, 2025"
+        },
+        {
+          "match_id": "257263",
+          "batting_score": "11(4)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "Apr 30, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "235",
+        "win": "136",
+        "lose": "97",
+        "tied": "0",
+        "draw": "2",
+        "no_result": "57.87",
+        "win_percentage": "41.28",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

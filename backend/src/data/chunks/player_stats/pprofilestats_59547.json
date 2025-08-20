@@ -1,0 +1,99 @@
+{
+  "id": "pprofilestats_59547",
+  "type": "player_career_stats",
+  "player": "Deepak Chahar",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "95",
+        "runs": "117",
+        "batting_strike_rate": "139.28",
+        "batting_average": "14.62",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "5",
+        "highest_score": "39 v PBKS",
+        "wickets": "88",
+        "overs": "319.1",
+        "maidens": "7",
+        "runs_conceded": "88",
+        "economy": "8.13",
+        "bowling_strike_rate": "21.76",
+        "best_bowling_figures": "4/13 v PBKS",
+        "three_wicket_hauls": "7",
+        "five_wicket_hauls": "0",
+        "catches": "15",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "190262",
+          "date": "Apr 09, 2019",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Kolkata Knight Riders by 7 wickets"
+        },
+        {
+          "match_id": "201004",
+          "date": "Apr 16, 2021",
+          "opponent": "Punjab Kings",
+          "opponent_id": "1107",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Chennai Super Kings beat Punjab Kings by 6 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260870",
+          "batting_score": "DNB",
+          "bowling_score": "0/28",
+          "opponent": "Punjab Kings",
+          "date": "May 26, 2025"
+        },
+        {
+          "match_id": "260865",
+          "batting_score": "DNB",
+          "bowling_score": "1/22",
+          "opponent": "Delhi Capitals",
+          "date": "May 21, 2025"
+        },
+        {
+          "match_id": "257270",
+          "batting_score": "8*(8)",
+          "bowling_score": "1/32",
+          "opponent": "Gujarat Titans",
+          "date": "May 06, 2025"
+        },
+        {
+          "match_id": "257264",
+          "batting_score": "DNB",
+          "bowling_score": "1/13",
+          "opponent": "Rajasthan Royals",
+          "date": "May 01, 2025"
+        },
+        {
+          "match_id": "257259",
+          "batting_score": "1*(1)",
+          "bowling_score": "0/38",
+          "opponent": "Lucknow Super Giants",
+          "date": "Apr 27, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

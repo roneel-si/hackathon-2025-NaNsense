@@ -1,0 +1,90 @@
+{
+  "id": "pprofilestats_67887",
+  "type": "player_career_stats",
+  "player": "Mukesh Choudhary",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "16",
+        "runs": "6",
+        "batting_strike_rate": "100.00",
+        "batting_average": "6",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "0",
+        "highest_score": "4 v MI",
+        "wickets": "17",
+        "overs": "52.3",
+        "maidens": "0",
+        "runs_conceded": "17",
+        "economy": "9.94",
+        "bowling_strike_rate": "18.53",
+        "best_bowling_figures": "4/46 v SRH",
+        "three_wicket_hauls": "2",
+        "five_wicket_hauls": "0",
+        "catches": "3",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "210497",
+          "date": "April 21, 2022",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Dr. DY Patil Sports Academy, Navi Mumbai",
+          "venue_id": "219",
+          "match_result": "Chennai Super Kings beat Mumbai Indians by 3 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "257236",
+          "batting_score": "DNB",
+          "bowling_score": "1/21",
+          "opponent": "Punjab Kings",
+          "date": "April 8, 2025"
+        },
+        {
+          "match_id": "257231",
+          "batting_score": "DNB",
+          "bowling_score": "0/50",
+          "opponent": "Delhi Capitals",
+          "date": "April 5, 2025"
+        },
+        {
+          "match_id": "241769",
+          "batting_score": "DNB",
+          "bowling_score": "0/27",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "April 5, 2024"
+        },
+        {
+          "match_id": "210532",
+          "batting_score": "DNB",
+          "bowling_score": "0/41",
+          "opponent": "Rajasthan Royals",
+          "date": "May 20, 2022"
+        },
+        {
+          "match_id": "210526",
+          "batting_score": "DNB",
+          "bowling_score": "0/28",
+          "opponent": "Gujarat Titans",
+          "date": "May 15, 2022"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

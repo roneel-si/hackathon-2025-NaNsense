@@ -1,0 +1,108 @@
+{
+  "id": "pprofilestats_70222",
+  "type": "player_career_stats",
+  "player": "Prabhsimran Singh",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "51",
+        "runs": "1305",
+        "batting_strike_rate": "151.92",
+        "batting_average": "25.59",
+        "fifties": "7",
+        "hundreds": "1",
+        "ducks": "4",
+        "highest_score": "103 v DC",
+        "wickets": "0",
+        "overs": "0",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "0.00",
+        "bowling_strike_rate": "0.00",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "6",
+        "stumping": "1",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "222231",
+          "date": "May 13, 2023",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Arun Jaitley Stadium, Delhi",
+          "venue_id": "54",
+          "match_result": "Punjab Kings beat Delhi Capitals by 31 runs"
+        },
+        {
+          "match_id": "257227",
+          "date": "April 1, 2025",
+          "opponent": "Lucknow Super Giants",
+          "opponent_id": "2954",
+          "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+          "venue_id": "1900",
+          "match_result": "Punjab Kings beat Lucknow Super Giants by 8 wickets"
+        },
+        {
+          "match_id": "257268",
+          "date": "May 4, 2025",
+          "opponent": "Lucknow Super Giants",
+          "opponent_id": "2954",
+          "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+          "venue_id": "248",
+          "match_result": "Punjab Kings beat Lucknow Super Giants by 37 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260875",
+          "batting_score": "26(22)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "June 3, 2025"
+        },
+        {
+          "match_id": "260874",
+          "batting_score": "6(9)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "June 1, 2025"
+        },
+        {
+          "match_id": "260872",
+          "batting_score": "18(10)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "May 29, 2025"
+        },
+        {
+          "match_id": "260870",
+          "batting_score": "13(16)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 26, 2025"
+        },
+        {
+          "match_id": "260896",
+          "batting_score": "28(18)",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "May 24, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

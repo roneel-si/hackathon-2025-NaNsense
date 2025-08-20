@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_61738",
+  "type": "player_career_stats",
+  "player": "Vijay Shankar",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "78",
+        "runs": "1233",
+        "batting_strike_rate": "129.78",
+        "batting_average": "26.23",
+        "fifties": "7",
+        "hundreds": "0",
+        "ducks": "4",
+        "highest_score": "69* v DC",
+        "wickets": "9",
+        "overs": "39.4",
+        "maidens": "0",
+        "runs_conceded": "9",
+        "economy": "8.67",
+        "bowling_strike_rate": "26.44",
+        "best_bowling_figures": "2/19 v MI",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "31",
+        "stumping": "0",
+        "run_outs": "1"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "257252",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "Apr 20, 2025"
+        },
+        {
+          "match_id": "257244",
+          "batting_score": "9(8)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "Apr 14, 2025"
+        },
+        {
+          "match_id": "257239",
+          "batting_score": "29(21)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Apr 11, 2025"
+        },
+        {
+          "match_id": "257236",
+          "batting_score": "2*(2)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "Apr 08, 2025"
+        },
+        {
+          "match_id": "257231",
+          "batting_score": "69*(54)",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "Apr 05, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "pprofilestats_88542",
+  "type": "player_career_stats",
+  "player": "Arshin Kulkarni",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "2",
+        "runs": "9",
+        "batting_strike_rate": "112.50",
+        "batting_average": "4.50",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "9 v KKR",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "-",
+        "stumping": "-",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "243059",
+          "batting_score": "9(7)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 05, 2024"
+        },
+        {
+          "match_id": "243053",
+          "batting_score": "0(1)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "Apr 30, 2024"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

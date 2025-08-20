@@ -1,0 +1,216 @@
+{
+  "id": "pprofilestats_60122",
+  "type": "player_career_stats",
+  "player": "KL Rahul",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "145",
+        "runs": "5222",
+        "batting_strike_rate": "136.02",
+        "batting_average": "46.21",
+        "fifties": "40",
+        "hundreds": "5",
+        "ducks": "6",
+        "highest_score": "132* v RCB",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "81",
+        "stumping": "7",
+        "run_outs": "4"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "186013",
+          "date": "Apr 08, 2018",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "I.S. Bindra Punjab Cricket Association Stadium, Mohali",
+          "venue_id": "125",
+          "match_result": "Kings XI Punjab beat Delhi Daredevils by 6 wickets"
+        },
+        {
+          "match_id": "186188",
+          "date": "Apr 21, 2018",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Kings XI Punjab beat Kolkata Knight Riders by 9 wickets (D/L method)"
+        },
+        {
+          "match_id": "190260",
+          "date": "Apr 08, 2019",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "I.S. Bindra Punjab Cricket Association Stadium, Mohali",
+          "venue_id": "125",
+          "match_result": "Kings XI Punjab beat Sunrisers Hyderabad by 6 wickets"
+        },
+        {
+          "match_id": "190331",
+          "date": "May 05, 2019",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "I.S. Bindra Punjab Cricket Association Stadium, Mohali",
+          "venue_id": "125",
+          "match_result": "Kings XI Punjab beat Chennai Super Kings by 6 wickets"
+        },
+        {
+          "match_id": "197693",
+          "date": "Sep 24, 2020",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Dubai International Stadium, Dubai",
+          "venue_id": "449",
+          "match_result": "Kings XI Punjab beat Royal Challengers Bangalore by 97 runs"
+        },
+        {
+          "match_id": "197718",
+          "date": "Oct 15, 2020",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Sharjah Cricket Stadium, Sharjah",
+          "venue_id": "143",
+          "match_result": "Kings XI Punjab beat Royal Challengers Bangalore by 8 wickets"
+        },
+        {
+          "match_id": "197723",
+          "date": "Oct 18, 2020",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Dubai International Stadium, Dubai",
+          "venue_id": "449",
+          "match_result": "Kings XI Punjab tied with Mumbai Indians (Kings XI Punjab  win Super Over  by 2 wickets)"
+        },
+        {
+          "match_id": "201013",
+          "date": "Apr 23, 2021",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Punjab Kings beat Mumbai Indians by 9 wickets"
+        },
+        {
+          "match_id": "204184",
+          "date": "Oct 01, 2021",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Dubai International Stadium, Dubai",
+          "venue_id": "449",
+          "match_result": "Punjab Kings beat Kolkata Knight Riders by 5 wickets"
+        },
+        {
+          "match_id": "204192",
+          "date": "Oct 07, 2021",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Dubai International Stadium, Dubai",
+          "venue_id": "449",
+          "match_result": "Punjab Kings beat Chennai Super Kings by 6 wickets"
+        },
+        {
+          "match_id": "210485",
+          "date": "Apr 16, 2022",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Brabourne Stadium, Mumbai",
+          "venue_id": "20",
+          "match_result": "Lucknow Super Giants beat Mumbai Indians by 18 runs"
+        },
+        {
+          "match_id": "210501",
+          "date": "Apr 24, 2022",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Lucknow Super Giants beat Mumbai Indians by 36 runs"
+        },
+        {
+          "match_id": "243036",
+          "date": "Apr 19, 2024",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+          "venue_id": "1900",
+          "match_result": "Lucknow Super Giants beat Chennai Super Kings by 8 wickets"
+        },
+        {
+          "match_id": "257231",
+          "date": "Apr 05, 2025",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Delhi Capitals beat Chennai Super Kings by 25 runs"
+        },
+        {
+          "match_id": "257238",
+          "date": "Apr 10, 2025",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Delhi Capitals beat Royal Challengers Bengaluru by 6 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260896",
+          "batting_score": "35(21)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "May 24, 2025"
+        },
+        {
+          "match_id": "260865",
+          "batting_score": "11(6)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 21, 2025"
+        },
+        {
+          "match_id": "260862",
+          "batting_score": "112*(65)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "May 18, 2025"
+        },
+        {
+          "match_id": "257269",
+          "batting_score": "10(14)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 05, 2025"
+        },
+        {
+          "match_id": "257262",
+          "batting_score": "7(5)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Apr 29, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "64",
+        "win": "31",
+        "lose": "31",
+        "tied": "2",
+        "draw": "0",
+        "no_result": "48.44",
+        "win_percentage": "48.44",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

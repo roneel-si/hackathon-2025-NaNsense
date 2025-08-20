@@ -1,0 +1,99 @@
+{
+  "id": "pprofilestats_64440",
+  "type": "player_career_stats",
+  "player": "Rahul Tewatia",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "108",
+        "runs": "1112",
+        "batting_strike_rate": "137.11",
+        "batting_average": "23.17",
+        "fifties": "1",
+        "hundreds": "0",
+        "ducks": "3",
+        "highest_score": "53 v PBKS",
+        "wickets": "32",
+        "overs": "140.3",
+        "maidens": "0",
+        "runs_conceded": "32",
+        "economy": "7.91",
+        "bowling_strike_rate": "26.34",
+        "best_bowling_figures": "3/18 v KKR",
+        "three_wicket_hauls": "4",
+        "five_wicket_hauls": "0",
+        "catches": "42",
+        "stumping": "0",
+        "run_outs": "2"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "197713",
+          "date": "October 11, 2020",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Dubai International Stadium, Dubai",
+          "venue_id": "449",
+          "match_result": "Rajasthan Royals beat Sunrisers Hyderabad by 5 wickets"
+        },
+        {
+          "match_id": "210507",
+          "date": "April 30, 2022",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Brabourne Stadium, Mumbai",
+          "venue_id": "20",
+          "match_result": "Gujarat Titans beat Royal Challengers Bangalore by 6 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260873",
+          "batting_score": "16*(11)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 30, 2025"
+        },
+        {
+          "match_id": "260868",
+          "batting_score": "14(10)",
+          "bowling_score": "-",
+          "opponent": "Chennai Super Kings",
+          "date": "May 25, 2025"
+        },
+        {
+          "match_id": "260866",
+          "batting_score": "2(3)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 22, 2025"
+        },
+        {
+          "match_id": "260862",
+          "batting_score": "DNB",
+          "bowling_score": "-",
+          "opponent": "Delhi Capitals",
+          "date": "May 18, 2025"
+        },
+        {
+          "match_id": "257270",
+          "batting_score": "11*(8)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 6, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "0",
+        "win": "0",
+        "lose": "0",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "0",
+        "loss_percentage": "0"
+      }
+    }
+  ]
+}

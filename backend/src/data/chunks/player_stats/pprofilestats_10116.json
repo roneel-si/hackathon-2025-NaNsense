@@ -1,0 +1,144 @@
+{
+  "id": "pprofilestats_10116",
+  "type": "player_career_stats",
+  "player": "Sandeep Sharma",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "137",
+        "runs": "60",
+        "batting_strike_rate": "80.00",
+        "batting_average": "10.00",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "10",
+        "highest_score": "9 v RCB",
+        "wickets": "146",
+        "overs": "506.5",
+        "maidens": "8",
+        "runs_conceded": "146",
+        "economy": "8.03",
+        "bowling_strike_rate": "20.82",
+        "best_bowling_figures": "5/18 v MI",
+        "three_wicket_hauls": "11",
+        "five_wicket_hauls": "1",
+        "catches": "22",
+        "stumping": "0",
+        "run_outs": "1"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "175886",
+          "date": "Apr 26, 2014",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Zayed Cricket Stadium, Abu Dhabi",
+          "venue_id": "174",
+          "match_result": "Kings XI Punjab beat Kolkata Knight Riders by 23 runs"
+        },
+        {
+          "match_id": "175889",
+          "date": "Apr 28, 2014",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Dubai International Stadium, Dubai",
+          "venue_id": "449",
+          "match_result": "Kings XI Punjab beat Royal Challengers Bangalore by 5 wickets"
+        },
+        {
+          "match_id": "175948",
+          "date": "May 09, 2014",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Kings XI Punjab beat Royal Challengers Bangalore by 32 runs"
+        },
+        {
+          "match_id": "183413",
+          "date": "Apr 30, 2017",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "I.S. Bindra Punjab Cricket Association Stadium, Mohali",
+          "venue_id": "125",
+          "match_result": "Kings XI Punjab beat Delhi Daredevils by 10 wickets"
+        },
+        {
+          "match_id": "183420",
+          "date": "May 05, 2017",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Kings XI Punjab beat Royal Challengers Bangalore by 19 runs"
+        },
+        {
+          "match_id": "197739",
+          "date": "Oct 31, 2020",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Sharjah Cricket Stadium, Sharjah",
+          "venue_id": "143",
+          "match_result": "Sunrisers Hyderabad beat Royal Challengers Bangalore by 5 wickets"
+        },
+        {
+          "match_id": "243040",
+          "date": "Apr 22, 2024",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Sawai Mansingh Stadium, Jaipur",
+          "venue_id": "139",
+          "match_result": "Rajasthan Royals beat Mumbai Indians by 9 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "257261",
+          "batting_score": "DNB",
+          "bowling_score": "1/33",
+          "opponent": "Gujarat Titans",
+          "date": "Apr 28, 2025"
+        },
+        {
+          "match_id": "257256",
+          "batting_score": "DNB",
+          "bowling_score": "2/45",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Apr 24, 2025"
+        },
+        {
+          "match_id": "257250",
+          "batting_score": "DNB",
+          "bowling_score": "1/55",
+          "opponent": "Lucknow Super Giants",
+          "date": "Apr 19, 2025"
+        },
+        {
+          "match_id": "257246",
+          "batting_score": "DNB",
+          "bowling_score": "0/33",
+          "opponent": "Delhi Capitals",
+          "date": "Apr 16, 2025"
+        },
+        {
+          "match_id": "257242",
+          "batting_score": "DNB",
+          "bowling_score": "0/29",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Apr 13, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

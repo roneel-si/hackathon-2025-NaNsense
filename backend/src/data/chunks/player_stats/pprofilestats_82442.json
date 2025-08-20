@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_82442",
+  "type": "player_career_stats",
+  "player": "Abishek Porel",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "31",
+        "runs": "661",
+        "batting_strike_rate": "149.88",
+        "batting_average": "25.42",
+        "fifties": "3",
+        "hundreds": "0",
+        "ducks": "2",
+        "highest_score": "65 v RR",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "9",
+        "stumping": "0",
+        "run_outs": "0"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "260865",
+          "batting_score": "6(9)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 21, 2025"
+        },
+        {
+          "match_id": "260862",
+          "batting_score": "30(19)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "May 18, 2025"
+        },
+        {
+          "match_id": "257269",
+          "batting_score": "8(10)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 05, 2025"
+        },
+        {
+          "match_id": "257262",
+          "batting_score": "4(2)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Apr 29, 2025"
+        },
+        {
+          "match_id": "257260",
+          "batting_score": "28(11)",
+          "bowling_score": "-",
+          "opponent": "Royal Challengers Bengaluru",
+          "date": "Apr 27, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

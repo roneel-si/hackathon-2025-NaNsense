@@ -1,0 +1,80 @@
+{
+  "id": "pprofilestats_59611",
+  "type": "player_career_stats",
+  "player": "Jayant Yadav",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "20",
+        "runs": "40",
+        "batting_strike_rate": "111.11",
+        "batting_average": "10.00",
+        "fifties": "0",
+        "hundreds": "0",
+        "ducks": "1",
+        "highest_score": "23 v DC",
+        "wickets": "8",
+        "overs": "65",
+        "maidens": "0",
+        "runs_conceded": "8",
+        "economy": "6.84",
+        "bowling_strike_rate": "48.75",
+        "best_bowling_figures": "1/8 v CSK",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "7",
+        "stumping": "0",
+        "run_outs": "2"
+      },
+      "man_of_the_matches": [],
+      "recent_games": [
+        {
+          "match_id": "222202",
+          "batting_score": "DNB",
+          "bowling_score": "0/26",
+          "opponent": "Lucknow Super Giants",
+          "date": "Apr 22, 2023"
+        },
+        {
+          "match_id": "204190",
+          "batting_score": "DNB",
+          "bowling_score": "0/17",
+          "opponent": "Rajasthan Royals",
+          "date": "Oct 05, 2021"
+        },
+        {
+          "match_id": "204185",
+          "batting_score": "11(4)",
+          "bowling_score": "1/31",
+          "opponent": "Delhi Capitals",
+          "date": "Oct 02, 2021"
+        },
+        {
+          "match_id": "201021",
+          "batting_score": "DNB",
+          "bowling_score": "0/37",
+          "opponent": "Rajasthan Royals",
+          "date": "Apr 29, 2021"
+        },
+        {
+          "match_id": "201013",
+          "batting_score": "0*(0)",
+          "bowling_score": "0/20",
+          "opponent": "Punjab Kings",
+          "date": "Apr 23, 2021"
+        }
+      ],
+      "captaincy": {
+        "matches": "-",
+        "win": "-",
+        "lose": "-",
+        "tied": "-",
+        "draw": "-",
+        "no_result": "-",
+        "win_percentage": "-",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

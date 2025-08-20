@@ -1,0 +1,117 @@
+{
+  "id": "pprofilestats_65687",
+  "type": "player_career_stats",
+  "player": "Rajat Patidar",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "42",
+        "runs": "1111",
+        "batting_strike_rate": "154.30",
+        "batting_average": "30.86",
+        "fifties": "9",
+        "hundreds": "1",
+        "ducks": "1",
+        "highest_score": "112* v LSG",
+        "wickets": "-",
+        "overs": "-",
+        "maidens": "-",
+        "runs_conceded": "-",
+        "economy": "-",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "-",
+        "three_wicket_hauls": "-",
+        "five_wicket_hauls": "-",
+        "catches": "10",
+        "stumping": "0",
+        "run_outs": "2"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "212382",
+          "date": "May 25, 2022",
+          "opponent": "Lucknow Super Giants",
+          "opponent_id": "2954",
+          "venue": "Eden Gardens, Kolkata",
+          "venue_id": "48",
+          "match_result": "Royal Challengers Bangalore beat Lucknow Super Giants by 14 runs"
+        },
+        {
+          "match_id": "243043",
+          "date": "Apr 25, 2024",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+          "venue_id": "158",
+          "match_result": "Royal Challengers Bengaluru beat Sunrisers Hyderabad by 35 runs"
+        },
+        {
+          "match_id": "257222",
+          "date": "Mar 28, 2025",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Royal Challengers Bengaluru beat Chennai Super Kings by 50 runs"
+        },
+        {
+          "match_id": "257235",
+          "date": "Apr 07, 2025",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Royal Challengers Bengaluru beat Mumbai Indians by 12 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260875",
+          "batting_score": "26(16)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "Jun 03, 2025"
+        },
+        {
+          "match_id": "260872",
+          "batting_score": "15*(8)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "May 29, 2025"
+        },
+        {
+          "match_id": "260871",
+          "batting_score": "14(7)",
+          "bowling_score": "-",
+          "opponent": "Lucknow Super Giants",
+          "date": "May 27, 2025"
+        },
+        {
+          "match_id": "260867",
+          "batting_score": "18(16)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 23, 2025"
+        },
+        {
+          "match_id": "257266",
+          "batting_score": "11(15)",
+          "bowling_score": "-",
+          "opponent": "Chennai Super Kings",
+          "date": "May 03, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "13",
+        "win": "10",
+        "lose": "3",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "76.92",
+        "win_percentage": "23.08",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}

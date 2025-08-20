@@ -1,0 +1,171 @@
+{
+  "id": "pprofilestats_28891",
+  "type": "player_career_stats",
+  "player": "Faf du Plessis",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "154",
+        "runs": "4773",
+        "batting_strike_rate": "135.79",
+        "batting_average": "35.1",
+        "fifties": "39",
+        "hundreds": "0",
+        "ducks": "7",
+        "highest_score": "96 v PBKS",
+        "wickets": "0",
+        "overs": "1",
+        "maidens": "0",
+        "runs_conceded": "0",
+        "economy": "16.00",
+        "bowling_strike_rate": "-",
+        "best_bowling_figures": "0/16 v DCH",
+        "three_wicket_hauls": "0",
+        "five_wicket_hauls": "0",
+        "catches": "85",
+        "stumping": "0",
+        "run_outs": "6"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "92421",
+          "date": "April 12, 2012",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Royal Challengers Bangalore by 5 wickets"
+        },
+        {
+          "match_id": "92439",
+          "date": "April 21, 2012",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Rajasthan Royals by 7 wickets"
+        },
+        {
+          "match_id": "186227",
+          "date": "May 22, 2018",
+          "opponent": "Sunrisers Hyderabad",
+          "opponent_id": "1379",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Chennai Super Kings beat Sunrisers Hyderabad by 2 wickets"
+        },
+        {
+          "match_id": "190611",
+          "date": "May 10, 2019",
+          "opponent": "Delhi Capitals",
+          "opponent_id": "1109",
+          "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+          "venue_id": "185",
+          "match_result": "Chennai Super Kings beat Delhi Capitals by 6 wickets"
+        },
+        {
+          "match_id": "201011",
+          "date": "April 21, 2021",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Wankhede Stadium, Mumbai",
+          "venue_id": "168",
+          "match_result": "Chennai Super Kings beat Kolkata Knight Riders by 18 runs"
+        },
+        {
+          "match_id": "204199",
+          "date": "October 15, 2021",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "Dubai International Stadium, Dubai",
+          "venue_id": "449",
+          "match_result": "Chennai Super Kings beat Kolkata Knight Riders by 27 runs"
+        },
+        {
+          "match_id": "210495",
+          "date": "April 19, 2022",
+          "opponent": "Lucknow Super Giants",
+          "opponent_id": "2954",
+          "venue": "Dr. DY Patil Sports Academy, Navi Mumbai",
+          "venue_id": "219",
+          "match_result": "Royal Challengers Bangalore beat Lucknow Super Giants by 18 runs"
+        },
+        {
+          "match_id": "219158",
+          "date": "April 2, 2023",
+          "opponent": "Mumbai Indians",
+          "opponent_id": "1111",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Royal Challengers Bangalore beat Mumbai Indians by 8 wickets"
+        },
+        {
+          "match_id": "222215",
+          "date": "May 1, 2023",
+          "opponent": "Lucknow Super Giants",
+          "opponent_id": "2954",
+          "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+          "venue_id": "1900",
+          "match_result": "Royal Challengers Bangalore beat Lucknow Super Giants by 18 runs"
+        },
+        {
+          "match_id": "243073",
+          "date": "May 18, 2024",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "M.Chinnaswamy Stadium, Bengaluru",
+          "venue_id": "90",
+          "match_result": "Royal Challengers Bengaluru beat Chennai Super Kings by 27 runs"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260896",
+          "batting_score": "23(15)",
+          "bowling_score": "-",
+          "opponent": "Punjab Kings",
+          "date": "May 24, 2025"
+        },
+        {
+          "match_id": "260865",
+          "batting_score": "6(7)",
+          "bowling_score": "-",
+          "opponent": "Mumbai Indians",
+          "date": "May 21, 2025"
+        },
+        {
+          "match_id": "260862",
+          "batting_score": "5(10)",
+          "bowling_score": "-",
+          "opponent": "Gujarat Titans",
+          "date": "May 18, 2025"
+        },
+        {
+          "match_id": "257269",
+          "batting_score": "3(8)",
+          "bowling_score": "-",
+          "opponent": "Sunrisers Hyderabad",
+          "date": "May 5, 2025"
+        },
+        {
+          "match_id": "257262",
+          "batting_score": "62(45)",
+          "bowling_score": "-",
+          "opponent": "Kolkata Knight Riders",
+          "date": "April 29, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "44",
+        "win": "22",
+        "lose": "22",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "0",
+        "win_percentage": "50",
+        "loss_percentage": "50"
+      }
+    }
+  ]
+}

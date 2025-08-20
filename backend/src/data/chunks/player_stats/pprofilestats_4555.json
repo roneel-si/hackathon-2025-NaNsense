@@ -1,0 +1,135 @@
+{
+  "id": "pprofilestats_4555",
+  "type": "player_career_stats",
+  "player": "Ravichandran Ashwin",
+  "stats": [
+    {
+      "league": "IPL",
+      "career": {
+        "matches": "221",
+        "runs": "833",
+        "batting_strike_rate": "118.15",
+        "batting_average": "13.01",
+        "fifties": "1",
+        "hundreds": "0",
+        "ducks": "19",
+        "highest_score": "50 v DC",
+        "wickets": "187",
+        "overs": "785",
+        "maidens": "4",
+        "runs_conceded": "187",
+        "economy": "7.20",
+        "bowling_strike_rate": "25.18",
+        "best_bowling_figures": "4/34 v PBKS",
+        "three_wicket_hauls": "9",
+        "five_wicket_hauls": "0",
+        "catches": "52",
+        "stumping": "0",
+        "run_outs": "7"
+      },
+      "man_of_the_matches": [
+        {
+          "match_id": "7502",
+          "date": "Apr 13, 2010",
+          "opponent": "Kolkata Knight Riders",
+          "opponent_id": "1106",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Chennai Super Kings beat Kolkata Knight Riders by 9 wickets"
+        },
+        {
+          "match_id": "190283",
+          "date": "Apr 16, 2019",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "I.S. Bindra Punjab Cricket Association Stadium, Mohali",
+          "venue_id": "125",
+          "match_result": "Kings XI Punjab beat Rajasthan Royals by 12 runs"
+        },
+        {
+          "match_id": "197710",
+          "date": "Oct 09, 2020",
+          "opponent": "Rajasthan Royals",
+          "opponent_id": "1110",
+          "venue": "Sharjah Cricket Stadium, Sharjah",
+          "venue_id": "143",
+          "match_result": "Delhi Capitals beat Rajasthan Royals by 46 runs"
+        },
+        {
+          "match_id": "210532",
+          "date": "May 20, 2022",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "Brabourne Stadium, Mumbai",
+          "venue_id": "20",
+          "match_result": "Rajasthan Royals beat Chennai Super Kings by 5 wickets"
+        },
+        {
+          "match_id": "222189",
+          "date": "Apr 12, 2023",
+          "opponent": "Chennai Super Kings",
+          "opponent_id": "1108",
+          "venue": "MA Chidambaram Stadium, Chennai",
+          "venue_id": "91",
+          "match_result": "Rajasthan Royals beat Chennai Super Kings by 3 runs"
+        },
+        {
+          "match_id": "243077",
+          "date": "May 22, 2024",
+          "opponent": "Royal Challengers Bengaluru",
+          "opponent_id": "1105",
+          "venue": "Narendra Modi Stadium, Ahmedabad",
+          "venue_id": "137",
+          "match_result": "Rajasthan Royals beat Royal Challengers Bengaluru by 4 wickets"
+        }
+      ],
+      "recent_games": [
+        {
+          "match_id": "260864",
+          "batting_score": "13(8)",
+          "bowling_score": "2/41",
+          "opponent": "Rajasthan Royals",
+          "date": "May 20, 2025"
+        },
+        {
+          "match_id": "257271",
+          "batting_score": "8(7)",
+          "bowling_score": "0/19",
+          "opponent": "Kolkata Knight Riders",
+          "date": "May 07, 2025"
+        },
+        {
+          "match_id": "257252",
+          "batting_score": "DNB",
+          "bowling_score": "0/25",
+          "opponent": "Mumbai Indians",
+          "date": "Apr 20, 2025"
+        },
+        {
+          "match_id": "257239",
+          "batting_score": "1(7)",
+          "bowling_score": "0/30",
+          "opponent": "Kolkata Knight Riders",
+          "date": "Apr 11, 2025"
+        },
+        {
+          "match_id": "257236",
+          "batting_score": "DNB",
+          "bowling_score": "2/48",
+          "opponent": "Punjab Kings",
+          "date": "Apr 08, 2025"
+        }
+      ],
+      "captaincy": {
+        "matches": "28",
+        "win": "12",
+        "lose": "16",
+        "tied": "0",
+        "draw": "0",
+        "no_result": "42.86",
+        "win_percentage": "57.14",
+        "loss_percentage": "-"
+      }
+    }
+  ]
+}
