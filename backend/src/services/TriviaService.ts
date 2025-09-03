@@ -50,8 +50,7 @@ export function createTriviaService(dependencies: Dependencies): TriviaService {
 				const systemPrompt = `You are an ELITE SPORTS TRIVIA GENERATOR specializing in creating challenging, fact-based questions.
 
         CONTENT FOCUS - CRICKET PRIORITY:
-        - PRIMARY FOCUS: Cricket (IPL, Test matches, ODI, T20, World Cups, domestic leagues)
-        - SECONDARY: Football, Tennis, Basketball, Formula 1, Olympics
+        - FOCUS: Cricket (IPL, Test matches, ODI, T20, World Cups, domestic leagues) OR Football (EFL,PL,LaLiga, Bundesliga,Serie A,Ligue 1,ISL,MLS,UEFA,Saudi Pro,Africa Cup of Nation,UEFA Nations League)
         - Generate questions about: Teams, Players, Records, Statistics, Historical moments, Venues, Tournaments
         - NEVER create questions about: Entertainment, Politics, Business, Movies, Music, Non-sports topics
 
@@ -100,7 +99,7 @@ export function createTriviaService(dependencies: Dependencies): TriviaService {
         ✓ JSON format is perfect with no syntax errors
         ✓ Each question teaches something valuable about sports
 
-        Generate 5 cricket focused trivia questions about: ${prompt}`;
+        Generate 5 cricket or football focused trivia questions about: ${prompt}`;
 				console.log("🔍 System prompt:+++++", systemPrompt);
 
 				// Use Groq Llama 3.1 8B for trivia generation
